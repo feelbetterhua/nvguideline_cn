@@ -1,4 +1,4 @@
-<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="2019_0"></a>2019年的新维加斯入门指南</h1>
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="2019_0"></a>2019年新维加斯入门指南</h1>
 <p class="has-line-data" data-line-start="1" data-line-end="3"><img src="https://imgsa.baidu.com/forum/w%3D580/sign=d7c34610f936afc30e0c3f6d8318eb85/fa23ecdeb48f8c544062ceff34292df5e1fe7f1b.jpg" alt="intro" title="intro"><br>
 <strong>2019年了，新维加斯不应该是这个游戏体验</strong></p>
 <p class="has-line-data" data-line-start="4" data-line-end="7">本指南旨在建立一种一站式的入门指导，帮助你了解游玩新维加斯需要的准备工作。并整合最新的优化配置选项，使你以最快的速度以及最丝滑的方式体验废土的旅程。<br>
