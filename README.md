@@ -64,8 +64,8 @@ MO2：Mod Organizer 2（将很快安装）</p>
 如Steam的禁用方法为：在库中右键点击Fallout：New Vegas，选择 属性，在 常规 选项卡下找到 在游戏中启动Steam界面 并反勾选它。这一步会使你无法使用Steam自带的截图功能，完成成就时也不会有右下角弹窗，但是还是非常建议你不要启动这一项，新维加斯游戏内有成就提示，后面也会介绍其他截图方式。</p>
 <p class="has-line-data" data-line-start="65" data-line-end="69">4.设置Fallout New Vegas Modding文件夹：<br>
 您的modding文件夹将充当您安装的所有工具的主目录，以及任何备份/屏幕截图等。从现在开始，此文件夹将被称为Modding文件夹。<br>
-在与Fallout New Vegas安装相同的盘上的默认Windows文件夹之外的所选位置创建一个新文件夹，注意在根文件夹夹之外。将它命名为任何你喜欢的，如 <em>Fallout NV Modding</em> ，并创建两个子文件夹名为 <em>Backups</em> 和 <em>Tools</em><br>
-备份整个游戏，将Fallout New Vegas文件夹复制到刚才创建的Backups中</p>
+在与Fallout New Vegas安装相同的盘上的默认Windows文件夹之外的所选位置创建一个新文件夹，注意在根文件夹夹之外。将它命名为任何你喜欢的，如<em>Fallout NV Modding</em>，并创建两个子文件夹名为<em>Backups</em>和<em>Tools</em><br>
+备份整个游戏，将 Fallout New Vegas 文件夹复制到刚才创建的 Backups 中</p>
 <p class="has-line-data" data-line-start="70" data-line-end="73">5.生成新鲜的.INI文件：<br>
 从根文件夹运行 FalloutNVLauncher.exe<br>
 弹出 Detecting Video Hardware 的窗口，单击确定。之后弹出窗口提示程序根据你的硬件已设置画质，单击确定。</p>
@@ -104,8 +104,8 @@ MO2：Mod Organizer 2（将很快安装）</p>
 <a href="https://pan.baidu.com/s/1V8QuKdi6dusXVTamwxnuPg">https://pan.baidu.com/s/1V8QuKdi6dusXVTamwxnuPg</a> 提取码: hh7g<br>
 特别安装说明：<br>
 下载 Mod Organizer 2 (Archive) 主文件<br>
-在之前Fallout NV Modding文件夹下的Tools文件夹新建一个文件夹命名为 Mod Organizer 2<br>
-解压缩所有文件到Mod Organizer 2文件夹，进入目录右键单击ModOrganizer.exe并选择 属性<br>
+在之前Fallout NV Modding文件夹下的Tools文件夹新建一个文件夹命名为Mod Organizer 2<br>
+解压缩所有文件到 Mod Organizer 2 文件夹，进入目录右键单击 ModOrganizer.exe 并选择 属性<br>
 导航到 兼容性 选项卡，然后选中 以管理员身份运行此程序<br>
 选择 应用 然后单击确定退出<br>
 退出后暂时不要打开ModOrganizer.exe，后面会在配置时打开</p>
@@ -250,7 +250,7 @@ BethINI standalone是一个便携式应用程序。你可以在任何地方运�
 <li class="has-line-data" data-line-start="253" data-line-end="254">在 INI Path 一栏下拉菜单中选择您现在使用的Mod Organizer 2配置文件，如 ModOrganizer&gt;Core 。在弹出对话框中选择 确定 。此时会弹出对话框提示BethINI要重新启动，点击 确定 。重启后会弹出名为 Modify Custom INIs? 对话框，<strong>此时选择 否</strong> 。重新进入BethINI后导航到 Setup 选项卡，请确保全部5个选择框都没有选择。</li>
 <li class="has-line-data" data-line-start="254" data-line-end="255">导航到 Basic 选项卡，在 Presets 栏中选择 BethINI Presets ，再选择 Recommended Tweaks ，程序会自动优化相应的INI文件，之后请根据配置在 Poor 到 Ultra 中选择合适的画质选项。</li>
 <li class="has-line-data" data-line-start="255" data-line-end="256">选择完画质后在 Display 一栏中选择合适的分辨率，如果没有需要的分辨率则可以手动输入。可以自行选择 Antialiasing 和 Anisotropic Filtering 倍数。在右边选择 Allow 3.0 Shaders ，其他保持不变。最后选择最下方的 Enable File Selection (如果已经选择则不用管)，确定一切选择正确后点击 Save and Exit 退出。</li>
-<li class="has-line-data" data-line-start="256" data-line-end="257">等待程序关闭后导航到 <em>文档/My Games/FalloutNV</em> 打开 RendererInfo.txt ，查看下方 Shader Package 后的数字。如果是19，则不需要进一步修改。如果不是19，请导航到游戏根目录下 <em>data/Shaders</em> 文件夹找到对应Shader Package后数字的文件，如 shaderpackage013.sdp ，将其命名为 shaderpackage013.sdp.backup 。之后把 shaderpackage019.sdp 复制一份到其他位置，将复制的shaderpackage019.sdp重命名为shaderpackage013.sdp，再剪切回原文件夹。</li>
+<li class="has-line-data" data-line-start="256" data-line-end="257">等待程序关闭后导航到 <em>文档/My Games/FalloutNV</em> 打开 RendererInfo.txt ，查看下方 Shader Package 后的数字。如果是19，则不需要进一步修改。如果不是19，请导航到游戏根目录下 <em>data/Shaders</em> 文件夹找到对应Shader Package后数字的文件，如 shaderpackage013.sdp ，将其命名为shaderpackage013.sdp.backup。之后把 shaderpackage019.sdp 复制一份到其他位置，将其重命名为shaderpackage013.sdp，再剪切回原文件夹。</li>
 </ol>
 <blockquote>
 <p class="has-line-data" data-line-start="257" data-line-end="258">强制启用shaderpackage019以打开Shaders 3.0，这应该会增加游戏帧数及稳定性。</p>
