@@ -1,4 +1,4 @@
-<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="2019_0"></a>2019年新维加斯入门指南</h1>
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="2019_0"></a>2019年的新维加斯入门指南</h1>
 <p class="has-line-data" data-line-start="1" data-line-end="3"><img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/intro_pic.jpg?raw=true" alt="intro" title="intro"><br>
 <strong>2019年了，新维加斯不应该是这个游戏体验</strong></p>
 <p class="has-line-data" data-line-start="4" data-line-end="7">本指南旨在建立一种一站式的入门指导，帮助你了解游玩新维加斯需要的准备工作。并整合最新的优化配置选项，使你以最快的速度以及最丝滑的方式体验废土的旅程。<br>
@@ -242,22 +242,24 @@ BethINI试图统一管理由Bethesda创建的游戏的INI配置文件，同时�
 <p class="has-line-data" data-line-start="245" data-line-end="248">注意事项：<br>
 BethINI standalone是一个便携式应用程序。你可以在任何地方运行它，简单的解压并运行。不幸的是，独立版本很容易被防病毒软件标记为误报，所以最好请其添加到将杀毒软件的白名单中。<br>
 <strong>请注意，不要通过Mod Organizer 2运行，也不要在Mod Organizer 2打开时运行BethINI。</strong></p>
-<p class="has-line-data" data-line-start="249" data-line-end="258">安装使用说明：<br>
-1.运行前请确保已运行过FalloutNVLauncher.exe并生成了相应的INI文件<br>
-2.<strong>请确保Mod Organizer 2关闭</strong>，解压缩文件到 <em>/Fallout NV Modding/Tools</em> 文件夹，进入并运行 BethINI.exe<br>
-3.在弹出的窗口中下拉选择 Fallout New Vegas ，等待进入程序。<br>
-4.进入程序后导航到 Setup 选项卡，<strong>取消选择</strong>下方的全部选项方框。之后在 Mod Organizer 一栏下拉菜单中选择 Browse ,在弹出的框中导航到 Mod Organizer 2 文件夹并双击选择 ModOrganizer.exe<br>
-5.在 INI Path 一栏下拉菜单中选择您现在使用的Mod Organizer 2配置文件，如 ModOrganizer&gt;Core 。在弹出对话框中选择 确定 。此时会弹出对话框提示BethINI要重新启动，点击 确定 。重启后会弹出名为 Modify Custom INIs? 对话框，<strong>此时选择 否</strong> 。重新进入BethINI后导航到 Setup 选项卡，请确保全部5个选择框都没有选择。<br>
-6.导航到 Basic 选项卡，在 Presets 栏中选择 BethINI Presets ，再选择 Recommended Tweaks ，程序会自动优化相应的INI文件，之后请根据配置在 Poor 到 Ultra 中选择合适的画质选项。<br>
-7.选择完画质后在 Display 一栏中选择合适的分辨率，如果没有需要的分辨率则可以手动输入。可以自行选择 Antialiasing 和 Anisotropic Filtering 倍数。在右边选择 Allow 3.0 Shaders ，其他保持不变。最后选择最下方的 Enable File Selection (如果已经选择则不用管)，确定一切选择正确后点击 Save and Exit 退出。<br>
-8.等待程序关闭后导航到 <em>文档/My Games/FalloutNV</em> 打开 RendererInfo.txt ，查看下方 Shader Package 后的数字。如果是19，则不需要进一步修改。如果不是19，请导航到游戏根目录下 <em>data/Shaders</em> 文件夹找到对应Shader Package后数字的文件，如 shaderpackage013.sdp ，将其命名为 shaderpackage013.sdp.backup 。之后把 shaderpackage019.sdp 复制一份到其他位置，将复制的shaderpackage019.sdp重命名为shaderpackage013.sdp，再剪切回原文件夹。</p>
+<p class="has-line-data" data-line-start="249" data-line-end="250">安装使用说明：</p>
+<ol>
+<li class="has-line-data" data-line-start="250" data-line-end="251">运行前请确保已运行过FalloutNVLauncher.exe并生成了相应的INI文件</li>
+<li class="has-line-data" data-line-start="251" data-line-end="252"><strong>请确保Mod Organizer 2关闭</strong>，解压缩文件到 <em>/Fallout NV Modding/Tools</em> 文件夹，进入并运行 BethINI.exe</li>
+<li class="has-line-data" data-line-start="252" data-line-end="253">在弹出的窗口中下拉选择 Fallout New Vegas ，等待进入程序。</li>
+<li class="has-line-data" data-line-start="253" data-line-end="254">进入程序后导航到 Setup 选项卡，<strong>取消选择</strong>下方的全部选项方框。之后在 Mod Organizer 一栏下拉菜单中选择 Browse ,在弹出的框中导航到 Mod Organizer 2 文件夹并双击选择 ModOrganizer.exe</li>
+<li class="has-line-data" data-line-start="254" data-line-end="255">在 INI Path 一栏下拉菜单中选择您现在使用的Mod Organizer 2配置文件，如 ModOrganizer&gt;Core 。在弹出对话框中选择 确定 。此时会弹出对话框提示BethINI要重新启动，点击 确定 。重启后会弹出名为 Modify Custom INIs? 对话框，<strong>此时选择 否</strong> 。重新进入BethINI后导航到 Setup 选项卡，请确保全部5个选择框都没有选择。</li>
+<li class="has-line-data" data-line-start="255" data-line-end="256">导航到 Basic 选项卡，在 Presets 栏中选择 BethINI Presets ，再选择 Recommended Tweaks ，程序会自动优化相应的INI文件，之后请根据配置在 Poor 到 Ultra 中选择合适的画质选项。</li>
+<li class="has-line-data" data-line-start="256" data-line-end="257">选择完画质后在 Display 一栏中选择合适的分辨率，如果没有需要的分辨率则可以手动输入。可以自行选择 Antialiasing 和 Anisotropic Filtering 倍数。在右边选择 Allow 3.0 Shaders ，其他保持不变。最后选择最下方的 Enable File Selection (如果已经选择则不用管)，确定一切选择正确后点击 Save and Exit 退出。</li>
+<li class="has-line-data" data-line-start="257" data-line-end="258">等待程序关闭后导航到 <em>文档/My Games/FalloutNV</em> 打开 RendererInfo.txt ，查看下方 Shader Package 后的数字。如果是19，则不需要进一步修改。如果不是19，请导航到游戏根目录下 <em>data/Shaders</em> 文件夹找到对应Shader Package后数字的文件，如 shaderpackage013.sdp ，将其命名为 shaderpackage013.sdp.backup 。之后把 shaderpackage019.sdp 复制一份到其他位置，将复制的shaderpackage019.sdp重命名为shaderpackage013.sdp，再剪切回原文件夹。</li>
+</ol>
 <blockquote>
 <p class="has-line-data" data-line-start="258" data-line-end="259">强制启用shaderpackage019以打开Shaders 3.0，这应该会增加游戏帧数及稳定性。</p>
 </blockquote>
 <p class="has-line-data" data-line-start="260" data-line-end="261"><strong>在使用了BethINI之后，请不要再运行FalloutNVLauncher.exe，也不要在Steam中启动新维加斯。如果在以后的游戏流程中需要修改画质及其他选项，请阅读指南最后有关BethINI的说明。</strong></p>
 <p class="has-line-data" data-line-start="262" data-line-end="270">八、重要前置<br>
-在原指南中这部分使用的是MO2安装这些前置MOD，但这些MOD一般来说非常重要，且比较稳定，较少更新。如果你的MO2的配置不对或无意间没有激活这些MOD，有可能导致这些补丁失效。为了防止这种情况发生，该指南将使用直接安装的方式，这些MOD都是一些nvse插件，不会修改或覆盖游戏本体的文件。<br>
-还有要提前声明的是，曾经新维加斯的四大前置：NVSE NVSR NVAC Zan AutoPurge Crash Protector，这四个中的 NVSR 和 Zan AutoPurge Crash Protector 已经废弃。这两个被证实会对游戏稳定性产生负面影响，因此如果你是老玩家，看到本指南中没有安装以上两个插件，请不要疑惑。下面开始安装指南：<br>
+在原指南中这部分使用的是MO2安装这些前置MOD，但这些MOD一般来说非常重要，且比较稳定，较少更新。如果你的MO2的配置不对或无意间没有激活这些MOD，有可能导致这些补丁失效。为了防止这种情况发生，该指南使用直接安装的方式，这些MOD都是一些nvse插件，不会修改或覆盖游戏本体的文件。<br>
+还有要声明的是，曾经新维加斯的四大前置：NVSE NVSR NVAC Zan AutoPurge Crash Protector，这四个中的 NVSR 和 Zan AutoPurge Crash Protector 已经废弃。这两个插件被证实会对游戏稳定性产生负面影响，因此如果你是老玩家，看到本指南中没有安装以上两个插件，请不要疑惑。下面开始安装指南：<br>
 NVSE<br>
 <a href="http://nvse.silverlock.org/">http://nvse.silverlock.org/</a><br>
 特别安装说明：<br>
@@ -280,79 +282,79 @@ NVSE<br>
 <ul>
 <li class="has-line-data" data-line-start="282" data-line-end="284">具有800多种新功能的NVSE扩展</li>
 </ul>
-<p class="has-line-data" data-line-start="284" data-line-end="296">4GBpatch<br>
+<p class="has-line-data" data-line-start="284" data-line-end="291">4GBpatch<br>
 <a href="https://pan.baidu.com/s/1J5aaQVnJIml1V0YfL-teUA">https://pan.baidu.com/s/1J5aaQVnJIml1V0YfL-teUA</a> 提取码: bj3h<br>
 特殊安装说明：<br>
 将压缩包内的 4gb_patch.exe 解压到根目录<br>
 请确保<strong>没有</strong>运行Mod Organizer 2，导航到根目录，右键单击 4gb_patch.exe ，选择 以管理员身份运行<br>
 在弹出的窗口中双击选择 nvse_loader.exe ，应该弹出窗口显示 Executable successfully patched！<br>
-此时点击 Another File ，在弹出的窗口双击选择 FalloutNV.exe ，之后点击 OK 退出。<br>
-<strong>验证NVSE和4GBpatch是否运行：</strong><br>
+此时点击 Another File ，在弹出的窗口双击选择 FalloutNV.exe ，之后点击 OK 退出。</p>
+<p class="has-line-data" data-line-start="292" data-line-end="297"><strong>验证NVSE和4GBpatch是否运行：</strong><br>
 打开Mod Organizer 2，在右栏上方的下拉菜单选择 NVSE ，点击运行<br>
 进入游戏主菜单后，按 ~ 键打开控制台<br>
 将 getnvseversion 输入控制台并按Enter键<br>
 控制台应报告 NVSE version: 5</p>
 <blockquote>
-<p class="has-line-data" data-line-start="296" data-line-end="297">如果没有，请检查NVSE是否已正确安装并重试</p>
+<p class="has-line-data" data-line-start="297" data-line-end="298">如果没有，请检查NVSE是否已正确安装并重试</p>
 </blockquote>
-<p class="has-line-data" data-line-start="298" data-line-end="300">将 getislaa 输入控制台并按Enter键<br>
+<p class="has-line-data" data-line-start="299" data-line-end="301">将 getislaa 输入控制台并按Enter键<br>
 控制台应该报告 GetisLAA &gt;&gt; 2.0000</p>
 <blockquote>
-<p class="has-line-data" data-line-start="300" data-line-end="303">如果控制台报告 GetisLAA &gt;&gt; 0.0000，则说明补丁未正确安装<br>
+<p class="has-line-data" data-line-start="301" data-line-end="304">如果控制台报告 GetisLAA &gt;&gt; 0.0000，则说明补丁未正确安装<br>
 如果控制台报告 GetisLAA &gt;&gt; 1.0000，则修补程序已正确安装但无法正常运行，尝试以管理员身份运行<br>
 如果控制台报告错误消息，则表示您未正确安装JIP LN NVSE</p>
 </blockquote>
-<p class="has-line-data" data-line-start="304" data-line-end="305"><strong>验证完成，之后都在Mod Organizer 2中通过NVSE进行游戏</strong></p>
+<p class="has-line-data" data-line-start="305" data-line-end="306"><strong>验证完成，之后都在Mod Organizer 2中通过NVSE进行游戏</strong></p>
 <ul>
-<li class="has-line-data" data-line-start="306" data-line-end="308">使游戏能够识别大地址，这意味着它可以使用4GB RAM而不是2GB</li>
+<li class="has-line-data" data-line-start="307" data-line-end="309">使游戏能够识别大地址，这意味着它可以使用4GB RAM而不是2GB</li>
 </ul>
-<p class="has-line-data" data-line-start="308" data-line-end="309">通过Steam或GOG验证您的游戏文件将撤消补丁，因此您必须在验证游戏文件之后重新安装</p>
-<p class="has-line-data" data-line-start="310" data-line-end="314">New Vegas Anti-Crash<br>
+<p class="has-line-data" data-line-start="309" data-line-end="310">通过Steam或GOG验证您的游戏文件将撤消补丁，因此您必须在验证游戏文件之后重新安装</p>
+<p class="has-line-data" data-line-start="311" data-line-end="315">New Vegas Anti-Crash<br>
 <a href="https://pan.baidu.com/s/1QUI5GdNWxUjqbY9He8bV7Q">https://pan.baidu.com/s/1QUI5GdNWxUjqbY9He8bV7Q</a> 提取码: 4tv2<br>
 要安装的文件：<br>
 将压缩包内的 nvac.dll 解压到 Fallout New Vegas/Data/nvse/plugins/</p>
 <ul>
-<li class="has-line-data" data-line-start="314" data-line-end="316">实现结构化异常处理和健全性检查，以减少崩溃的数量</li>
+<li class="has-line-data" data-line-start="315" data-line-end="317">实现结构化异常处理和健全性检查，以减少崩溃的数量</li>
 </ul>
-<p class="has-line-data" data-line-start="316" data-line-end="322">New Vegas Tick Fix<br>
+<p class="has-line-data" data-line-start="317" data-line-end="323">New Vegas Tick Fix<br>
 <a href="https://pan.baidu.com/s/1MPn1m5UEAvuLy7BaS4WVUQ">https://pan.baidu.com/s/1MPn1m5UEAvuLy7BaS4WVUQ</a> 提取码: b8v1<br>
 特殊安装说明：<br>
 将压缩包内的所有文件解压到 Fallout New Vegas/Data/nvse/plugins/<br>
 进入到刚才解压的目录，打开 FastExitnTickCountReplace.ini<br>
 将 bFastResolution 设置为 1 并保存。</p>
 <ul>
-<li class="has-line-data" data-line-start="322" data-line-end="324">专为Windows 10而设计的NVSR版本</li>
+<li class="has-line-data" data-line-start="323" data-line-end="325">专为Windows 10而设计的NVSR版本</li>
 </ul>
-<p class="has-line-data" data-line-start="324" data-line-end="328">Console Paste Support<br>
+<p class="has-line-data" data-line-start="325" data-line-end="329">Console Paste Support<br>
 <a href="https://pan.baidu.com/s/1mGahxA4tm9shVhugZe5tJw">https://pan.baidu.com/s/1mGahxA4tm9shVhugZe5tJw</a> 提取码: vmbn<br>
 要安装的文件：<br>
 将压缩包内的 nvse_console_clipboard.dll 解压到 Fallout New Vegas/Data/nvse/plugins/</p>
 <ul>
-<li class="has-line-data" data-line-start="328" data-line-end="330">允许您将文本粘贴到控制台中，以及其他一些键盘快捷键</li>
+<li class="has-line-data" data-line-start="329" data-line-end="331">允许您将文本粘贴到控制台中，以及其他一些键盘快捷键</li>
 </ul>
-<p class="has-line-data" data-line-start="330" data-line-end="334">Ogg Vorbis Libraries<br>
+<p class="has-line-data" data-line-start="331" data-line-end="335">Ogg Vorbis Libraries<br>
 <a href="https://pan.baidu.com/s/1z458lr3DmM_8gPuk9b8_ug">https://pan.baidu.com/s/1z458lr3DmM_8gPuk9b8_ug</a> 提取码: pr2c<br>
 特别安装说明：<br>
 将压缩包内的文件解压到根目录，并在出现提示时选择覆盖</p>
 <ul>
-<li class="has-line-data" data-line-start="334" data-line-end="336">最新编译的Ogg Vorbis库，允许游戏播放某些.ogg文件，否则将无法播放</li>
+<li class="has-line-data" data-line-start="335" data-line-end="337">最新编译的Ogg Vorbis库，允许游戏播放某些.ogg文件，否则将无法播放</li>
 </ul>
-<p class="has-line-data" data-line-start="336" data-line-end="341">New Vegas Reloaded - NVGE<br>
+<p class="has-line-data" data-line-start="337" data-line-end="342">New Vegas Reloaded - NVGE<br>
 <a href="https://pan.baidu.com/s/1IbE4zoBnNe-P92BGe97cYA">https://pan.baidu.com/s/1IbE4zoBnNe-P92BGe97cYA</a> 提取码: t1hg<br>
 特别安装说明：<br>
 手动提取压缩包 Data 文件夹中除 Music 文件夹以外的所有内容到 Fallout New Vegas/Data/<br>
 压缩包中 binkw32.dll 可以忽略</p>
 <ul>
-<li class="has-line-data" data-line-start="341" data-line-end="343">添加新的渲染管道，更新默认着色器，并添加内存管理。有关NVGE的说明请参阅指南最后</li>
+<li class="has-line-data" data-line-start="342" data-line-end="344">添加新的渲染管道，更新默认着色器，并添加内存管理。有关NVGE的说明请参阅指南最后</li>
 </ul>
-<p class="has-line-data" data-line-start="343" data-line-end="347">NVGE Custom .INI<br>
+<p class="has-line-data" data-line-start="344" data-line-end="348">NVGE Custom .INI<br>
 链接: <a href="https://pan.baidu.com/s/1vRs_zpNPfDX5mookpC3Pwg">https://pan.baidu.com/s/1vRs_zpNPfDX5mookpC3Pwg</a> 提取码: xxsf<br>
 要安装的文件：<br>
-将压缩包内的 NewVegasReloaded.ini 解压到 Fallout New Vegas/Data/nvse/plugins/ ，并在出现提示时选择覆盖</p>
+将压缩包内的 NewVegasReloaded.ini 解压到 Fallout New Vegas/Data/nvse/plugins/ 在出现提示时选择覆盖</p>
 <ul>
-<li class="has-line-data" data-line-start="347" data-line-end="349">.INI文件用于NVGE，关闭所有视觉增强功能，只是保持性能和稳定性的改进。</li>
+<li class="has-line-data" data-line-start="348" data-line-end="350">.INI文件用于NVGE，关闭所有视觉增强功能，只是保持性能和稳定性的改进。</li>
 </ul>
-<p class="has-line-data" data-line-start="349" data-line-end="358">九、显示设置<br>
+<p class="has-line-data" data-line-start="350" data-line-end="359">九、显示设置<br>
 <strong>仅适用于具有NVIDIA GPU的用户：NVIDIA Profile Inspector</strong><br>
 <a href="https://pan.baidu.com/s/1Wk-h1BotfcNWK2SBaqm9UA">https://pan.baidu.com/s/1Wk-h1BotfcNWK2SBaqm9UA</a> 提取码: qwfa<br>
 特别安装说明：<br>
@@ -362,17 +364,17 @@ NVSE<br>
 从左上角的Profiles：下拉列表中，选择Fallout - New Vegas<br>
 在 2. - Sync and Refresh 部分中，更改以下内容：</p>
 <ul>
-<li class="has-line-data" data-line-start="358" data-line-end="359">Frame Rate Limiter - 58 FPS</li>
-<li class="has-line-data" data-line-start="359" data-line-end="360">Maximum pre-rendered frames - 1</li>
-<li class="has-line-data" data-line-start="360" data-line-end="362">Vertical Sync - Force on</li>
+<li class="has-line-data" data-line-start="359" data-line-end="360">Frame Rate Limiter - 58 FPS</li>
+<li class="has-line-data" data-line-start="360" data-line-end="361">Maximum pre-rendered frames - 1</li>
+<li class="has-line-data" data-line-start="361" data-line-end="363">Vertical Sync - Force on</li>
 </ul>
-<p class="has-line-data" data-line-start="362" data-line-end="364">如果您使用G-Sync或Freesync，请不要启用 Vertical Sync<br>
+<p class="has-line-data" data-line-start="363" data-line-end="365">如果您使用G-Sync或Freesync，请不要启用 Vertical Sync<br>
 在5. - Common部分中，更改以下内容：</p>
 <ul>
-<li class="has-line-data" data-line-start="364" data-line-end="366">Power management mode - Prefer maximum performance</li>
+<li class="has-line-data" data-line-start="365" data-line-end="367">Power management mode - Prefer maximum performance</li>
 </ul>
-<p class="has-line-data" data-line-start="366" data-line-end="367">单击右上角的 Apply changes 按钮，然后退出</p>
-<p class="has-line-data" data-line-start="368" data-line-end="380"><strong>仅适用于使用AMD GPU的用户：调整AMD Radeon设置</strong><br>
+<p class="has-line-data" data-line-start="367" data-line-end="368">单击右上角的 Apply changes 按钮，然后退出</p>
+<p class="has-line-data" data-line-start="369" data-line-end="381"><strong>仅适用于使用AMD GPU的用户：调整AMD Radeon设置</strong><br>
 (注：本人使用NVIDIA GPU，这一步没有亲自验证，翻译仅供参考)<br>
 右键单击桌面并选择AMD Radeon Settings<br>
 在“ 游戏”选项卡中，选择 Fallout New Vegas 配置文件<br>
@@ -385,9 +387,9 @@ NVSE<br>
 点击左下角的主页按钮（设置应自动保存），并确保在配置文件名称下方显示“已启用 ”字样<br>
 如果没有，请单击配置文件名称右侧的三个垂直点，然后选择启用配置文件</p>
 <blockquote>
-<p class="has-line-data" data-line-start="380" data-line-end="381">关于限制FPS的注意事项:由于Gamebryo的物理特性与帧速率相关，因此FPS 必须上限为60或更低。该指南使用58FPS，因为如果不使用V-Sync，它应该可以防止屏幕撕裂</p>
+<p class="has-line-data" data-line-start="381" data-line-end="382">关于限制FPS的注意事项:由于Gamebryo的物理特性与帧速率相关，因此FPS 必须上限为60或更低。该指南使用58FPS，因为如果不使用V-Sync，它应该可以防止屏幕撕裂</p>
 </blockquote>
-<p class="has-line-data" data-line-start="382" data-line-end="389">伪全屏设置：<br>
+<p class="has-line-data" data-line-start="383" data-line-end="390">伪全屏设置：<br>
 该步骤可以使你的游戏运行在窗口模式下，此时切入切出窗口应该不会再卡死，但游戏帧数可能会降低，请根据自己的需要选择是否设置。<br>
 方法一：<br>
 确保已安装前置 New Vegas Reloaded - NVGE<br>
@@ -395,29 +397,29 @@ NVSE<br>
 导航到 falloutcustom.ini 选项卡<br>
 在 [Display] 部分下添加以下内容</p>
 <ul>
-<li class="has-line-data" data-line-start="389" data-line-end="391">bFull Screen=0</li>
+<li class="has-line-data" data-line-start="390" data-line-end="392">bFull Screen=0</li>
 </ul>
-<p class="has-line-data" data-line-start="391" data-line-end="396">有些用户报告此调整需要在 FalloutPrefs.ini 选项卡中进行<br>
+<p class="has-line-data" data-line-start="392" data-line-end="397">有些用户报告此调整需要在 FalloutPrefs.ini 选项卡中进行<br>
 如果此方法不起作用，则使用方法二 OneTweak：<br>
 <a href="https://pan.baidu.com/s/1eG1u8EUhVW9Ri6nPDf4Ezg">https://pan.baidu.com/s/1eG1u8EUhVW9Ri6nPDf4Ezg</a> 提取码: m3b3<br>
 要安装的文件：<br>
 将压缩包内的 plugins 文件夹解压到 Fallout New Vegas/Data/nvse/</p>
-<p class="has-line-data" data-line-start="397" data-line-end="403">十、最终测试<br>
+<p class="has-line-data" data-line-start="398" data-line-end="404">十、最终测试<br>
 至此基础游戏的设置及优化已全部完成，请按照以下步骤进行测试：<br>
 通过MO2运行游戏<br>
 启动一个新存档，快速通过Doc Mitchell所在的教程<br>
 离开医生的房间后，打开pipboy检查各个选项是否有问题<br>
 在游戏中花费至少20-30分钟做任何事情以确保游戏顺利进行</p>
 <ul>
-<li class="has-line-data" data-line-start="403" data-line-end="404">如果你按照本指南完整做到了每一个步骤，并选择了合适的画质与分辨率，此时你的游戏应没有卡顿并可以长时间运行不跳出。</li>
-<li class="has-line-data" data-line-start="404" data-line-end="405">如果你有任何问题，尝试先判断是否完全安装本指南进行安装设置。如果确定步骤没有问题，请先调低画质及分辨率再进行测试(但尽量不要以最低画质运行)。</li>
-<li class="has-line-data" data-line-start="405" data-line-end="407">如果问题依旧存在，可以回复进行询问，我尽可能回答。</li>
+<li class="has-line-data" data-line-start="404" data-line-end="405">如果你按照本指南完整做到了每一个步骤，并选择了合适的画质与分辨率，此时你的游戏应没有卡顿并可以长时间运行不跳出。</li>
+<li class="has-line-data" data-line-start="405" data-line-end="406">如果你有任何问题，尝试先判断是否完全安装本指南进行安装设置。如果确定步骤没有问题，请先调低画质及分辨率再进行测试(但尽量不要以最低画质运行)。</li>
+<li class="has-line-data" data-line-start="406" data-line-end="408">如果问题依旧存在，可以回复进行询问，我尽可能回答。</li>
 </ul>
-<p class="has-line-data" data-line-start="407" data-line-end="408">本入门指南暂时告一段落，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到丝滑流畅的新维加斯体验。</p>
+<p class="has-line-data" data-line-start="408" data-line-end="409">本入门指南暂时告一段落，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到丝滑流畅的新维加斯体验。</p>
 <hr>
-<p class="has-line-data" data-line-start="410" data-line-end="413">有关BethINI的说明：<br>
-BethINI相当于一个第三方的FalloutNVLauncher，但拥有更好的预设及更多的选项，它们的共同点是都是修改INI文件。而Mod Organizer 2会为每一个配置文件单独创建“虚拟”的INI文件，这时FalloutNVLauncher修改原生INI文件就对从MO2中启动的游戏不起作用。<br>
-通过将BethINI与Mod Organizer 2链接，BethINI可以直接管理MO2中某个配置文件的INI，不再修改原生INI。所以今后的游戏过程中如需改变画质就可以直接使用BethINI，只要确保选择了正在使用的MO2配置文件即可。</p>
-<p class="has-line-data" data-line-start="414" data-line-end="417">有关ENB与NVGE的说明：<br>
+<p class="has-line-data" data-line-start="411" data-line-end="414">有关BethINI的说明：<br>
+BethINI相当于一个第三方的FalloutNVLauncher，但拥有更好的预设及更多的选项，它们的共同点是都通过修改INI文件来工作。而Mod Organizer 2会为每一个配置文件单独创建“虚拟”的INI文件，这时FalloutNVLauncher修改原生INI文件就对从MO2中启动的游戏不起作用。<br>
+通过将BethINI与Mod Organizer 2链接，BethINI可以直接管理MO2中某个配置文件的INI，不再修改原生INI。<strong>所以今后的游戏过程中如需改变画质就可以直接使用BethINI，只要确保选择了正确的MO2配置文件即可。</strong></p>
+<p class="has-line-data" data-line-start="415" data-line-end="418">有关ENB与NVGE的说明：<br>
 使用4GBpatch时正常安装ENB，如果你在使用NVGE-New Vegas Reload的同时使用ENB，请打开根目录下的 enblocal.ini 并将其中的 SpeedHack=true 改为 SpeedHack=false ，以保证两者相互兼容。<br>
 NVGE自带截图功能，并且截图不包含UI，快捷键是F11。如需带UI截图，可以按 PrtScr 键截取。NVGE的截图保存在根目录下的 Screenshots 文件夹，带UI的截图保存在游戏根目录。</p>
