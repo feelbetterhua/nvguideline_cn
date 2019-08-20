@@ -1,5 +1,5 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="2019_0"></a>2019年新维加斯入门指南</h1>
-<p class="has-line-data" data-line-start="1" data-line-end="3"><img src="https://imgsa.baidu.com/forum/w%3D580/sign=d7c34610f936afc30e0c3f6d8318eb85/fa23ecdeb48f8c544062ceff34292df5e1fe7f1b.jpg" alt="intro" title="intro"><br>
+<p class="has-line-data" data-line-start="1" data-line-end="3"><img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/intro_pic.jpg?raw=true" alt="intro" title="intro"><br>
 <strong>2019年了，新维加斯不应该是这个游戏体验</strong></p>
 <p class="has-line-data" data-line-start="4" data-line-end="7">本指南旨在建立一种一站式的入门指导，帮助你了解游玩新维加斯需要的准备工作。并整合最新的优化配置选项，使你以最快的速度以及最丝滑的方式体验废土的旅程。<br>
 本指南不仅适合刚接触新维加斯的新手，也适合远离沙场已久，准备回归的老兵。因为一些Mod和优化方式的发展已与之前的方式不相兼容，因此本指南将会是你最好的选择。<br>
@@ -128,20 +128,20 @@ MO2：Mod Organizer 2（将很快安装）</p>
 双击汉化补丁进行安装，一路点击下一步，在 选择组件 界面停下，反选所有选项，也就是只选择 汉化必须文件<br>
 点击下一步进行安装，安装完成后在最后界面选择 运行FNVTools，结束后自动弹出FNVTools2.1<br>
 点击FNVTools中的 INI设置和优化 ，进入INI设置和优化后根据下图进行设置<br>
-<img src="https://imgsa.baidu.com/forum/w%3D580/sign=ba778f0738d12f2ece05ae687fc3d5ff/4a42f624b899a9018d93b5e613950a7b0308f52b.jpg" alt="fnvtools_pic1" title="fnvtools_pic1"></p>
+<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/fnvtools_pic1.jpg?raw=true" alt="fnvtools_pic1" title="fnvtools_pic1"></p>
 <ul>
 <li class="has-line-data" data-line-start="130" data-line-end="131">首先勾选 1 前面的框，然后根据CPU线程数调整后面的数字，如果您不知道CPU有多少线程，请使用CPU-Z查看</li>
 <li class="has-line-data" data-line-start="131" data-line-end="133">然后勾选 2 所有的框 ，最后根据 设置说明 ，也就是下图调整 3 中的三个数字</li>
 </ul>
-<p class="has-line-data" data-line-start="133" data-line-end="134"><img src="https://imgsa.baidu.com/forum/w%3D580/sign=967ced31212eb938ec6d7afae56385fe/bc56a799a9014c08ac9dc675047b02087af4f42b.jpg" alt="fnvtools_pic2" title="fnvtools_pic2"></p>
-<p class="has-line-data" data-line-start="135" data-line-end="138">为exe文件添加排除数据执行保护：<br>
-右键单击 此电脑 ，选择 属性 ，在左边一栏选择 高级系统设置 ，在 性能 一栏下点击 设置 ，切换到 数据执行保护选项卡，选择 为除下列选定程序之外的所有程序和服务启用DEP ，点击 添加 ，在弹出的框中导航到游戏根目录，双击添加 FalloutNV.exe ，同理继续添加 FalloutNVLauncher.exe 。完成添加后点击 应用 ，然后点击 确定 ，退出所有窗口。系统会要求重新启动，手动重启即可。<br>
-此时汉化已完成，Steam版可以直接双击FalloutNV.exe进入游戏，GOG版本需要下载破解的steam_api.dll放入根目录才能进入游戏。</p>
+<p class="has-line-data" data-line-start="133" data-line-end="134"><img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/fnvtools_pic2.jpg?raw=true" alt="fnvtools_pic2" title="fnvtools_pic2"></p>
+<p class="has-line-data" data-line-start="135" data-line-end="137">为exe文件添加排除数据执行保护：<br>
+右键单击 此电脑 ，选择 属性 ，在左边一栏选择 高级系统设置 ，在 性能 一栏下点击 设置 ，切换到 数据执行保护选项卡，选择 为除下列选定程序之外的所有程序和服务启用DEP ，点击 添加 ，在弹出的框中导航到游戏根目录，双击添加 FalloutNV.exe ，同理继续添加 FalloutNVLauncher.exe 。完成添加后点击 应用 ，然后点击 确定 ，退出所有窗口。系统会要求重新启动，手动重启即可。</p>
+<p class="has-line-data" data-line-start="138" data-line-end="139">此时汉化已完成，Steam版可以直接双击FalloutNV.exe进入游戏，GOG版本需要下载破解的steam_api.dll放入根目录才能进入游戏。</p>
 <blockquote>
-<p class="has-line-data" data-line-start="138" data-line-end="139">汉化补丁替换了FalloutNV.exe，并且替换的exe来自Steam版。而GOG版与Steam版最大的区别是GOG版对exe文件进行了优化。所以如果想玩中文版的话建议直接买Steam版。</p>
+<p class="has-line-data" data-line-start="139" data-line-end="140">汉化补丁替换了FalloutNV.exe，并且替换的exe来自Steam版。而GOG版与Steam版最大的区别是GOG版对exe文件进行了优化。所以如果想玩中文版的话建议直接买Steam版。</p>
 </blockquote>
-<p class="has-line-data" data-line-start="140" data-line-end="141">进入游戏，主界面和菜单应该都显示汉化。点击 选项-显示 ，滚轮滑倒最下，将 一般字幕 设置为开启。后退到主菜单，开始新游戏测试游戏内容汉化是否有问题。</p>
-<p class="has-line-data" data-line-start="142" data-line-end="157">六、Mod Organizer 2配置及INI优化<br>
+<p class="has-line-data" data-line-start="141" data-line-end="142">进入游戏，主界面和菜单应该都显示汉化。点击 选项-显示 ，滚轮滑倒最下，将 一般字幕 设置为开启。后退到主菜单，开始新游戏测试游戏内容汉化是否有问题。</p>
+<p class="has-line-data" data-line-start="143" data-line-end="158">六、Mod Organizer 2配置及INI优化<br>
 1.配置Mod Organizer 2：<br>
 运行ModOrganizer.exe<br>
 从名为 Choose Instance 的弹出窗口中，选择 Portable<br>
@@ -151,37 +151,37 @@ MO2：Mod Organizer 2（将很快安装）</p>
 从弹出窗口 Show Tutorial?，选择 No<br>
 从弹出窗口 Register?，选择 Yes<br>
 进入主界面<br>
-点击顶部的按钮<img src="https://imgsa.baidu.com/forum/w%3D580/sign=cec17024b94543a9f51bfac42e158a7b/6f5b32f5e0fe9925c1e9c7803aa85edf8fb171ef.jpg" alt="setting_pic" title="setting_pic">，在 General 选项卡下第一栏 Language 项选择 Chinese (simplified)<br>
+点击顶部的按钮<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/MO2setting_pic.jpg?raw=true" alt="setting_pic" title="setting_pic">，在 General 选项卡下第一栏 Language 项选择 Chinese (simplified)<br>
 点击 OK 软件切换成中文<br>
 如果未选中右栏中的所有插件，请右键单击右栏空白处并选择 全部启用<br>
 按照下图中的顺序改变左栏和右栏中的加载顺序<br>
-<img src="https://imgsa.baidu.com/forum/w%3D580/sign=951c2ca54da98226b8c12b2fba80b97a/7887fffe9925bc3122b8af4850df8db1c91370ef.jpg" alt="order_pic" title="order_pic"></p>
+<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/order_pic.jpg?raw=true" alt="order_pic" title="order_pic"></p>
 <blockquote>
-<p class="has-line-data" data-line-start="157" data-line-end="159">如果您的游戏是GOG版本，则加载顺序中可能存在FalloutNV_lang.esp<br>
+<p class="has-line-data" data-line-start="158" data-line-end="160">如果您的游戏是GOG版本，则加载顺序中可能存在FalloutNV_lang.esp<br>
 如果是这样，请导航到/Data文件夹并将其删除</p>
 </blockquote>
-<p class="has-line-data" data-line-start="160" data-line-end="163">单击MO2顶部栏上的按钮<img src="https://imgsa.baidu.com/forum/w%3D580/sign=cec17024b94543a9f51bfac42e158a7b/6f5b32f5e0fe9925c1e9c7803aa85edf8fb171ef.jpg" alt="setting_pic" title="setting_pic">，导航到“ 路径”选项卡<br>
+<p class="has-line-data" data-line-start="161" data-line-end="164">单击MO2顶部栏上的按钮<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/MO2setting_pic.jpg?raw=true" alt="setting_pic" title="setting_pic">，导航到“ 路径”选项卡<br>
 如果您使用SSD或空间很小的HDD，请将 下载 路径设置为具有足够空间的某个位置<br>
 以下选项只在你有Nexus账户时才设置，没有的可以跳过</p>
 <ul>
-<li class="has-line-data" data-line-start="163" data-line-end="164">在 N网 选项卡中，单击 Connect to Nexus ，MO2应在浏览器中打开Nexus页面</li>
-<li class="has-line-data" data-line-start="164" data-line-end="165">选择 Authorise</li>
-<li class="has-line-data" data-line-start="165" data-line-end="167">等待页面提示成功后退出浏览器</li>
+<li class="has-line-data" data-line-start="164" data-line-end="165">在 N网 选项卡中，单击 Connect to Nexus ，MO2应在浏览器中打开Nexus页面</li>
+<li class="has-line-data" data-line-start="165" data-line-end="166">选择 Authorise</li>
+<li class="has-line-data" data-line-start="166" data-line-end="168">等待页面提示成功后退出浏览器</li>
 </ul>
-<p class="has-line-data" data-line-start="167" data-line-end="168">退出MO2中的设置菜单，如果MO2提示你重启，你应该选择是</p>
-<p class="has-line-data" data-line-start="169" data-line-end="178">2.在Mod Organizer 2中创建新配置文件：<br>
+<p class="has-line-data" data-line-start="168" data-line-end="169">退出MO2中的设置菜单，如果MO2提示你重启，你应该选择是</p>
+<p class="has-line-data" data-line-start="170" data-line-end="179">2.在Mod Organizer 2中创建新配置文件：<br>
 Mod Organizer 2的配置文件功能允许在不同的mod配置之间轻松切换，可以通过左栏上方的下拉菜单选择配置文件。<br>
-单击MO2顶部栏上的按钮<img src="https://imgsa.baidu.com/forum/w%3D580/sign=03fe541c10178a82ce3c7fa8c601737f/e943436034a85edf0c6950f347540923df5475ef.jpg" alt="tools_pic" title="tools_pic"><br>
+单击MO2顶部栏上的按钮<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/MO2profile_pic.jpg?raw=true" alt="profile_pic" title="profile_pic"><br>
 单击 Default 配置文件，然后选择重命名<br>
 输入 Vanilla 作为新名称<br>
 选中 Vanilla 配置文件，选择复制<br>
 输入 Core 作为新名称，然后单击“ 确定”<br>
 选择 Core 配置文件并选中下方的 使用特定的ini (第二项，应该已经选中) 和 自动档案无效化<br>
 关闭配置文件窗口，可能会报错提示缺少ini文件，点击确定即可</p>
-<p class="has-line-data" data-line-start="179" data-line-end="182">3.调整FalloutCustom.ini：<br>
+<p class="has-line-data" data-line-start="180" data-line-end="189">3.调整FalloutCustom.ini：<br>
 确保目前选择的配置文件为 Core<br>
-单击MO2顶部栏上的按钮，然后选择 INI编辑器</p>
-<p class="has-line-data" data-line-start="183" data-line-end="189">导航到 falloutcustom.ini 选项卡，该选项卡应为空白<br>
+单击MO2顶部栏上的按钮<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/MO2inieditor_pic.jpg?raw=true" alt="inieditor_pic" title="inieditor_pic"> ，然后选择 INI编辑器<br>
+导航到 falloutcustom.ini 选项卡，该选项卡应为空白<br>
 将以下内容粘贴到框中：<br>
 [General]<br>
 bUseThreadedAI=1<br>
@@ -389,7 +389,7 @@ NVSE<br>
 戏帧数可能会降低，请根据自己的需要选择是否设置。<br>
 方法一：<br>
 确保已安装前置 New Vegas Reloaded - NVGE<br>
-单击MO2顶部栏上的按钮<img src="https://imgsa.baidu.com/forum/w%3D580/sign=03fe541c10178a82ce3c7fa8c601737f/e943436034a85edf0c6950f347540923df5475ef.jpg" alt="tools_pic" title="tools_pic"> ，然后选择 INI编辑器<br>
+单击MO2顶部栏上的按钮<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/MO2inieditor_pic.jpg?raw=true" alt="inieditor_pic" title="inieditor_pic"> ，然后选择 INI编辑器<br>
 导航到 falloutcustom.ini 选项卡<br>
 在 [Display] 部分下添加以下内容</p>
 <ul>
