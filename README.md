@@ -33,10 +33,10 @@
 <p class="has-line-data" data-line-start="32" data-line-end="33">本指南专门为汉化编写了相关内容，因此需要一个中文补丁。目前只推荐民间汉化第5版，这是在天邈汉化出来前(虽然都不知道还到底会不会出来)最完善的，也是安装最简单的一个版本。<strong>注意它只支持终极版或者升级了UP7并且安装了所有dlc的版本。</strong></p>
 <p class="has-line-data" data-line-start="34" data-line-end="40">对于本指南你需要了解的信息有：<br>
 本入门指南只针对原版游戏，不会添加或修改游戏内容。如果你是你想通过MOD改变游戏玩法或内容，可以直接阅读原MOD指南。<br>
-编写该指南的目的是让所有想体验新维加斯的人都可以快速上手，所以可以说是纯操作指南，只要按照顺序执行每一步骤，不出意外都可以达到效果。<br>
+编写该指南的目的是让所有想体验新维加斯的人都可以快速上手，所以可以说是纯操作指南，只要<strong>按照顺序</strong>执行每一步骤，不出意外都可以达到效果。<br>
 本指南内容较多，但完成所需的时间并不漫长。强烈建议完整读过一遍指南，或读完整个步骤后再开始安装和设置。<br>
 虽然本指南不需要太多相关经验即可上手，但一些基础常识如Windows文件系统、解压缩以及INI文件的编辑修改等还是建议有所了解。<br>
-<strong>指南中的某些步骤会让你开始游戏以进行测试，但如果你是第一次使用本指南，建议你每执行一个大步骤就进行简单的游戏测试，这样你在出现错误时可以更快找到问题所在。</strong></p>
+指南中的某些步骤会让你开始游戏以进行测试，但如果你是第一次使用本指南，<strong>建议你每执行一个大步骤就进行简单的游戏测试</strong>，这样你在出现错误时可以更快找到问题所在。</p>
 <p class="has-line-data" data-line-start="41" data-line-end="43">二、系统设置<br>
 如果你正在使用远古版本的Win10，建议你更新到较新的系统。但不建议使用最新的Win10系统，可能会存在某些未知bug。</p>
 <blockquote>
@@ -133,10 +133,10 @@ MO2：Mod Organizer 2（将很快安装）</p>
 双击汉化补丁进行安装，一路点击下一步，在 选择组件 界面停下，反选所有选项，也就是只选择 汉化必须文件<br>
 点击下一步进行安装(<strong>请注意目标位置是否为游戏所在目录</strong>)，安装完成后在最后界面选择 运行FNVTools设置游戏 ，结束后自动弹出FNVTools2.1<br>
 点击FNVTools中的 INI设置和优化 ，进入INI设置和优化后根据下图进行设置<br>
-<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/fnvtools_pic1.jpg?raw=true" alt="fnvtools_pic1" title="fnvtools_pic1"></p>
+<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/fnvtools_pic.JPG?raw=true" alt="fnvtools_pic" title="fnvtools_pic"></p>
 <ul>
 <li class="has-line-data" data-line-start="134" data-line-end="135">首先勾选 1 前面的框，然后根据CPU线程数调整后面的数字，可以导航到 <em>文档/My Games/FalloutNV</em> 打开  RendererInfo.txt ，参考最后一行 HW Thread Count 后面的数字</li>
-<li class="has-line-data" data-line-start="135" data-line-end="136">然后勾选 2 所有的框 ，<strong>保持 3 中的三个数字不变</strong> (下面的优化会涉及此项)</li>
+<li class="has-line-data" data-line-start="135" data-line-end="136">然后勾选 2 所有的框 ，<strong>保持 3 中的三个数字为默认</strong> (下面的优化会涉及此项)</li>
 <li class="has-line-data" data-line-start="136" data-line-end="137">在 切换INI 字体设置 一栏选择想要的字体(中文幼圆大字 和 中文宋体小字 二选一)，点击后弹出 疑问 对话框，选择 是，再点击确定。最后点击最下方的 保存 ，然后关闭 FNVTools2.1。</li>
 </ul>
 <p class="has-line-data" data-line-start="139" data-line-end="141">为exe文件添加排除数据执行保护：<br>
@@ -416,7 +416,7 @@ NVSE<br>
 在游戏中花费至少20-30分钟做任何事情以确保游戏顺利进行</p>
 <ul>
 <li class="has-line-data" data-line-start="404" data-line-end="405">如果你按照本指南完整做到了每一个步骤，并选择了合适的画质与分辨率，此时你的游戏应没有卡顿并可以长时间运行不跳出。</li>
-<li class="has-line-data" data-line-start="405" data-line-end="406">如果你有任何问题，尝试先判断是否完全安装本指南进行安装设置。如果确定步骤没有问题，请先调低画质及分辨率再进行测试(但尽量不要以最低画质运行)。</li>
+<li class="has-line-data" data-line-start="405" data-line-end="406">如果你有任何问题，尝试先判断是否完全按本指南进行安装设置。如果确定步骤没有问题，请先调低画质及分辨率再进行测试(但尽量不要以最低画质运行)。</li>
 <li class="has-line-data" data-line-start="406" data-line-end="408">如果问题依旧存在，可以回复进行询问，我尽可能回答。</li>
 </ul>
 <p class="has-line-data" data-line-start="408" data-line-end="409">以上是本指南的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到丝滑流畅的新维加斯体验。</p>
