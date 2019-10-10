@@ -52,16 +52,6 @@ Console Paste Support<br>
 
 * 允许您将文本粘贴到控制台中，以及其他一些键盘快捷键
 
-Ogg Vorbis Libraries<br>
-
-[https://pan.baidu.com/s/1z458lr3DmM_8gPuk9b8_ug](https://pan.baidu.com/s/1z458lr3DmM_8gPuk9b8_ug) 提取码: pr2c<br>
-
-特别安装说明：<br>
-
-将压缩包内的文件解压到根目录，并在出现提示时选择覆盖
-
-* 最新编译的Ogg Vorbis库，允许游戏播放某些.ogg文件，否则将无法播放
-
 New Vegas Reloaded - NVGE<br>
 
 [https://pan.baidu.com/s/1IbE4zoBnNe-P92BGe97cYA](https://pan.baidu.com/s/1IbE4zoBnNe-P92BGe97cYA) 提取码: t1hg<br>
