@@ -13,24 +13,24 @@
 <li class="has-line-data" data-line-start="18" data-line-end="20">系统：Win10 LTSC 2019</li>
 </ul>
 <p class="has-line-data" data-line-start="20" data-line-end="21">设置优化后可以使原版游戏在1080P，最高画质下以60帧稳定运行。即使加了大量MOD后也可以在稍低分辨率下运行5~6个小时不跳出。<strong>对于网上流传新维加斯不适合在Win10上运行，以目前的情况看大部分问题都得到了解决。</strong></p>
-<p class="has-line-data" data-line-start="22" data-line-end="24">一、一般信息<br>
-关于游戏你需要了解的信息有：</p>
-<p class="has-line-data" data-line-start="25" data-line-end="26">请先确保自己的电脑能够运行新维加斯，游戏运行不稳定也可能是硬件配置造成的。当然通过本指南，你可以最大化发挥硬件的资源。</p>
+<p class="has-line-data" data-line-start="22" data-line-end="23">一、一般信息</p>
+<p class="has-line-data" data-line-start="24" data-line-end="26">关于游戏你需要了解的信息有：<br>
+请先确保自己的电脑能够运行新维加斯，游戏运行不稳定也可能是硬件配置造成的。当然通过本指南，你可以最大化发挥硬件的资源。</p>
 <p class="has-line-data" data-line-start="27" data-line-end="28">对于版本的问题，本指南只推荐Steam或GOG的正版终极版，也就是全DLC的版本。本指南测试用的版本为纯净的正版，其他版本不保证也有效果。</p>
 <p class="has-line-data" data-line-start="29" data-line-end="30">本指南专门为汉化编写了相关内容，中文补丁使用民间汉化第6版，这是目前最完善的一个版本。 <strong>注意它只支持终极版或者安装了所有dlc的版本。</strong></p>
 <blockquote>
 <p class="has-line-data" data-line-start="31" data-line-end="32">汉化补丁替换了FalloutNV.exe，替换的exe来自Steam版。而GOG版与Steam版的区别是GOG版对exe文件进行了优化，所以如果想玩中文的话Steam版更方便一些。</p>
 </blockquote>
-<p class="has-line-data" data-line-start="33" data-line-end="34">对于本指南你需要了解的信息有：</p>
-<p class="has-line-data" data-line-start="35" data-line-end="36">入门指南只针对原版游戏进行优化，不会添加或修改游戏内容，后续可能会编写其他部分内容。</p>
-<p class="has-line-data" data-line-start="37" data-line-end="38">该指南的目的是让所人都可以快速上手，所以用纯操作指南的方式编写，只要<strong>按照顺序</strong>执行步骤即可以达到效果。</p>
-<p class="has-line-data" data-line-start="39" data-line-end="40">本指南完成所需的时间并不漫长，强烈建议完整读一遍指南，或至少读完整个步骤后再开始安装和设置。</p>
-<p class="has-line-data" data-line-start="41" data-line-end="42">如果你是第一次使用本指南，<strong>建议你每进行完一个大步骤后简单的测试游戏</strong>，这样可以在出错误后更快找到问题所在。</p>
+<p class="has-line-data" data-line-start="33" data-line-end="35">对于本指南你需要了解的信息有：<br>
+入门指南只针对原版游戏进行优化，不会添加或修改游戏内容，后续可能会编写其他部分内容。</p>
+<p class="has-line-data" data-line-start="36" data-line-end="37">该指南的目的是让所人都可以快速上手，所以用纯操作指南的方式编写，只要<strong>按照顺序</strong>执行步骤即可以达到效果。</p>
+<p class="has-line-data" data-line-start="38" data-line-end="39">本指南完成所需的时间并不漫长，强烈建议完整读一遍指南，或至少读完整个步骤后再开始安装和设置。</p>
+<p class="has-line-data" data-line-start="40" data-line-end="41">如果你是第一次使用本指南，<strong>建议你每进行完一个大步骤后简单的测试游戏</strong>，这样可以在出错误后更快找到问题所在。</p>
 <blockquote>
-<p class="has-line-data" data-line-start="43" data-line-end="44">虽然本指南不需要太多相关经验即可上手，但一些基础常识如Windows文件系统、解压缩以及INI文件的编辑修改等还是建议有所了解。</p>
+<p class="has-line-data" data-line-start="42" data-line-end="43">虽然本指南不需要太多相关经验即可上手，但一些基础常识如Windows文件系统、解压缩以及INI文件的编辑修改等还是建议有所了解。</p>
 </blockquote>
-<p class="has-line-data" data-line-start="45" data-line-end="47">二、系统设置<br>
-如果你使用Win10，建议你更新到较新的版本。Win10可以设置优化的选项很多，这里主要说三点影响较大的：</p>
+<p class="has-line-data" data-line-start="44" data-line-end="45">二、系统设置</p>
+<p class="has-line-data" data-line-start="46" data-line-end="47">如果你使用Win10，建议你更新到较新的版本。Win10可以设置优化的选项很多，这里主要说三点影响较大的：</p>
 <ul>
 <li class="has-line-data" data-line-start="48" data-line-end="49">关闭系统自带的游戏模式，对于新维加斯来说该模式会造成不稳定，具体方法请自行寻找。</li>
 <li class="has-line-data" data-line-start="49" data-line-end="50">Win10自带的输入法十分影响游戏，请单独添加英语作为第二键盘，并在游戏前按alt+shift切换到英语键盘。</li>
