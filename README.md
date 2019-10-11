@@ -12,12 +12,12 @@
 <li class="has-line-data" data-line-start="17" data-line-end="18">硬盘：128GB SATA3.0 SSD</li>
 <li class="has-line-data" data-line-start="18" data-line-end="20">系统：Win10 LTSC 2019</li>
 </ul>
-<p class="has-line-data" data-line-start="20" data-line-end="21">设置优化后可以使原版游戏在1080P，最高画质下以60帧稳定运行。即使加了大量MOD后也可以在稍低分辨率下运行5~6个小时不跳出。<strong>对于网上流传新维加斯不适合在Win10上运行，以目前的情况看大部分问题都得到了解决。</strong></p>
+<p class="has-line-data" data-line-start="20" data-line-end="21">设置优化后可以使原版游戏在1080P，最高画质下以60帧稳定运行。即使加了大量MOD后也可以在稍低分辨率下运行5~6个小时不跳出。<strong>对于网上流传新维加斯不适合在Win10上运行，以目前的情况看大部分问题都得到了解决</strong>。</p>
 <p class="has-line-data" data-line-start="22" data-line-end="23">一、一般信息</p>
 <p class="has-line-data" data-line-start="24" data-line-end="26">关于游戏你需要了解的信息有：<br>
 请先确保自己的电脑能够运行新维加斯，游戏运行不稳定也可能是硬件配置造成的。当然通过本指南，你可以最大化发挥硬件的资源。</p>
 <p class="has-line-data" data-line-start="27" data-line-end="28">对于版本的问题，本指南只推荐Steam或GOG的正版终极版，也就是全DLC的版本。本指南测试用的版本为纯净的正版，其他版本不保证也有效果。</p>
-<p class="has-line-data" data-line-start="29" data-line-end="30">本指南专门为汉化编写了相关内容，中文补丁使用民间汉化第6版，这是目前最完善的一个版本。 <strong>注意它只支持终极版或者安装了所有dlc的版本。</strong></p>
+<p class="has-line-data" data-line-start="29" data-line-end="30">本指南专门为汉化编写了相关内容，中文补丁使用民间汉化第6版，这是目前最完善的一个版本。 <strong>注意它只支持终极版或者安装了所有dlc的版本</strong>。</p>
 <blockquote>
 <p class="has-line-data" data-line-start="31" data-line-end="32">汉化补丁替换了FalloutNV.exe，替换的exe来自Steam版。而GOG版与Steam版的区别是GOG版对exe文件进行了优化，所以如果想玩中文的话Steam版更方便一些。</p>
 </blockquote>
@@ -37,7 +37,7 @@
 <li class="has-line-data" data-line-start="50" data-line-end="52">关掉通知，以及其他可能在后台弹出对话框/提示的软件。新维加斯在切回桌面时会卡死，如果必须要频繁切回桌面，后面会有解决方法，但建议在游玩过程中不要切换窗口。</li>
 </ul>
 <p class="has-line-data" data-line-start="52" data-line-end="53">对于笔记本电脑，请确保电源选项选择正确，如高性能或卓越性能。而对于所用用户，请更新到较新的显卡驱动，并保证有足够的硬盘空间。</p>
-<p class="has-line-data" data-line-start="54" data-line-end="55"><strong>如果你之前安装过新维加斯后卸载，为保证本指南的能正常安装，请确保删除所有游戏文件、相关存档及注册表残余。</strong> 方法是卸载后再搜索Fallout NV相关的文件及文件夹并删除，运行注册表清理工具删除相关残余条目。</p>
+<p class="has-line-data" data-line-start="54" data-line-end="55"><strong>如果你之前安装过新维加斯后卸载，为保证本指南的能正常安装，请确保删除所有游戏文件、相关存档及注册表残余</strong>。方法是卸载后再搜索Fallout NV相关的文件及文件夹并删除，运行注册表清理工具删除相关残余条目。</p>
 <blockquote>
 <p class="has-line-data" data-line-start="56" data-line-end="57">注册表清理工具推荐 Wise Registry Cleaner 和 CCleaner</p>
 </blockquote>
@@ -134,7 +134,7 @@ modding文件夹将充当安装的所有工具的主目录，以及任何备份/
 </ul>
 <p class="has-line-data" data-line-start="149" data-line-end="151">为exe文件添加排除数据执行保护：<br>
 右键单击 此电脑 ，选择 属性 ，在左边一栏选择 高级系统设置 ，在 性能 一栏下点击 设置 ，切换到 数据执行保护选项卡，选择 为除下列选定程序之外的所有程序和服务启用DEP ，点击 添加 ，在弹出的框中导航到游戏根目录，双击添加 FalloutNV.exe ，同理继续添加 FalloutNVLauncher.exe 。完成添加后点击 应用 ，然后点击 确定 ，退出所有窗口。如果系统要求重新启动，手动重启即可。</p>
-<p class="has-line-data" data-line-start="152" data-line-end="153">此时汉化已完成，Steam版可以直接双击FalloutNV.exe进入游戏，GOG版本需要下载破解的steam_api.dll放入根目录才能进入游戏。进入游戏，主界面和菜单应该都已汉化。**点击 选项-显示 ，滚轮滑到最下，将 一般字幕 设置为开启。**后退到主菜单，开始新游戏测试游戏内容及汉化是否有问题。</p>
+<p class="has-line-data" data-line-start="152" data-line-end="153">此时汉化已完成，Steam版可以直接双击FalloutNV.exe进入游戏，GOG版本需要下载破解的steam_api.dll放入根目录才能进入游戏。进入游戏，主界面和菜单应该都已汉化。<strong>点击 选项-显示 ，滚轮滑到最下，将 一般字幕 设置为开启</strong>。后退到主菜单，开始新游戏测试游戏内容及汉化是否有问题。</p>
 <p class="has-line-data" data-line-start="154" data-line-end="155">六、BSA文件与音频解码优化</p>
 <p class="has-line-data" data-line-start="156" data-line-end="158">BSA Decompressor<br>
 <a href="https://pan.baidu.com/s/1wVpaMcmghl2xpl3Xu9oqHw">https://pan.baidu.com/s/1wVpaMcmghl2xpl3Xu9oqHw</a> 提取码: xmjd</p>
@@ -242,7 +242,7 @@ fXenonHorizLookSpeed=1500.0000</li>
 <p class="has-line-data" data-line-start="268" data-line-end="270">BethINI相当于一个第三方启动器，可以修改画质与其他选项，并带有INI优化。BethINI与Mod Organizer2联合使用可以方便的管理INI文件。<br>
 <a href="https://pan.baidu.com/s/1cCRsTZf1S-ekJAIoajRhYw">https://pan.baidu.com/s/1cCRsTZf1S-ekJAIoajRhYw</a> 提取码: jw7j</p>
 <p class="has-line-data" data-line-start="271" data-line-end="273">注意事项：<br>
-BethINI容易被防病毒软件标记为误报，所以最好请其添加到将杀毒软件的白名单中。<strong>请注意，不要通过Mod Organizer 2运行，也不要在Mod Organizer 2打开时运行BethINI。</strong></p>
+BethINI容易被防病毒软件标记为误报，所以最好请其添加到将杀毒软件的白名单中。<strong>请注意，不要通过Mod Organizer 2运行，也不要在Mod Organizer 2打开时运行BethINI</strong>。</p>
 <p class="has-line-data" data-line-start="274" data-line-end="275">安装使用说明：</p>
 <ol>
 <li class="has-line-data" data-line-start="275" data-line-end="276">使用前请确保已运行过FalloutNVLauncher.exe并生成了相应的INI文件</li>
@@ -254,7 +254,7 @@ BethINI容易被防病毒软件标记为误报，所以最好请其添加到将�
 <li class="has-line-data" data-line-start="281" data-line-end="282">等待程序关闭后导航到 <em>文档/My Games/FalloutNV</em> 打开 RendererInfo.txt ，查看下方 Shader Package 后的数字。如果不是19，请导航到游戏根目录下 <em>data/Shaders</em> 文件夹找到对应Shader Package后数字的文件，如 shaderpackage013.sdp ，将其命名为shaderpackage013.sdp.backup。之后把 shaderpackage019.sdp 复制一份到其他位置，将其重命名为shaderpackage013.sdp，再剪切回原文件夹。</li>
 <li class="has-line-data" data-line-start="282" data-line-end="284">进入游戏，在主菜单中选择 选项-显示 ，检查所有<strong>淡出</strong>选项。如果有超出调节框的请将其减小一档后再增加一档，使其恢复正常。设置完成后退回主菜单，进入游戏以检测游戏运行是否正常。</li>
 </ol>
-<p class="has-line-data" data-line-start="284" data-line-end="286"><strong>在使用了BethINI之后，请不要运行FalloutNVLauncher.exe或通过Steam启动新维加斯，FNVTools2.1修改字体也将不起作用。</strong><br>
+<p class="has-line-data" data-line-start="284" data-line-end="286"><strong>在使用了BethINI之后，请不要运行FalloutNVLauncher.exe或通过Steam启动新维加斯，FNVTools2.1修改字体也将不起作用</strong>。<br>
 如果在以后的游戏流程中需要修改画质、改变字体及其他选项，请阅读指南最后有关BethINI的说明。</p>
 <p class="has-line-data" data-line-start="287" data-line-end="288">九、重要前置</p>
 <p class="has-line-data" data-line-start="289" data-line-end="290">曾经新维加斯比较流行的前置NVSR 和 Zan AutoPurge Crash Protector 已经废弃。这两个插件会对游戏稳定性产生负面影响。如果你是老玩家，看到本指南中没有安装以上两个插件，请不要疑惑。下面开始安装指南：</p>
@@ -338,7 +338,7 @@ BethINI容易被防病毒软件标记为误报，所以最好请其添加到将�
 </blockquote>
 <p class="has-line-data" data-line-start="362" data-line-end="364">点击左下角的主页按钮（设置应自动保存），并确保在配置文件名称下方显示&quot;已启用 &quot;字样<br>
 如果没有，请单击配置文件名称右侧的三个垂直点，然后选择启用配置文件</p>
-<p class="has-line-data" data-line-start="365" data-line-end="366">伪全屏设置**(如无特殊要求建议跳过)**：</p>
+<p class="has-line-data" data-line-start="365" data-line-end="366">伪全屏设置(<strong>如无特殊要求建议跳过</strong>)：</p>
 <p class="has-line-data" data-line-start="367" data-line-end="368">该步骤可以游戏运行在窗口模式下，此时切出游戏应该不会卡死。但游戏帧数会降低，请根据需要选择是否设置。</p>
 <p class="has-line-data" data-line-start="369" data-line-end="375">OneTweak：<br>
 <a href="https://pan.baidu.com/s/1eG1u8EUhVW9Ri6nPDf4Ezg">https://pan.baidu.com/s/1eG1u8EUhVW9Ri6nPDf4Ezg</a> 提取码: m3b3<br>
@@ -364,7 +364,7 @@ BethINI容易被防病毒软件标记为误报，所以最好请其添加到将�
 <hr>
 <p class="has-line-data" data-line-start="393" data-line-end="395">有关BethINI的说明：<br>
 BethINI相当于一个第三方的FalloutNVLauncher，但拥有更好的预设及更多的选项，它们的共同点是都通过修改INI文件来工作。而Mod Organizer 2会为每一个配置文件单独创建&quot;虚拟&quot;的INI文件，这时FalloutNVLauncher修改原生INI文件就对从MO2中启动的游戏不起作用。</p>
-<p class="has-line-data" data-line-start="396" data-line-end="397">通过将BethINI与Mod Organizer 2链接，BethINI可以直接管理MO2中某个配置文件的INI，不再修改原生INI。 <strong>所以今后的游戏过程中如需改变画质就直接使用BethINI，只要确保选择了正确的MO2配置文件即可(一定不要同时运行BethINI和MO2)。</strong></p>
+<p class="has-line-data" data-line-start="396" data-line-end="397">通过将BethINI与Mod Organizer 2链接，BethINI可以直接管理MO2中某个配置文件的INI，不再修改原生INI。 <strong>所以今后的游戏过程中如需改变画质就直接使用BethINI，只要确保选择了正确的MO2配置文件即可(一定不要同时运行BethINI和MO2)</strong>。</p>
 <p class="has-line-data" data-line-start="398" data-line-end="399">如果需要修改中文字体等要手动编辑INI文件的选项，具体方法为：打开Mod Organizer2，单击MO2顶部栏上的按钮<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/MO2inieditor_pic.jpg?raw=true" alt="inieditor_pic" title="inieditor_pic"> ，然后选择 INI编辑器。导航到 fallout.ini 或 falloutprefs.ini 选项卡，修改其中相应内容并保存即可。</p>
 <p class="has-line-data" data-line-start="401" data-line-end="403">有关ENB与NVGE的说明：<br>
 使用4GBpatch时正常安装ENB，如果你在使用NVGE-New Vegas Reload的同时使用ENB，请打开根目录下的 enblocal.ini 并将其中的 SpeedHack=true 改为 SpeedHack=false ，以保证两者相互兼容。</p>
