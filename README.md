@@ -47,8 +47,8 @@
 所有modding工具必须安装在默认Windows文件夹之外（如Program Files，Program Files（x86）和Documents）。<br>
 Fallout New Vegas和Mod Organizer 2必须安装在同一个盘上，但不要将Mod Organizer 2和mod文件夹安装在游戏根目录下。</p>
 <p class="has-line-data" data-line-start="65" data-line-end="69">2.常用术语：<br>
-根文件夹(根目录)：<em>Steam / steamapps / common / Fallout New Vegas</em> 或 <em>GOG Galaxy / Games / Fallout New Vegas</em><br>
-Data文件夹：<em>Steam / steamapps / common / Fallout New Vegas / Data</em> 或 <em>GOG Galaxy / Games / Fallout New Vegas / Data</em><br>
+根文件夹(根目录)：<em>Steam/steamapps/common/Fallout New Vegas</em> 或 <em>GOG Galaxy/Games/Fallout New Vegas</em><br>
+Data文件夹：<em>Steam/steamapps/common/Fallout New Vegas/Data</em> 或 <em>GOG Galaxy/Games/Fallout New Vegas/Data</em><br>
 MO2：Mod Organizer 2（将很快安装）</p>
 <p class="has-line-data" data-line-start="70" data-line-end="74"><strong>3.禁用叠加层：</strong><br>
 需要为Fallout New Vegas禁用任何叠加以防止内存泄漏。一些具有覆盖的常见应用程序是Steam，GOG，NVIDIA GeForce Experience，Discord和MSI Afterburner。<br>
@@ -56,7 +56,7 @@ Steam的禁用方法为：在库中右键点击Fallout：New Vegas，选择 属�
 GeForce Experience的禁用方法为：打开GeForce Experience，点击右上方的齿轮图标进入设置。在 常规 一栏关闭 游戏内覆盖 。</p>
 <p class="has-line-data" data-line-start="75" data-line-end="79">4.设置Fallout New Vegas Modding文件夹：<br>
 modding文件夹将充当安装的所有工具的主目录，以及任何备份/屏幕截图等。从现在开始，此文件夹将被称为Modding文件夹。<br>
-在与Fallout New Vegas相同盘上的默认Windows文件夹和游戏根目录之外创建一个新文件夹，将它命名_Fallout NV Modding_，创建两个子文件夹名为_Backups_和_Tools_<br>
+在与Fallout New Vegas相同盘上的默认Windows文件夹和游戏根目录之外创建一个新文件夹，将它命名为<em>Fallout NV Modding</em>，创建两个子文件夹名为<em>Backups</em>和<em>Tools</em><br>
 备份整个游戏，将 Fallout New Vegas 文件夹复制到刚才创建的 Backups 中。</p>
 <p class="has-line-data" data-line-start="80" data-line-end="83">5.生成新鲜的.INI文件：<br>
 从根文件夹运行 FalloutNVLauncher.exe<br>
