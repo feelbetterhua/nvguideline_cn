@@ -1,5 +1,5 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="2019_0"></a>2019年新维加斯入门指南</h1>
-<p class="has-line-data" data-line-start="2" data-line-end="3"><a href="http://github.com/feelbetterhua/nvguideline_cn">github.com/feelbetterhua/nvguideline_cn</a></p>
+<p class="has-line-data" data-line-start="2" data-line-end="3">v19.10 <a href="http://github.com/feelbetterhua/nvguideline_cn">http://github.com/feelbetterhua/nvguideline_cn</a></p>
 <hr>
 <p class="has-line-data" data-line-start="6" data-line-end="7"><img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/intro_pic.jpg?raw=true" alt="intro" title="intro"></p>
 <p class="has-line-data" data-line-start="8" data-line-end="9"><strong>2019年了，新维加斯不应该是这个游戏体验</strong></p>
@@ -53,7 +53,7 @@ MO2：Mod Organizer 2（将很快安装）</p>
 <p class="has-line-data" data-line-start="70" data-line-end="74"><strong>3.禁用叠加层：</strong><br>
 需要为Fallout New Vegas禁用任何叠加以防止内存泄漏。一些具有覆盖的常见应用程序是Steam，GOG，NVIDIA GeForce Experience，Discord和MSI Afterburner。<br>
 Steam的禁用方法为：在库中右键点击Fallout：New Vegas，选择 属性，在 常规 选项卡下找到 在游戏中启动Steam界面 并反勾选它。<br>
-GeForce Experience的禁用方法为：打开GeForce Experience，点击右上方的齿轮图标进入设置。在 常规 一栏关闭 游戏内覆盖 。</p>
+GeForce Experience的禁用方法为：打开GeForce Experience，点击右上方的齿轮图标进入设置。在 常规 一栏关闭 游戏内覆盖</p>
 <p class="has-line-data" data-line-start="75" data-line-end="79">4.设置Fallout New Vegas Modding文件夹：<br>
 modding文件夹将充当安装的所有工具的主目录，以及任何备份/屏幕截图等。从现在开始，此文件夹将被称为Modding文件夹。<br>
 在与Fallout New Vegas相同盘上的默认Windows文件夹和游戏根目录之外创建一个新文件夹，将它命名为<em>Fallout NV Modding</em>，创建两个子文件夹名为<em>Backups</em>和<em>Tools</em><br>
