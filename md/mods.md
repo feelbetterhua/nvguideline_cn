@@ -28,7 +28,7 @@ modding文件夹将充当安装的所有工具的主目录，以及任何备份/
 </ul>
 <p class="has-line-data" data-line-start="32" data-line-end="34">根据你的偏好设置分辨率，注意 Antiailiasing 项最多可以设置为8 Samples。<br>
 单击 OK，然后单击 PLAY 进入游戏。进入主菜单后没有异常就退出游戏。</p>
-<p class="has-line-data" data-line-start="35" data-line-end="36">二、一些工具（必选）</p>
+<p class="has-line-data" data-line-start="35" data-line-end="36">二、一些工具</p>
 <p class="has-line-data" data-line-start="37" data-line-end="41">1.Microsoft VC ++ 2013<br>
 <a href="http://download.microsoft.com/download/0/5/6/056dcda9-d667-4e27-8001-8a0c6971d6b1/vcredist_x86.exe">http://download.microsoft.com/download/0/5/6/056dcda9-d667-4e27-8001-8a0c6971d6b1/vcredist_x86.exe</a><br>
 特别安装说明：<br>
@@ -84,7 +84,7 @@ modding文件夹将充当安装的所有工具的主目录，以及任何备份/
 <p class="has-line-data" data-line-start="87" data-line-end="88">汉化补丁使用Steam版的exe文件替换了原文件，因此打上补丁的GOG版就相当于Steam版</p>
 </blockquote>
 <p class="has-line-data" data-line-start="89" data-line-end="90">进入游戏，主界面和菜单应该都已汉化。<strong>点击 选项-显示 ，滚轮滑到最下，将 一般字幕 设置为开启</strong>。后退到主菜单，开始新游戏测试游戏内容及汉化是否有问题。</p>
-<p class="has-line-data" data-line-start="91" data-line-end="92">四、BSA文件与音频解码优化（可选）</p>
+<p class="has-line-data" data-line-start="91" data-line-end="92">四、BSA文件与音频解码优化</p>
 <p class="has-line-data" data-line-start="93" data-line-end="95">BSA Decompressor<br>
 <a href="https://pan.baidu.com/s/1wVpaMcmghl2xpl3Xu9oqHw">https://pan.baidu.com/s/1wVpaMcmghl2xpl3Xu9oqHw</a> 提取码: xmjd</p>
 <p class="has-line-data" data-line-start="96" data-line-end="97"><strong>这一步要求游戏本体安装在 C:/Program Files(x86)/Steam 文件夹之外，如果没有则直接进行Ogg Vorbis Libraries</strong></p>
@@ -204,7 +204,7 @@ BethINI容易被防病毒软件标记为误报，所以最好请其添加到将�
 </ol>
 <p class="has-line-data" data-line-start="220" data-line-end="222"><strong>在使用了BethINI之后，请不要运行FalloutNVLauncher.exe或通过Steam启动新维加斯，FNVTools2.1修改字体也将不起作用</strong>。<br>
 如果在以后的游戏流程中需要修改画质、改变字体及其他选项，请阅读指南最后有关BethINI的说明。</p>
-<p class="has-line-data" data-line-start="223" data-line-end="224">九、重要前置（必选）</p>
+<p class="has-line-data" data-line-start="223" data-line-end="224">七、重要前置</p>
 <p class="has-line-data" data-line-start="225" data-line-end="230">NVSE<br>
 <a href="http://nvse.silverlock.org/">http://nvse.silverlock.org/</a><br>
 特别安装说明：<br>
@@ -251,7 +251,7 @@ BethINI容易被防病毒软件标记为误报，所以最好请其添加到将�
 <blockquote>
 <p class="has-line-data" data-line-start="263" data-line-end="264">通过Steam或GOG验证游戏文件完整性将撤消4GBpatch补丁</p>
 </blockquote>
-<p class="has-line-data" data-line-start="265" data-line-end="266">十、最终测试</p>
+<p class="has-line-data" data-line-start="265" data-line-end="266">八、最终测试</p>
 <p class="has-line-data" data-line-start="267" data-line-end="268">至此基础游戏的设置及优化已全部完成，请按照以下步骤进行完整测试：</p>
 <p class="has-line-data" data-line-start="269" data-line-end="273">通过MO2运行NVSE<br>
 启动一个新存档，快速通过Doc Mitchell所在的教程<br>
