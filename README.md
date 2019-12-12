@@ -34,11 +34,11 @@
 <p class="has-line-data" data-line-start="30" data-line-end="31">为了满足不同人群的需求，该指南有两种安装方法：</p>
 <ul>
 <li class="has-line-data" data-line-start="32" data-line-end="34">
-<p class="has-line-data" data-line-start="32" data-line-end="33">第一种面向完全新手/无mod需求者，采用最简化的设置与直接安装的方式进行，以最快的速度解决大部分问题。</p>
+<p class="has-line-data" data-line-start="32" data-line-end="33">简化版：面向完全新手/无mod需求者，采用最简化的设置与直接安装的方式进行，以最快的速度解决大部分问题，缺点是失去部分优化。</p>
 </li>
 <li class="has-line-data" data-line-start="34" data-line-end="36">
-<p class="has-line-data" data-line-start="34" data-line-end="35">第二种面向有一定动手能力/有mod需求者，采用管理器的方式安装并结合大量的优化设置，全面提高游戏运行稳定性与帧数，并为将来的mod安装打下基础。</p>
+<p class="has-line-data" data-line-start="34" data-line-end="35">完整版：面向有一定动手能力/有mod需求者，采用管理器的方式安装并结合大量优化设置，全面提高游戏运行稳定性与帧数，并为将来的mod安装打下基础。</p>
 </li>
 </ul>
-<h4 class="code-line" data-line-start=36 data-line-end=37 ><a id="modshttpsgithubcomfeelbetterhuanvguideline_cnblobmastermdnomodsmd_mods_36"></a><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/nomods.md" title="不需要mods">不需要mods</a></h4>
-<h4 class="code-line" data-line-start=38 data-line-end=39 ><a id="modshttpsgithubcomfeelbetterhuanvguideline_cnblobmastermdmodsmd_mods_38"></a><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/mods.md" title="想要mods">想要mods</a></h4>
+<h4 class="code-line" data-line-start=36 data-line-end=37 ><a id="httpsgithubcomfeelbetterhuanvguideline_cnblobmastermdnomodsmd__36"></a><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/nomods.md" title="简化版">简化版</a></h4>
+<h4 class="code-line" data-line-start=38 data-line-end=39 ><a id="httpsgithubcomfeelbetterhuanvguideline_cnblobmastermdmodsmd__38"></a><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/mods.md" title="完整版">完整版</a></h4>
