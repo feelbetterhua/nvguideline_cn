@@ -51,7 +51,7 @@ Data文件夹：<em>Steam/steamapps/common/Fallout New Vegas/Data</em> 或 <em>G
 特别安装说明：<br>
 将压缩包内 FalloutCustom.ini 解压到 <em>文档/My Games/FalloutNV</em><br>
 解压后导航到 <em>文档/My Games/FalloutNV</em>，打开刚解压的 FalloutCustom.ini<br>
-将INumHWThreads更改为CPU所具有的线程数，可以导航到 <em>文档/My Games/FalloutNV</em> 打开 RendererInfo.txt ，参考最后一行 HW Thread Count 后面的数字</p>
+将INumHWThreads更改为CPU所具有的线程数，可以打开 RendererInfo.txt ，参考最后一行 HW Thread Count 后面的数字</p>
 <ul>
 <li class="has-line-data" data-line-start="62" data-line-end="66">如果你不以16：9的宽高比运行游戏，可以删除<br>
 fXenonVertLookSpeed=1200.0000<br>
