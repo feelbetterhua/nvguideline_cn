@@ -51,52 +51,54 @@ Data文件夹：<em>Steam/steamapps/common/Fallout New Vegas/Data</em> 或 <em>G
 <a href="https://pan.baidu.com/s/1eiF8xBpgxPUn6neF-Q5ltw">https://pan.baidu.com/s/1eiF8xBpgxPUn6neF-Q5ltw</a> 提取码: m5zf<br>
 特别安装说明：<br>
 将压缩包内的所有内容解压到Data文件夹</p>
-<p class="has-line-data" data-line-start="58" data-line-end="61">FalloutCustom.ini优化<br>
+<p class="has-line-data" data-line-start="58" data-line-end="64">FalloutCustom.ini优化<br>
 特别安装说明：<br>
-将压缩包内 FalloutCustom.ini 解压到 <em>文档/My Games/FalloutNV</em></p>
-<p class="has-line-data" data-line-start="62" data-line-end="70">4GBpatch<br>
+将压缩包内 FalloutCustom.ini 解压到 <em>文档/My Games/FalloutNV</em><br>
+解压完成后导航到 <em>文档/My Games/FalloutNV</em> ，打开刚解压的 FalloutCustom.ini<br>
+将 INumHWThreads 后面的数字修改为CPU所具有的线程数，如果不清楚则打开同目录下的 RendererInfo.txt ，参考最后一行 HW Thread Count 后面的数字<br>
+修改完成后保存并退出</p>
+<p class="has-line-data" data-line-start="65" data-line-end="72">4GBpatch<br>
 <a href="https://pan.baidu.com/s/1J5aaQVnJIml1V0YfL-teUA">https://pan.baidu.com/s/1J5aaQVnJIml1V0YfL-teUA</a> 提取码: bj3h<br>
 特殊安装说明：<br>
 将压缩包内的 4gb_patch.exe 解压到根目录<br>
 请确保 <strong>没有</strong> 运行Mod Organizer 2，导航到根目录，右键单击 4gb_patch.exe ，选择 以管理员身份运行<br>
 在弹出的窗口中双击选择 nvse_loader.exe ，应该弹出窗口显示 Executable successfully patched！<br>
-此时点击 Another File ，在弹出的窗口双击选择 FalloutNV.exe ，稍等一会<br>
-在根目录出现 FalloutNV.exe.Backup 之后点击 OK 退出</p>
-<p class="has-line-data" data-line-start="71" data-line-end="76"><strong>验证NVSE和4GBpatch是否运行：</strong><br>
+此时点击 Another File ，在弹出的窗口双击选择 FalloutNV.exe ，等待根目录出现 FalloutNV.exe.Backup 之后点击 OK 退出</p>
+<p class="has-line-data" data-line-start="73" data-line-end="78"><strong>验证NVSE和4GBpatch是否运行：</strong><br>
 打开Mod Organizer 2，在右栏上方的下拉菜单选择 NVSE ，点击运行<br>
 进入游戏主菜单后，按 ~ 键打开控制台<br>
 将getnvseversion输入控制台并按Enter键<br>
 控制台应报告 NVSE version: 5</p>
 <ul>
-<li class="has-line-data" data-line-start="76" data-line-end="78">如果没有，请检查NVSE是否已正确安装并重试</li>
+<li class="has-line-data" data-line-start="78" data-line-end="80">如果没有，请检查NVSE是否已正确安装并重试</li>
 </ul>
-<p class="has-line-data" data-line-start="78" data-line-end="80">将getislaa输入控制台并按Enter键<br>
+<p class="has-line-data" data-line-start="80" data-line-end="82">将getislaa输入控制台并按Enter键<br>
 控制台应该报告 GetisLAA &gt;&gt; 2.0000</p>
 <ul>
-<li class="has-line-data" data-line-start="80" data-line-end="81">如果控制台报告 GetisLAA &gt;&gt; 0.0000，则说明补丁未正确安装</li>
-<li class="has-line-data" data-line-start="81" data-line-end="82">如果控制台报告 GetisLAA &gt;&gt; 1.0000，则修补程序已正确安装但无法正常运行</li>
-<li class="has-line-data" data-line-start="82" data-line-end="84">如果控制台报告错误消息，则表示未正确安装JIP LN NVSE</li>
+<li class="has-line-data" data-line-start="82" data-line-end="83">如果控制台报告 GetisLAA &gt;&gt; 0.0000，则说明补丁未正确安装</li>
+<li class="has-line-data" data-line-start="83" data-line-end="84">如果控制台报告 GetisLAA &gt;&gt; 1.0000，则修补程序已正确安装但无法正常运行</li>
+<li class="has-line-data" data-line-start="84" data-line-end="86">如果控制台报告错误消息，则表示未正确安装JIP LN NVSE</li>
 </ul>
-<p class="has-line-data" data-line-start="84" data-line-end="85"><strong>验证完成，之后都在Mod Organizer 2中通过NVSE进行游戏</strong></p>
+<p class="has-line-data" data-line-start="86" data-line-end="87"><strong>验证完成，之后都在Mod Organizer 2中通过NVSE进行游戏</strong></p>
 <blockquote>
-<p class="has-line-data" data-line-start="85" data-line-end="86">通过Steam或GOG验证游戏文件完整性将撤消4GBpatch补丁</p>
+<p class="has-line-data" data-line-start="87" data-line-end="88">通过Steam或GOG验证游戏文件完整性将撤消4GBpatch补丁</p>
 </blockquote>
-<p class="has-line-data" data-line-start="87" data-line-end="88">四、最终测试及可选选项</p>
-<p class="has-line-data" data-line-start="89" data-line-end="90">至此基础游戏的设置及优化已全部完成，请按照以下步骤进行完整测试：</p>
+<p class="has-line-data" data-line-start="89" data-line-end="90">四、最终测试及可选选项</p>
+<p class="has-line-data" data-line-start="91" data-line-end="92">至此基础游戏的设置及优化已全部完成，请按照以下步骤进行完整测试：</p>
 <ul>
-<li class="has-line-data" data-line-start="90" data-line-end="91">确保选择了合适的画质选项，之后通过MO2进行游戏</li>
-<li class="has-line-data" data-line-start="91" data-line-end="92">启动一个新存档，快速通过医生的教程</li>
-<li class="has-line-data" data-line-start="92" data-line-end="93">离开医生的房间后，打开pipboy检查各个选项是否有问题</li>
-<li class="has-line-data" data-line-start="93" data-line-end="95">在游戏中花费至少20-30分钟做任何事情以确保游戏顺利进行</li>
+<li class="has-line-data" data-line-start="92" data-line-end="93">确保选择了合适的画质选项，之后通过MO2进行游戏</li>
+<li class="has-line-data" data-line-start="93" data-line-end="94">启动一个新存档，快速通过医生的教程</li>
+<li class="has-line-data" data-line-start="94" data-line-end="95">离开医生的房间后，打开pipboy检查各个选项是否有问题</li>
+<li class="has-line-data" data-line-start="95" data-line-end="97">在游戏中花费至少20-30分钟做任何事情以确保游戏顺利进行</li>
 </ul>
-<p class="has-line-data" data-line-start="95" data-line-end="96">这里是一些 <strong><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/display.md" title="可选选项">可选选项</a></strong> ，根据需求找到相应部分设置：</p>
+<p class="has-line-data" data-line-start="97" data-line-end="98">这里是一些 <strong><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/display.md" title="可选选项">可选选项</a></strong> ，根据需求找到相应部分设置：</p>
 <ul>
-<li class="has-line-data" data-line-start="96" data-line-end="97">如果游戏时有画面撕裂的问题，参照<strong>防撕裂设置</strong></li>
-<li class="has-line-data" data-line-start="97" data-line-end="98">如果需要游戏以无边框全屏的方式运行(防止切出游戏时卡死)，参照<strong>伪全屏设置</strong></li>
-<li class="has-line-data" data-line-start="98" data-line-end="99">如果要以超过60帧运行游戏，参照<strong>高帧率设置</strong></li>
-<li class="has-line-data" data-line-start="99" data-line-end="101">如果要使用ENB以及NVGE的截图功能，阅读<strong>有关ENB与NVGE的说明</strong></li>
+<li class="has-line-data" data-line-start="98" data-line-end="99">如果游戏时有画面撕裂的问题，参照<strong>防撕裂设置</strong></li>
+<li class="has-line-data" data-line-start="99" data-line-end="100">如果需要游戏以无边框全屏的方式运行(防止切出游戏时卡死)，参照<strong>伪全屏设置</strong></li>
+<li class="has-line-data" data-line-start="100" data-line-end="101">如果要以超过60帧运行游戏，参照<strong>高帧率设置</strong></li>
+<li class="has-line-data" data-line-start="101" data-line-end="103">如果要使用ENB以及NVGE的截图功能，阅读<strong>有关ENB与NVGE的说明</strong></li>
 </ul>
-<p class="has-line-data" data-line-start="101" data-line-end="103">正常按指南完整做到了每一个步骤，并选择了合适的画质与分辨率，游戏应没有卡顿并可以长时间运行不跳出。<br>
+<p class="has-line-data" data-line-start="103" data-line-end="105">正常按指南完整做到了每一个步骤，并选择了合适的画质与分辨率，游戏应没有卡顿并可以长时间运行不跳出。<br>
 遇到任何问题，尝试先判断是否完全按指南进行设置。指南无法解决的问题，请先尝试百度解决方法，也可以回复进行询问，我尽可能回答。</p>
 <hr>
-<p class="has-line-data" data-line-start="106" data-line-end="107">以上是本指南的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到丝滑流畅的新维加斯体验。</p>
+<p class="has-line-data" data-line-start="108" data-line-end="109">以上是本指南的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到丝滑流畅的新维加斯体验。</p>
