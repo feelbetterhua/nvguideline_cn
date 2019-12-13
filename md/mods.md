@@ -251,15 +251,24 @@ BethINI容易被防病毒软件标记为误报，所以最好请其添加到将�
 <blockquote>
 <p class="has-line-data" data-line-start="263" data-line-end="264">通过Steam或GOG验证游戏文件完整性将撤消4GBpatch补丁</p>
 </blockquote>
-<p class="has-line-data" data-line-start="265" data-line-end="266">八、最终测试</p>
+<p class="has-line-data" data-line-start="265" data-line-end="266">八、最终测试及可选选项</p>
 <p class="has-line-data" data-line-start="267" data-line-end="268">至此基础游戏的设置及优化已全部完成，请按照以下步骤进行完整测试：</p>
-<p class="has-line-data" data-line-start="269" data-line-end="273">通过MO2运行NVSE<br>
-启动一个新存档，快速通过Doc Mitchell所在的教程<br>
-离开医生的房间后，打开pipboy检查各个选项是否有问题<br>
-在游戏中花费至少20-30分钟做任何事情以确保游戏顺利进行</p>
 <ul>
-<li class="has-line-data" data-line-start="273" data-line-end="274">如果按指南完整做到了每一个步骤，并选择了合适的画质与分辨率，此时游戏应没有卡顿并可以长时间运行不跳出。</li>
-<li class="has-line-data" data-line-start="274" data-line-end="275">如果有任何问题，尝试先判断是否完全按指南进行设置。如果确定步骤没有问题，请先调低画质及分辨率再进行测试(但尽量不要以最低画质运行)。</li>
-<li class="has-line-data" data-line-start="275" data-line-end="277">如果问题依旧存在，请尝试百度解决方法。也可以回复进行询问，我尽可能回答。</li>
+<li class="has-line-data" data-line-start="268" data-line-end="269">确保选择了合适的画质选项，之后通过MO2进行游戏</li>
+<li class="has-line-data" data-line-start="269" data-line-end="270">启动一个新存档，快速通过医生的教程</li>
+<li class="has-line-data" data-line-start="270" data-line-end="271">离开医生的房间后，打开pipboy检查各个选项是否有问题</li>
+<li class="has-line-data" data-line-start="271" data-line-end="273">在游戏中花费至少20-30分钟做任何事情以确保游戏顺利进行</li>
 </ul>
-<p class="has-line-data" data-line-start="277" data-line-end="278">以上是本指南的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到丝滑流畅的新维加斯体验。</p>
+<p class="has-line-data" data-line-start="273" data-line-end="274">这里是一些 <strong><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/display.md" title="可选选项">可选选项</a></strong> ，根据需求找到相应部分设置：</p>
+<ul>
+<li class="has-line-data" data-line-start="274" data-line-end="275">如果游戏时有画面撕裂的问题，参照<strong>防撕裂设置</strong></li>
+<li class="has-line-data" data-line-start="275" data-line-end="276">如果需要游戏以无边框全屏的方式运行(防止切出游戏时卡死)，参照<strong>伪全屏设置</strong></li>
+<li class="has-line-data" data-line-start="276" data-line-end="277">如果要以超过60帧运行游戏，参照<strong>高帧率设置</strong></li>
+<li class="has-line-data" data-line-start="277" data-line-end="278">在使用BethINI后，如果需要修改字体等涉及编辑INI文件的，阅读<strong>有关BethINI的说明</strong></li>
+<li class="has-line-data" data-line-start="278" data-line-end="280">如果要使用ENB以及NVGE的截图功能，阅读<strong>有关ENB与NVGE的说明</strong></li>
+</ul>
+<p class="has-line-data" data-line-start="280" data-line-end="283">正常按指南完整做到了每一个步骤，并选择了合适的画质与分辨率，游戏应没有卡顿并可以长时间运行不跳出。<br>
+遇到任何问题，尝试先判断是否完全按指南进行设置。如果确定步骤没有问题，请先调低画质及分辨率再进行测试(但尽量不要以最低画质运行)。<br>
+指南无法解决的问题，请先尝试百度解决方法。也可以回复进行询问，我尽可能回答。</p>
+<hr>
+<p class="has-line-data" data-line-start="286" data-line-end="287">以上是本指南的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到丝滑流畅的新维加斯体验。</p>
