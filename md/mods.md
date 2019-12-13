@@ -228,7 +228,7 @@ BethINI容易被防病毒软件标记为误报，所以最好请其添加到将�
 将压缩包内的 4gb_patch.exe 解压到根目录<br>
 请确保 <strong>没有</strong>运行Mod Organizer 2，导航到根目录，右键单击 4gb_patch.exe ，选择 以管理员身份运行<br>
 在弹出的窗口中双击选择 nvse_loader.exe ，应该弹出窗口显示 Executable successfully patched！<br>
-此时点击 Another File ，在弹出的窗口双击选择 FalloutNV.exe ，等待根目录下出现 FalloutNV.exe.Backup 后关闭软件。</p>
+此时点击 Another File ，在弹出的窗口双击选择 FalloutNV.exe ，等待根目录下出现 FalloutNV.exe.Backup 后点击 OK 退出</p>
 <ul>
 <li class="has-line-data" data-line-start="247" data-line-end="249">使游戏能够识别大地址，这意味着它可以使用4GB RAM而不是2GB</li>
 </ul>
