@@ -15,7 +15,7 @@ GeForce Experience的禁用方法为：打开GeForce Experience，点击右上�
 modding文件夹将充当安装的所有工具的主目录，以及任何备份/屏幕截图等。<br>
 在与Fallout New Vegas相同盘上的默认Windows文件夹和游戏根目录之外创建一个新文件夹，将它命名为<em>Fallout NV Modding</em>，创建两个子文件夹名为<em>Backups</em>和<em>Tools</em><br>
 备份整个游戏，将 Fallout New Vegas 文件夹复制到刚才创建的 Backups 中。</p>
-<p class="has-line-data" data-line-start="22" data-line-end="25"><strong>5.首次运行以初始化ini文件：：</strong><br>
+<p class="has-line-data" data-line-start="22" data-line-end="25"><strong>5.首次运行以初始化ini文件：</strong><br>
 从根文件夹运行 FalloutNVLauncher.exe<br>
 弹出 Detecting Video Hardware 的窗口，单击确定。之后弹出窗口提示程序根据你的硬件已设置画质，单击确定。</p>
 <ul>
