@@ -93,6 +93,20 @@ sFontFile_7=Textures\Fonts\fixedsys_kar.fnt<br>
 sFontFile_8=Textures\Fonts\fixedsys_kar.fnt<br>
 sFontFile_9=Textures\Fonts\fixedsys_kar.fnt</p>
 <p class="has-line-data" data-line-start="101" data-line-end="102">修改完成后点击 保存 ，然后关闭INI编辑器</p>
-<p class="has-line-data" data-line-start="103" data-line-end="105"><strong>有关ENB与NVGE的说明</strong>：<br>
-使用4GBpatch时正常安装ENB，如果你在使用NVGE-New Vegas Reload的同时使用ENB，请打开根目录下的 enblocal.ini 并将其中的 SpeedHack=true 改为 SpeedHack=false ，以保证两者相互兼容。</p>
-<p class="has-line-data" data-line-start="106" data-line-end="107">NVGE自带截图功能，并且截图不包含UI，快捷键是F11。如需带UI截图，可以按 PrtScr 键截取。NVGE的截图保存在根目录下的 Screenshots 文件夹，带UI的截图保存在游戏根目录。</p>
+<p class="has-line-data" data-line-start="103" data-line-end="105"><strong>有关ENB与NVR的说明</strong>：<br>
+在使用NVR的同时使用ENB，两者都需要修改一定设置：</p>
+<ul>
+<li class="has-line-data" data-line-start="106" data-line-end="108">
+<p class="has-line-data" data-line-start="106" data-line-end="107">ENB部分：打开根目录下的 enblocal.ini 并将其中的 SpeedHack=true 改为 SpeedHack=false</p>
+</li>
+<li class="has-line-data" data-line-start="108" data-line-end="114">
+<p class="has-line-data" data-line-start="108" data-line-end="113">NVR部分：<br>
+对于完整版：双击MO2左栏的 Utilities，在弹出的页面导航到 INI Files，选择 NVSE\Plugins\NewVegasReloaded.ini ，在 [Main] 部分下找到 ShaderModel3 ，将其后面的1改为0<br>
+点击<img src="https://raw.githubusercontent.com/feelbetterhua/nvguideline_cn/master/MO2_save.PNG" alt="MO2_save" title="MO2_save">保存修改，然后关闭<br>
+对于简化版：导航到 <em>Data\nvse\plugins</em> 文件夹，打开 NewVegasReloaded.ini<br>
+在 [Main] 部分下找到 ShaderModel3 ，将其后面的1改为0，保存修改并退出</p>
+</li>
+</ul>
+<p class="has-line-data" data-line-start="114" data-line-end="117">NVR的截图功能：<br>
+NVR自带截图功能，但要注意NVR截图不包含UI，快捷键是F11。如需带UI截图，可以按 PrtScr 键截取。<br>
+NVR的截图保存在根目录下的 Screenshots 文件夹，PrtScr键的截图保存在游戏根目录。</p>
