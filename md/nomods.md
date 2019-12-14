@@ -96,7 +96,7 @@ Data文件夹：<em>Steam/steamapps/common/Fallout New Vegas/Data</em> 或 <em>G
 <li class="has-line-data" data-line-start="98" data-line-end="99">如果游戏时有画面撕裂的问题，参照<strong>防撕裂设置</strong></li>
 <li class="has-line-data" data-line-start="99" data-line-end="100">如果需要游戏以无边框全屏的方式运行(防止切出游戏时卡死)，参照<strong>伪全屏设置</strong></li>
 <li class="has-line-data" data-line-start="100" data-line-end="101">如果要以超过60帧运行游戏，参照<strong>高帧率设置</strong></li>
-<li class="has-line-data" data-line-start="101" data-line-end="103">如果要使用ENB以及NVGE的截图功能，阅读<strong>有关ENB与NVGE的说明</strong></li>
+<li class="has-line-data" data-line-start="101" data-line-end="103">如果要使用ENB以及NVR的截图功能，阅读<strong>有关ENB与NVR的说明</strong></li>
 </ul>
 <p class="has-line-data" data-line-start="103" data-line-end="105">正常按指南完整做到了每一个步骤，并选择了合适的画质与分辨率，游戏应没有卡顿并可以长时间运行不跳出。<br>
 遇到任何问题，尝试先判断是否完全按指南进行设置。指南无法解决的问题，请先尝试百度解决方法，也可以回复进行询问，我尽可能回答。</p>
