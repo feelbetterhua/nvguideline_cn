@@ -264,10 +264,11 @@ BethINI容易被防病毒软件标记为误报，所以最好请其添加到将�
 <li class="has-line-data" data-line-start="274" data-line-end="275">如果游戏时有画面撕裂的问题，参照<strong>防撕裂设置</strong></li>
 <li class="has-line-data" data-line-start="275" data-line-end="276">如果需要游戏以无边框全屏的方式运行(防止切出游戏时卡死)，参照<strong>伪全屏设置</strong></li>
 <li class="has-line-data" data-line-start="276" data-line-end="277">如果要以超过60帧运行游戏，参照<strong>高帧率设置</strong></li>
-<li class="has-line-data" data-line-start="277" data-line-end="278">在使用BethINI后，如果需要修改字体等涉及编辑INI文件的，阅读<strong>有关BethINI的说明</strong></li>
-<li class="has-line-data" data-line-start="278" data-line-end="280">如果要使用ENB以及NVR的截图功能，阅读<strong>有关ENB与NVR的说明</strong></li>
+<li class="has-line-data" data-line-start="277" data-line-end="278">在使用BSA Decompressor后如果遇到丢失的网格错误（红色大三角），参照<strong>BSA Decompressor修复</strong></li>
+<li class="has-line-data" data-line-start="278" data-line-end="279">在使用BethINI后，如果需要修改字体等涉及编辑INI文件的，阅读<strong>有关BethINI的说明</strong></li>
+<li class="has-line-data" data-line-start="279" data-line-end="281">如果要使用ENB以及NVR的截图功能，阅读<strong>有关ENB与NVR的说明</strong></li>
 </ul>
-<p class="has-line-data" data-line-start="280" data-line-end="282">正常按指南完整做到了每一个步骤，并选择了合适的画质与分辨率，游戏应没有卡顿并可以长时间运行不跳出。<br>
+<p class="has-line-data" data-line-start="281" data-line-end="283">正常按指南完整做到了每一个步骤，并选择了合适的画质与分辨率，游戏应没有卡顿并可以长时间运行不跳出。<br>
 遇到任何问题，尝试先判断是否完全按指南进行设置。指南无法解决的问题，请先尝试百度解决方法，也可以回复进行询问，我尽可能回答。</p>
 <hr>
-<p class="has-line-data" data-line-start="285" data-line-end="286">以上是本指南的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到丝滑流畅的新维加斯体验。</p>
+<p class="has-line-data" data-line-start="286" data-line-end="287">以上是本指南的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到丝滑流畅的新维加斯体验。</p>
