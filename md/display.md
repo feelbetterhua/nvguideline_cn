@@ -66,12 +66,23 @@
 <li class="has-line-data" data-line-start="66" data-line-end="68">将 iMaxFPS 后的 100 根据需要更改为显示帧率加上60</li>
 </ul>
 <p class="has-line-data" data-line-start="68" data-line-end="69">保存修改并退出</p>
-<p class="has-line-data" data-line-start="70" data-line-end="72"><strong>有关BethINI的说明</strong>：<br>
+<p class="has-line-data" data-line-start="70" data-line-end="74"><strong>BSA Decompressor修复</strong>：<br>
+单击MO2顶部栏上的按钮<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/MO2inieditor_pic.jpg?raw=true" alt="inieditor_pic" title="inieditor_pic"> ，选择 INI编辑器<br>
+导航到 Fallout.ini 选项卡，在 [Archive] 下找到 SArchiveList<br>
+用以下内容替换整行（所有内容都应该在一行上）：</p>
+<ul>
+<li class="has-line-data" data-line-start="74" data-line-end="76">SArchiveList=Fallout - Invalidation.bsa, Fallout - Textures.bsa, Fallout - Textures2.bsa, Fallout - Meshes.bsa, Fallout - Meshes2.bsa, Fallout - Voices1.bsa, Fallout - Sound.bsa, Fallout - Misc.bsa</li>
+</ul>
+<p class="has-line-data" data-line-start="76" data-line-end="77">点击 保存 然后退出</p>
+<blockquote>
+<p class="has-line-data" data-line-start="77" data-line-end="78">如果还未开始Mod Organizer 2设置，则导航到 <em>文档/My Games/FalloutNV</em> ，打开 Fallout.ini 进行相同操作</p>
+</blockquote>
+<p class="has-line-data" data-line-start="79" data-line-end="81"><strong>有关BethINI的说明</strong>：<br>
 BethINI相当于一个第三方的FalloutNVLauncher，但拥有更好的预设及更多的选项，它们的共同点是都通过修改INI文件来工作。而Mod Organizer 2会为每一个配置文件单独创建&quot;虚拟&quot;的INI文件，这时FalloutNVLauncher修改原生INI文件就对从MO2中启动的游戏不起作用。</p>
-<p class="has-line-data" data-line-start="73" data-line-end="74">通过将BethINI与Mod Organizer 2链接，BethINI可以直接管理MO2中某个配置文件的INI，不再修改原生INI。 所以今后的游戏过程中如需改变画质就直接使用BethINI，确保选择了正确的MO2配置文件即可(一定不要同时运行BethINI和MO2)。</p>
-<p class="has-line-data" data-line-start="75" data-line-end="77">如果需要修改中文字体等要手动编辑INI文件的选项，具体方法为：<br>
+<p class="has-line-data" data-line-start="82" data-line-end="83">通过将BethINI与Mod Organizer 2链接，BethINI可以直接管理MO2中某个配置文件的INI，不再修改原生INI。 所以今后的游戏过程中如需改变画质就直接使用BethINI，确保选择了正确的MO2配置文件即可(一定不要同时运行BethINI和MO2)。</p>
+<p class="has-line-data" data-line-start="84" data-line-end="86">如果需要修改中文字体等要手动编辑INI文件的选项，具体方法为：<br>
 打开Mod Organizer2，单击MO2顶部栏上的按钮<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/MO2inieditor_pic.jpg?raw=true" alt="inieditor_pic" title="inieditor_pic"> ，然后选择 INI编辑器。导航到 fallout.ini 或 falloutprefs.ini 选项卡，修改其中相应内容并保存即可。</p>
-<p class="has-line-data" data-line-start="78" data-line-end="89">以修改字体的方法为例，打开INI编辑器 ，导航到 fallout.ini 选项卡，找到 [Fonts] ，更改以下内容<br>
+<p class="has-line-data" data-line-start="87" data-line-end="98">以修改字体的方法为例，打开INI编辑器 ，导航到 fallout.ini 选项卡，找到 [Fonts] ，更改以下内容<br>
 微软雅圆：<br>
 sFontFile_1=Textures\Fonts\karl_gb.fnt<br>
 sFontFile_2=Textures\Fonts\karl_gb.fnt<br>
@@ -82,7 +93,7 @@ sFontFile_6=Textures\Fonts\karl_gb.fnt<br>
 sFontFile_7=Textures\Fonts\karl_gb.fnt<br>
 sFontFile_8=Textures\Fonts\karl_gb.fnt<br>
 sFontFile_9=Textures\Fonts\karl_gb.fnt</p>
-<p class="has-line-data" data-line-start="90" data-line-end="100">宋体：<br>
+<p class="has-line-data" data-line-start="99" data-line-end="109">宋体：<br>
 sFontFile_1=Textures\Fonts\fixedsys_kar.fnt<br>
 sFontFile_2=Textures\Fonts\fixedsys_kar.fnt<br>
 sFontFile_3=Textures\Fonts\fixedsys_kar.fnt<br>
@@ -92,21 +103,21 @@ sFontFile_6=Textures\Fonts\fixedsys_kar.fnt<br>
 sFontFile_7=Textures\Fonts\fixedsys_kar.fnt<br>
 sFontFile_8=Textures\Fonts\fixedsys_kar.fnt<br>
 sFontFile_9=Textures\Fonts\fixedsys_kar.fnt</p>
-<p class="has-line-data" data-line-start="101" data-line-end="102">修改完成后点击 保存 ，然后关闭INI编辑器</p>
-<p class="has-line-data" data-line-start="103" data-line-end="105"><strong>有关ENB与NVR的说明</strong>：<br>
+<p class="has-line-data" data-line-start="110" data-line-end="111">修改完成后点击 保存 ，然后关闭INI编辑器</p>
+<p class="has-line-data" data-line-start="112" data-line-end="114"><strong>有关ENB与NVR的说明</strong>：<br>
 在使用NVR的同时使用ENB，两者都需要修改一定设置：</p>
 <ul>
-<li class="has-line-data" data-line-start="106" data-line-end="108">
-<p class="has-line-data" data-line-start="106" data-line-end="107">ENB部分：打开根目录下的 enblocal.ini 并将其中的 SpeedHack=true 改为 SpeedHack=false</p>
+<li class="has-line-data" data-line-start="115" data-line-end="117">
+<p class="has-line-data" data-line-start="115" data-line-end="116">ENB部分：打开根目录下的 enblocal.ini 并将其中的 SpeedHack=true 改为 SpeedHack=false</p>
 </li>
-<li class="has-line-data" data-line-start="108" data-line-end="114">
-<p class="has-line-data" data-line-start="108" data-line-end="113">NVR部分：<br>
+<li class="has-line-data" data-line-start="117" data-line-end="123">
+<p class="has-line-data" data-line-start="117" data-line-end="122">NVR部分：<br>
 对于完整版：双击MO2左栏的 Utilities，在弹出的页面导航到 INI Files，选择 NVSE\Plugins\NewVegasReloaded.ini ，在 [Main] 部分下找到 ShaderModel3 ，将其后面的1改为0<br>
 点击<img src="https://raw.githubusercontent.com/feelbetterhua/nvguideline_cn/master/MO2_save.PNG" alt="MO2_save" title="MO2_save">保存修改，然后关闭<br>
 对于简化版：导航到 <em>Data\nvse\plugins</em> 文件夹，打开 NewVegasReloaded.ini<br>
 在 [Main] 部分下找到 ShaderModel3 ，将其后面的1改为0，保存修改并退出</p>
 </li>
 </ul>
-<p class="has-line-data" data-line-start="114" data-line-end="117">NVR的截图功能：<br>
+<p class="has-line-data" data-line-start="123" data-line-end="126">NVR的截图功能：<br>
 NVR自带截图功能，但要注意NVR截图不包含UI，快捷键是F11。如需带UI截图，可以按 PrtScr 键截取。<br>
 NVR的截图保存在根目录下的 Screenshots 文件夹，PrtScr键的截图保存在游戏根目录。</p>
