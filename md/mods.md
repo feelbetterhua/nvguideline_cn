@@ -212,7 +212,7 @@ BethINI容易被防病毒软件标记为误报，所以最好请其添加到将�
 <li class="has-line-data" data-line-start="214" data-line-end="215">等待程序关闭后导航到游戏根目录下 <em>data/Shaders</em> 文件夹找到 shaderpackage013.sdp ，将其命名为shaderpackage013.sdp.backup。之后把 shaderpackage017.sdp 复制一份到其他位置，将其重命名为shaderpackage013.sdp，再剪切回原文件夹。</li>
 <li class="has-line-data" data-line-start="215" data-line-end="217">进入游戏，在主菜单中选择 选项-显示 ，检查所有<strong>淡出</strong>选项。如果有超出调节框的请将其减小一档，设置完成后退回主菜单，进入游戏检测运行是否正常。</li>
 </ol>
-<p class="has-line-data" data-line-start="217" data-line-end="218"><strong>在使用了BethINI之后，请不要运行FalloutNVLauncher.exe或通过Steam启动新维加斯，FNVTools2.1修改字体也将不起作用</strong>。如果在以后的游戏流程中需要修改画质、改变字体及其他选项，请点击这里 <strong><a href="https://gitee.com/feelbetterhua/nvguideline_cn/blob/master/md/display.md" title="可选选项">可选选项</a></strong> 阅读指南有关BethINI的说明。</p>
+<p class="has-line-data" data-line-start="217" data-line-end="218"><strong>在使用了BethINI之后，请不要运行FalloutNVLauncher.exe或通过Steam启动新维加斯，FNVTools2.1修改字体也将不起作用</strong>。如果在以后的游戏流程中需要修改画质、改变字体及其他选项，请点击这里 <strong><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/display.md" title="可选选项">可选选项</a></strong> 阅读指南有关BethINI的说明。</p>
 <p class="has-line-data" data-line-start="219" data-line-end="220">七、重要前置</p>
 <p class="has-line-data" data-line-start="221" data-line-end="226">NVSE<br>
 <a href="http://nvse.silverlock.org/">http://nvse.silverlock.org/</a><br>
@@ -268,7 +268,7 @@ BethINI容易被防病毒软件标记为误报，所以最好请其添加到将�
 <li class="has-line-data" data-line-start="266" data-line-end="267">离开医生的房间后，打开pipboy检查各个选项是否有问题</li>
 <li class="has-line-data" data-line-start="267" data-line-end="269">在游戏中花费至少20-30分钟做任何事情以确保游戏顺利进行</li>
 </ul>
-<p class="has-line-data" data-line-start="269" data-line-end="270">这里是一些 <strong><a href="https://gitee.com/feelbetterhua/nvguideline_cn/blob/master/md/display.md" title="可选选项">可选选项</a></strong> ，根据需求找到相应部分设置：</p>
+<p class="has-line-data" data-line-start="269" data-line-end="270">这里是一些 <strong><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/display.md" title="可选选项">可选选项</a></strong> ，根据需求找到相应部分设置：</p>
 <ul>
 <li class="has-line-data" data-line-start="270" data-line-end="271">如果游戏时有画面撕裂的问题，参照<strong>防撕裂设置</strong></li>
 <li class="has-line-data" data-line-start="271" data-line-end="272">如果需要游戏以无边框全屏的方式运行（防止切出游戏时卡死），参照<strong>伪全屏设置</strong></li>
