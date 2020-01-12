@@ -23,7 +23,7 @@ Data文件夹：<em>Steam/steamapps/common/Fallout New Vegas/Data</em> 或 <em>G
 <strong>在 选择目标位置 界面检查安装位置是否正确</strong>。下一步时会弹出对话框提示目录已经存在，点击 是 即可。<br>
 在 选择组件 界面中反选所有选项，或在下拉菜单中选择 简介安装，<strong>只需要汉化必须文件</strong>。<br>
 点击下一步进行安装，安装完成后在最后界面选择 运行FNVTools设置游戏 ，结束后自动弹出FNVTools2.1<br>
-<img src="https://raw.githubusercontent.com/feelbetterhua/nvguideline_cn/master/fnvtools_full.jpg" alt="fnvtools_full" title="fnvtools_full"></p>
+<img src="https://gitee.com/feelbetterhua/nvguideline_cn/raw/master/fnvtools_full.jpg" alt="fnvtools_full" title="fnvtools_full"></p>
 <ul>
 <li class="has-line-data" data-line-start="25" data-line-end="26">点击FNVTools中的 INI设置和优化 ，然后勾选和图中 2 一样的选项</li>
 <li class="has-line-data" data-line-start="26" data-line-end="27">在 3 中选择想要的字体(中文幼圆大字 和 中文宋体小字 二选一)，点击后弹出 疑问 对话框，选择 是，再点击确定。最后点击最下方的 保存 ，然后关闭INI设置和优化。</li>
@@ -58,7 +58,7 @@ Data文件夹：<em>Steam/steamapps/common/Fallout New Vegas/Data</em> 或 <em>G
 特别安装说明：<br>
 将压缩包内 FalloutCustom.ini 解压到 <em>文档/My Games/FalloutNV</em><br>
 解压完成后导航到 <em>文档/My Games/FalloutNV</em> ，打开刚解压的 FalloutCustom.ini<br>
-将 INumHWThreads 后面的数字修改为CPU所具有的线程数，如果不清楚则打开同目录下的RendererInfo.txt ，参考最后一行 HW Thread Count 后面的数字<br>
+将 INumHWThreads 后面的数字修改为CPU所具有的线程数，如果不清楚则打开同目录下的 RendererInfo.txt ，参考最后一行 HW Thread Count 后面的数字<br>
 修改完成后保存并退出</p>
 <p class="has-line-data" data-line-start="63" data-line-end="70">4GBpatch<br>
 <a href="https://pan.baidu.com/s/1J5aaQVnJIml1V0YfL-teUA">https://pan.baidu.com/s/1J5aaQVnJIml1V0YfL-teUA</a> 提取码: bj3h<br>
