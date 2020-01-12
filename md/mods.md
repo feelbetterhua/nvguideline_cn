@@ -41,7 +41,7 @@ modding文件夹将充当安装的所有工具的主目录，以及任何备份/
 单击 Visual Studio 2017 标题下的 x86：vc_redist.x86.exe 和x64：vc_redist.x64.exe<br>
 运行两个.exe文件，如果收到已安装该程序的消息，请退出安装程序</p>
 <blockquote>
-<p class="has-line-data" data-line-start="46" data-line-end="47">对于非Win10用户，则可能还需要遵循以下说明 <a href="https://support.microsoft.com/en-us/help/2999226/update-for-universal-c-runtime-in-windows">https://support.microsoft.com/en-us/help/2999226/update-for-universal-c-runtime-in-windows</a></p>
+<p class="has-line-data" data-line-start="46" data-line-end="47">对于非Win10用户，则可能还需要遵循以下说明<a href="https://support.microsoft.com/en-us/help/2999226/update-for-universal-c-runtime-in-windows">https://support.microsoft.com/en-us/help/2999226/update-for-universal-c-runtime-in-windows</a></p>
 </blockquote>
 <ul>
 <li class="has-line-data" data-line-start="48" data-line-end="50">Mod Organizer 2和NVR所需的库</li>
@@ -76,7 +76,7 @@ modding文件夹将充当安装的所有工具的主目录，以及任何备份/
 在 选择组件 界面中反选所有选项，或在下拉菜单中选择 简介安装，<strong>只需要汉化必须文件</strong>。<br>
 点击下一步进行安装，安装完成后在最后界面选择 运行FNVTools设置游戏 ，结束后自动弹出FNVTools2.1<br>
 点击FNVTools中的 INI设置和优化 ，进入INI设置和优化后根据下图进行设置<br>
-<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/fnvtools_pic.JPG?raw=true" alt="fnvtools_pic" title="fnvtools_pic"></p>
+<img src="https://gitee.com/feelbetterhua/nvguideline_cn/raw/master/fnvtools_pic.JPG" alt="fnvtools_pic" title="fnvtools_pic"></p>
 <ul>
 <li class="has-line-data" data-line-start="79" data-line-end="80">首先勾选 1 前面的框，然后根据CPU线程数调整后面的数字，可以导航到 <em>文档/My Games/FalloutNV</em> 打开  RendererInfo.txt ，参考最后一行 HW Thread Count 后面的数字</li>
 <li class="has-line-data" data-line-start="80" data-line-end="81">然后勾选 2 所有的框，<strong>保持 3 中的三个数字为默认</strong></li>
@@ -126,45 +126,44 @@ modding文件夹将充当安装的所有工具的主目录，以及任何备份/
 如果有一个名为 INI file is read-only 的窗口，请选择 Yes<br>
 从弹出窗口 Show Tutorial?，选择 No<br>
 从弹出窗口 Register?，选择 Yes<br>
-进入主界面，点击顶部的按钮<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/MO2setting_pic.jpg?raw=true" alt="setting_pic" title="setting_pic"><br>
+进入主界面，点击顶部的按钮<img src="https://gitee.com/feelbetterhua/nvguideline_cn/raw/master/MO2setting_pic.jpg" alt="setting_pic" title="setting_pic"><br>
 在 General 选项卡下第一栏 Language 项选择 Chinese (simplified)<br>
 点击 OK 软件切换成中文<br>
 如果未选中右栏中的所有插件，请右键单击右栏空白处并选择 全部启用<br>
 按照下图中的顺序改变左栏和右栏中的加载顺序<br>
-<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/order_pic.jpg?raw=true" alt="order_pic" title="order_pic"></p>
+<img src="https://gitee.com/feelbetterhua/nvguideline_cn/raw/master/order_pic.jpg" alt="order_pic" title="order_pic"></p>
 <ul>
 <li class="has-line-data" data-line-start="132" data-line-end="134">如果是GOG版本，则加载顺序中可能存在FalloutNV_lang.esp ，请导航到/Data文件夹将其删除</li>
 </ul>
-<p class="has-line-data" data-line-start="134" data-line-end="136">单击MO2顶部栏上的按钮<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/MO2setting_pic.jpg?raw=true" alt="setting_pic" title="setting_pic">，导航到&quot; 路径&quot;选项卡<br>
-以下选项只在有Nexus账户时才设置，没有的可以跳过</p>
+<p class="has-line-data" data-line-start="134" data-line-end="135">以下选项只在有Nexus账户时才设置，没有的可以跳过</p>
 <ul>
-<li class="has-line-data" data-line-start="136" data-line-end="137">在 N网 选项卡中，单击 Connect to Nexus ，MO2应在浏览器中打开Nexus页面</li>
-<li class="has-line-data" data-line-start="137" data-line-end="138">选择 Authorise</li>
-<li class="has-line-data" data-line-start="138" data-line-end="140">等待页面提示 You have successfully logged into Mod Organizer 2! 后退出浏览器</li>
+<li class="has-line-data" data-line-start="135" data-line-end="136">单击MO2顶部栏上的按钮<img src="https://gitee.com/feelbetterhua/nvguideline_cn/raw/master/MO2setting_pic.jpg" alt="setting_pic" title="setting_pic">，导航到 N网 选项卡</li>
+<li class="has-line-data" data-line-start="136" data-line-end="137">单击 Connect to Nexus ，MO2应在浏览器中打开Nexus页面</li>
+<li class="has-line-data" data-line-start="137" data-line-end="138">选择 Authorise，等待页面提示 You have successfully logged into Mod Organizer 2! 后退出浏览器</li>
+<li class="has-line-data" data-line-start="138" data-line-end="140">点击 OK 退出MO2中的设置菜单，MO2会提示重启，选择 Restart</li>
 </ul>
-<p class="has-line-data" data-line-start="140" data-line-end="141">点击 OK 退出MO2中的设置菜单，如果MO2提示重启，选择 Yes</p>
-<p class="has-line-data" data-line-start="142" data-line-end="151">2.在Mod Organizer 2中创建新配置文件：<br>
+<p class="has-line-data" data-line-start="140" data-line-end="149">2.在Mod Organizer 2中创建新配置文件：<br>
 Mod Organizer 2的配置文件功能允许在不同的mod配置之间轻松切换，可以通过左栏上方的下拉菜单选择配置文件。<br>
-单击MO2顶部栏上的按钮<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/MO2profile_pic.jpg?raw=true" alt="profile_pic" title="profile_pic"><br>
+单击MO2顶部栏上的按钮<img src="https://gitee.com/feelbetterhua/nvguideline_cn/raw/master/MO2profile_pic.jpg" alt="profile_pic" title="profile_pic"><br>
 单击Default配置文件，然后选择重命名<br>
 输入Vanilla作为新名称<br>
 选中 Vanilla 配置文件，选择复制<br>
 输入Core作为新名称，然后单击 OK<br>
 选择 Core 配置文件并选中下方的 使用特定的ini (第二项，应该已经选中) 和 自动档案无效化<br>
 关闭配置文件窗口，可能会报错提示缺少ini文件，点击 OK 即可，然后在 配置文件 一栏选择 Core</p>
-<p class="has-line-data" data-line-start="152" data-line-end="161">3.调整FalloutCustom.ini：<br>
+<p class="has-line-data" data-line-start="150" data-line-end="159">3.调整FalloutCustom.ini：<br>
 确保目前选择的配置文件为 Core<br>
-单击MO2顶部栏上的按钮<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/MO2inieditor_pic.jpg?raw=true" alt="inieditor_pic" title="inieditor_pic"> ，然后选择 INI编辑器<br>
+单击MO2顶部栏上的按钮<img src="https://gitee.com/feelbetterhua/nvguideline_cn/raw/master/MO2inieditor_pic.jpg" alt="inieditor_pic" title="inieditor_pic"> ，然后选择 INI编辑器<br>
 导航到 falloutcustom.ini 选项卡，该选项卡应为空白<br>
 将以下内容粘贴到框中：<br>
 [General]<br>
 bUseThreadedAI=1<br>
 INumHWThreads=4<br>
 bPreemptivelyUnloadCells=1</p>
-<p class="has-line-data" data-line-start="162" data-line-end="165">[BackgroundLoad]<br>
+<p class="has-line-data" data-line-start="160" data-line-end="163">[BackgroundLoad]<br>
 bBackgroundCellLoads=1<br>
 bSelectivePurgeUnusedOnFastTravel=1</p>
-<p class="has-line-data" data-line-start="166" data-line-end="180">[Display]<br>
+<p class="has-line-data" data-line-start="164" data-line-end="178">[Display]<br>
 fLightLODDefaultStartFade=10240.0<br>
 fLightLODRange=10240.0<br>
 fLightLODMinStartFade=10240.0<br>
@@ -178,61 +177,61 @@ fSpecularLODRange=10240.0<br>
 fSpecularLODMinStartFade=10240.0<br>
 fSpecularLODMaxStartFade=10240.0<br>
 iPresentInterval=0</p>
-<p class="has-line-data" data-line-start="181" data-line-end="188">[Controls]<br>
+<p class="has-line-data" data-line-start="179" data-line-end="186">[Controls]<br>
 fForegroundMouseAccelBase=0<br>
 fForegroundMouseAccelTop=0<br>
 fForegroundMouseBase=0<br>
 fForegroundMouseMult=0<br>
 fXenonVertLookSpeed=1200.0000<br>
 fXenonHorizLookSpeed=1500.0000</p>
-<p class="has-line-data" data-line-start="189" data-line-end="191">[Grass]<br>
+<p class="has-line-data" data-line-start="187" data-line-end="189">[Grass]<br>
 fGrassStartFadeDistance=17000</p>
-<p class="has-line-data" data-line-start="192" data-line-end="195">[Audio]<br>
+<p class="has-line-data" data-line-start="190" data-line-end="193">[Audio]<br>
 iAudioCacheSize=8192<br>
 iMaxSizeForCachedSound=2048</p>
 <ul>
-<li class="has-line-data" data-line-start="195" data-line-end="196">将INumHWThreads更改为CPU所具有的线程数，可以导航到 <em>文档/My Games/FalloutNV</em> 打开 RendererInfo.txt ，参考最后一行 HW Thread Count 后面的数字</li>
-<li class="has-line-data" data-line-start="196" data-line-end="200">如果你不以16：9的宽高比运行游戏，可以删除<br>
+<li class="has-line-data" data-line-start="193" data-line-end="194">将INumHWThreads更改为CPU所具有的线程数，可以导航到 <em>文档/My Games/FalloutNV</em> 打开 RendererInfo.txt ，参考最后一行 HW Thread Count 后面的数字</li>
+<li class="has-line-data" data-line-start="194" data-line-end="198">如果你不以16：9的宽高比运行游戏，可以删除<br>
 fXenonVertLookSpeed=1200.0000<br>
 fXenonHorizLookSpeed=1500.0000</li>
 </ul>
-<p class="has-line-data" data-line-start="200" data-line-end="201">完成后点击 保存 ，然后关闭INI编辑器。</p>
-<p class="has-line-data" data-line-start="202" data-line-end="203">六、BethINI</p>
-<p class="has-line-data" data-line-start="204" data-line-end="205"><a href="https://pan.baidu.com/s/1cCRsTZf1S-ekJAIoajRhYw">https://pan.baidu.com/s/1cCRsTZf1S-ekJAIoajRhYw</a> 提取码: jw7j</p>
-<p class="has-line-data" data-line-start="206" data-line-end="208">注意事项：<br>
+<p class="has-line-data" data-line-start="198" data-line-end="199">完成后点击 保存 ，然后关闭INI编辑器。</p>
+<p class="has-line-data" data-line-start="200" data-line-end="201">六、BethINI</p>
+<p class="has-line-data" data-line-start="202" data-line-end="205"><a href="https://pan.baidu.com/s/1cCRsTZf1S-ekJAIoajRhYw">https://pan.baidu.com/s/1cCRsTZf1S-ekJAIoajRhYw</a> 提取码: jw7j<br>
+注意事项：<br>
 BethINI容易被防病毒软件标记为误报，所以最好请其添加到将杀毒软件的白名单中。<strong>请注意，不要通过Mod Organizer 2运行，也不要在Mod Organizer 2打开时运行BethINI</strong>。</p>
-<p class="has-line-data" data-line-start="209" data-line-end="210">安装使用说明：</p>
+<p class="has-line-data" data-line-start="206" data-line-end="207">安装使用说明：</p>
 <ol>
-<li class="has-line-data" data-line-start="210" data-line-end="211">使用前请确保已运行过FalloutNVLauncher.exe并生成了相应的INI文件</li>
-<li class="has-line-data" data-line-start="211" data-line-end="212"><strong>请确保Mod Organizer 2关闭</strong>，解压缩文件到 <em>/Fallout NV Modding/Tools</em> 文件夹，进入并运行 BethINI.exe 。在弹出的窗口中下拉选择 Fallout New Vegas ，等待进入程序。</li>
-<li class="has-line-data" data-line-start="212" data-line-end="213">进入程序后导航到 Setup 选项卡， <strong>取消选择</strong>下方的全部选项方框。之后在 Mod Organizer 一栏下拉菜单中选择 Browse ,在弹出的框中导航到 Mod Organizer 2 文件夹并双击选择 ModOrganizer.exe</li>
-<li class="has-line-data" data-line-start="213" data-line-end="215">在 INI Path 一栏下拉菜单中选择正在使用的Mod Organizer 2配置文件，如 ModOrganizer&gt;Core 。在弹出对话框中选择 确定 。此时会弹出对话框提示BethINI要重新启动，点击 确定 。重启后会弹出名为 Modify Custom INIs? 对话框， <strong>此时选择 否</strong> 。重新进入BethINI后导航到 Setup 选项卡，请确保全部5个选择框都没有选择。<br>
-<img src="https://raw.githubusercontent.com/feelbetterhua/nvguideline_cn/master/BethINI.PNG" alt="BethINI" title="BethINI"></li>
-<li class="has-line-data" data-line-start="215" data-line-end="216">导航到 Basic 选项卡，在 Presets 栏中选择 Vanilla Presets ，再选择 Recommended Tweaks ，程序会自动优化相应的INI文件，之后请根据配置在 Low 到 Ultra 中选择合适的画质选项。</li>
-<li class="has-line-data" data-line-start="216" data-line-end="217">选择完画质后在 Display 一栏中选择合适的分辨率，如果没有需要的分辨率则可以手动输入。可以自行选择 Antialiasing 和 Anisotropic Filtering 倍数。最后选择最下方的 Enable File Selection (如果已经选择则不用管)，确定一切选择正确后点击 Save and Exit 退出。</li>
-<li class="has-line-data" data-line-start="217" data-line-end="218">等待程序关闭后导航到游戏根目录下 <em>data/Shaders</em> 文件夹找到 shaderpackage013.sdp ，将其命名为shaderpackage013.sdp.backup。之后把 shaderpackage017.sdp 复制一份到其他位置，将其重命名为shaderpackage013.sdp，再剪切回原文件夹。</li>
-<li class="has-line-data" data-line-start="218" data-line-end="220">进入游戏，在主菜单中选择 选项-显示 ，检查所有<strong>淡出</strong>选项。如果有超出调节框的请将其减小一档，设置完成后退回主菜单，进入游戏检测运行是否正常。</li>
+<li class="has-line-data" data-line-start="207" data-line-end="208">使用前请确保已运行过FalloutNVLauncher.exe并生成了相应的INI文件</li>
+<li class="has-line-data" data-line-start="208" data-line-end="209"><strong>请确保Mod Organizer 2关闭</strong>，解压缩文件到 <em>/Fallout NV Modding/Tools</em> 文件夹，进入并运行 BethINI.exe 。在弹出的窗口中下拉选择 Fallout New Vegas ，等待进入程序。</li>
+<li class="has-line-data" data-line-start="209" data-line-end="210">进入程序后导航到 Setup 选项卡， <strong>取消选择</strong>下方的全部选项方框。之后在 Mod Organizer 一栏下拉菜单中选择 Browse ,在弹出的框中导航到 Mod Organizer 2 文件夹并双击选择 ModOrganizer.exe</li>
+<li class="has-line-data" data-line-start="210" data-line-end="212">在 INI Path 一栏下拉菜单中选择正在使用的Mod Organizer 2配置文件，如 ModOrganizer&gt;Core 。在弹出对话框中选择 确定 。此时会弹出对话框提示BethINI要重新启动，点击 确定 。重启后会弹出名为 Modify Custom INIs? 对话框， <strong>此时选择 否</strong> 。重新进入BethINI后导航到 Setup 选项卡，请确保全部5个选择框都没有选择。<br>
+<img src="https://gitee.com/feelbetterhua/nvguideline_cn/raw/master/BethINI.PNG" alt="BethINI" title="BethINI"></li>
+<li class="has-line-data" data-line-start="212" data-line-end="213">导航到 Basic 选项卡，在 Presets 栏中选择 Vanilla Presets ，再选择 Recommended Tweaks ，程序会自动优化相应的INI文件，之后请根据配置在 Low 到 Ultra 中选择合适的画质选项。</li>
+<li class="has-line-data" data-line-start="213" data-line-end="214">选择完画质后在 Display 一栏中选择合适的分辨率，如果没有需要的分辨率则可以手动输入。可以自行选择 Antialiasing 和 Anisotropic Filtering 倍数。最后选择最下方的 Enable File Selection (如果已经选择则不用管)，确定一切选择正确后点击 Save and Exit 退出。</li>
+<li class="has-line-data" data-line-start="214" data-line-end="215">等待程序关闭后导航到游戏根目录下 <em>data/Shaders</em> 文件夹找到 shaderpackage013.sdp ，将其命名为shaderpackage013.sdp.backup。之后把 shaderpackage017.sdp 复制一份到其他位置，将其重命名为shaderpackage013.sdp，再剪切回原文件夹。</li>
+<li class="has-line-data" data-line-start="215" data-line-end="217">进入游戏，在主菜单中选择 选项-显示 ，检查所有<strong>淡出</strong>选项。如果有超出调节框的请将其减小一档，设置完成后退回主菜单，进入游戏检测运行是否正常。</li>
 </ol>
-<p class="has-line-data" data-line-start="220" data-line-end="221"><strong>在使用了BethINI之后，请不要运行FalloutNVLauncher.exe或通过Steam启动新维加斯，FNVTools2.1修改字体也将不起作用</strong>。如果在以后的游戏流程中需要修改画质、改变字体及其他选项，请是点击这里 <strong><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/display.md" title="可选选项">可选选项</a></strong> 阅读指南有关BethINI的说明。</p>
-<p class="has-line-data" data-line-start="222" data-line-end="223">七、重要前置</p>
-<p class="has-line-data" data-line-start="224" data-line-end="229">NVSE<br>
+<p class="has-line-data" data-line-start="217" data-line-end="218"><strong>在使用了BethINI之后，请不要运行FalloutNVLauncher.exe或通过Steam启动新维加斯，FNVTools2.1修改字体也将不起作用</strong>。如果在以后的游戏流程中需要修改画质、改变字体及其他选项，请点击这里 <strong><a href="https://gitee.com/feelbetterhua/nvguideline_cn/blob/master/md/display.md" title="可选选项">可选选项</a></strong> 阅读指南有关BethINI的说明。</p>
+<p class="has-line-data" data-line-start="219" data-line-end="220">七、重要前置</p>
+<p class="has-line-data" data-line-start="221" data-line-end="226">NVSE<br>
 <a href="http://nvse.silverlock.org/">http://nvse.silverlock.org/</a><br>
 特别安装说明：<br>
 单击 Download (stable version 5.1b4) 旁边的链接进行下载<br>
 将压缩包内 nvse_5_1_beta4 文件夹中的所有内容解压到根目录</p>
 <ul>
-<li class="has-line-data" data-line-start="229" data-line-end="231">扩展引擎的脚本功能，对于大多数mod来说都是必不可少的</li>
+<li class="has-line-data" data-line-start="226" data-line-end="228">扩展引擎的脚本功能，对于大多数mod来说都是必不可少的</li>
 </ul>
-<p class="has-line-data" data-line-start="231" data-line-end="237">前置补丁包<br>
+<p class="has-line-data" data-line-start="228" data-line-end="234">前置补丁包<br>
 <a href="https://pan.baidu.com/s/1yvHtlDNZk2h1nghIrApj9Q">https://pan.baidu.com/s/1yvHtlDNZk2h1nghIrApj9Q</a> 提取码: 9cma<br>
 特别安装说明：<br>
-打开Mod Organizer2，单击顶栏的按钮<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/MO2install_pic.PNG?raw=true" alt="install_pic" title="install_pic">，导航到下载好的压缩包，双击选择它。<br>
+打开Mod Organizer2，单击顶栏的按钮<img src="https://gitee.com/feelbetterhua/nvguideline_cn/raw/master/MO2install_pic.PNG" alt="install_pic" title="install_pic">，导航到下载好的压缩包，双击选择它。<br>
 在弹出的窗口中确定名称为 Utilities ，点击 确定 安装补丁包。<br>
 安装完成后该补丁会在左栏显示，选中 Utilities 前的方框以激活Mod。</p>
 <ul>
-<li class="has-line-data" data-line-start="237" data-line-end="239">个人制作的前置补丁包，包含必要前置及优化文件。具体内容详见 <strong><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/mod_introduction.md" title="前置说明">前置说明</a></strong></li>
+<li class="has-line-data" data-line-start="234" data-line-end="236">个人制作的前置补丁包，包含必要前置及优化文件。具体内容详见 <strong><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/mod_introduction.md" title="前置说明">前置说明</a></strong></li>
 </ul>
-<p class="has-line-data" data-line-start="239" data-line-end="246">4GBpatch<br>
+<p class="has-line-data" data-line-start="236" data-line-end="243">4GBpatch<br>
 <a href="https://pan.baidu.com/s/1J5aaQVnJIml1V0YfL-teUA">https://pan.baidu.com/s/1J5aaQVnJIml1V0YfL-teUA</a> 提取码: bj3h<br>
 特殊安装说明：<br>
 将压缩包内的 4gb_patch.exe 解压到根目录<br>
@@ -240,43 +239,43 @@ BethINI容易被防病毒软件标记为误报，所以最好请其添加到将�
 在弹出的窗口中双击选择 nvse_loader.exe ，应该弹出窗口显示 Executable successfully patched！<br>
 此时点击 Another File ，在弹出的窗口双击选择 FalloutNV.exe ，等待根目录下出现 FalloutNV.exe.Backup 后点击 OK 退出</p>
 <ul>
-<li class="has-line-data" data-line-start="246" data-line-end="248">使游戏能够识别大地址，这意味着它可以使用4GB RAM而不是2GB</li>
+<li class="has-line-data" data-line-start="243" data-line-end="245">使游戏能够识别大地址，这意味着它可以使用4GB RAM而不是2GB</li>
 </ul>
-<p class="has-line-data" data-line-start="248" data-line-end="253"><strong>验证NVSE和4GBpatch是否运行：</strong><br>
+<p class="has-line-data" data-line-start="245" data-line-end="250"><strong>验证NVSE和4GBpatch是否运行：</strong><br>
 打开Mod Organizer 2，在右栏上方的下拉菜单选择 NVSE ，点击运行<br>
 进入游戏主菜单后，按 ~ 键打开控制台<br>
 将getnvseversion输入控制台并按Enter键<br>
 控制台应报告 NVSE version: 5</p>
 <ul>
-<li class="has-line-data" data-line-start="253" data-line-end="255">如果没有，请检查NVSE是否已正确安装并重试</li>
+<li class="has-line-data" data-line-start="250" data-line-end="252">如果没有，请检查NVSE是否已正确安装并重试</li>
 </ul>
-<p class="has-line-data" data-line-start="255" data-line-end="257">将getislaa输入控制台并按Enter键<br>
+<p class="has-line-data" data-line-start="252" data-line-end="254">将getislaa输入控制台并按Enter键<br>
 控制台应该报告 GetisLAA &gt;&gt; 2.0000</p>
 <ul>
-<li class="has-line-data" data-line-start="257" data-line-end="258">如果控制台报告 GetisLAA &gt;&gt; 0.0000，则说明补丁未正确安装</li>
-<li class="has-line-data" data-line-start="258" data-line-end="259">如果控制台报告 GetisLAA &gt;&gt; 1.0000，则修补程序已正确安装但无法正常运行</li>
-<li class="has-line-data" data-line-start="259" data-line-end="261">如果控制台报告错误消息，则表示未正确安装JIP LN NVSE</li>
+<li class="has-line-data" data-line-start="254" data-line-end="255">如果控制台报告 GetisLAA &gt;&gt; 0.0000，则说明补丁未正确安装</li>
+<li class="has-line-data" data-line-start="255" data-line-end="256">如果控制台报告 GetisLAA &gt;&gt; 1.0000，则修补程序已正确安装但无法正常运行</li>
+<li class="has-line-data" data-line-start="256" data-line-end="258">如果控制台报告错误消息，则表示未正确安装JIP LN NVSE</li>
 </ul>
-<p class="has-line-data" data-line-start="261" data-line-end="262"><strong>验证完成，之后都在Mod Organizer 2中通过NVSE进行游戏</strong></p>
+<p class="has-line-data" data-line-start="258" data-line-end="259"><strong>验证完成，之后都在Mod Organizer 2中通过NVSE进行游戏</strong></p>
 <blockquote>
-<p class="has-line-data" data-line-start="262" data-line-end="263">通过Steam或GOG验证游戏文件完整性将撤消4GBpatch补丁</p>
+<p class="has-line-data" data-line-start="259" data-line-end="260">通过Steam或GOG验证游戏文件完整性将撤消4GBpatch补丁</p>
 </blockquote>
-<p class="has-line-data" data-line-start="264" data-line-end="265">八、最终测试及可选选项</p>
-<p class="has-line-data" data-line-start="266" data-line-end="267">至此基础游戏的设置及优化已全部完成，请按照以下步骤进行完整测试：</p>
+<p class="has-line-data" data-line-start="261" data-line-end="262">八、最终测试及可选选项</p>
+<p class="has-line-data" data-line-start="263" data-line-end="264">至此基础游戏的设置及优化已全部完成，请按照以下步骤进行完整测试：</p>
 <ul>
-<li class="has-line-data" data-line-start="267" data-line-end="268">确保选择了合适的画质选项，之后通过MO2进行游戏</li>
-<li class="has-line-data" data-line-start="268" data-line-end="269">启动一个新存档，快速通过医生的教程</li>
-<li class="has-line-data" data-line-start="269" data-line-end="270">离开医生的房间后，打开pipboy检查各个选项是否有问题</li>
-<li class="has-line-data" data-line-start="270" data-line-end="272">在游戏中花费至少20-30分钟做任何事情以确保游戏顺利进行</li>
+<li class="has-line-data" data-line-start="264" data-line-end="265">确保选择了合适的画质选项，之后通过MO2进行游戏</li>
+<li class="has-line-data" data-line-start="265" data-line-end="266">启动一个新存档，快速通过医生的教程</li>
+<li class="has-line-data" data-line-start="266" data-line-end="267">离开医生的房间后，打开pipboy检查各个选项是否有问题</li>
+<li class="has-line-data" data-line-start="267" data-line-end="269">在游戏中花费至少20-30分钟做任何事情以确保游戏顺利进行</li>
 </ul>
-<p class="has-line-data" data-line-start="272" data-line-end="273">这里是一些 <strong><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/display.md" title="可选选项">可选选项</a></strong> ，根据需求找到相应部分设置：</p>
+<p class="has-line-data" data-line-start="269" data-line-end="270">这里是一些 <strong><a href="https://gitee.com/feelbetterhua/nvguideline_cn/blob/master/md/display.md" title="可选选项">可选选项</a></strong> ，根据需求找到相应部分设置：</p>
 <ul>
-<li class="has-line-data" data-line-start="273" data-line-end="274">如果游戏时有画面撕裂的问题，参照<strong>防撕裂设置</strong></li>
-<li class="has-line-data" data-line-start="274" data-line-end="275">如果需要游戏以无边框全屏的方式运行（防止切出游戏时卡死），参照<strong>伪全屏设置</strong></li>
-<li class="has-line-data" data-line-start="275" data-line-end="276">在使用BSA Decompressor后如果遇到丢失的网格错误（红色大三角），参照<strong>BSA Decompressor修复</strong></li>
-<li class="has-line-data" data-line-start="276" data-line-end="277">在使用BethINI后，如果需要修改字体等涉及编辑INI文件的，阅读<strong>有关BethINI的说明</strong></li>
-<li class="has-line-data" data-line-start="277" data-line-end="279">如果要使用ENB以及NVR的截图功能，阅读<strong>有关ENB与NVR的说明</strong></li>
+<li class="has-line-data" data-line-start="270" data-line-end="271">如果游戏时有画面撕裂的问题，参照<strong>防撕裂设置</strong></li>
+<li class="has-line-data" data-line-start="271" data-line-end="272">如果需要游戏以无边框全屏的方式运行（防止切出游戏时卡死），参照<strong>伪全屏设置</strong></li>
+<li class="has-line-data" data-line-start="272" data-line-end="273">在使用BSA Decompressor后如果遇到丢失的网格错误（红色大三角），参照<strong>BSA Decompressor修复</strong></li>
+<li class="has-line-data" data-line-start="273" data-line-end="274">在使用BethINI后，如果需要修改字体等涉及编辑INI文件的，阅读<strong>有关BethINI的说明</strong></li>
+<li class="has-line-data" data-line-start="274" data-line-end="276">如果要使用ENB以及NVR的截图功能，阅读<strong>有关ENB与NVR的说明</strong></li>
 </ul>
-<p class="has-line-data" data-line-start="279" data-line-end="280">正常按指南完整做到了每一个步骤，并选择了合适的画质与分辨率，游戏应没有卡顿并可以长时间运行不跳出。如果遇到任何问题，尝试先判断是否完全按指南进行设置。指南无法解决的问题，请先尝试百度解决方法，也可以回复进行询问，我尽可能回答。</p>
+<p class="has-line-data" data-line-start="276" data-line-end="277">正常按指南完整做到了每一个步骤，并选择了合适的画质与分辨率，游戏应没有卡顿并可以长时间运行不跳出。如果遇到任何问题，尝试先判断是否完全按指南进行设置。指南无法解决的问题，请先尝试百度解决方法，也可以回复进行询问，我尽可能回答。</p>
 <hr>
-<p class="has-line-data" data-line-start="283" data-line-end="284">以上是本指南的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到丝滑流畅的新维加斯体验。</p>
+<p class="has-line-data" data-line-start="280" data-line-end="281">以上是本指南的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到丝滑流畅的新维加斯体验。</p>
