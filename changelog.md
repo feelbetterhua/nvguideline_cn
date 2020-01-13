@@ -1,10 +1,10 @@
 v20.01已更新，更新内容如下：
-- 更正简化版的几处失误，修正完整版中的几处小错误
 - 全部内容已同步到国内的库，图片源也改为国内，两个地址都可以访问，国内地址加载会更快
+- 更正简化版的几处失误，现在简化版已完全可用
+- 修正两版中的几处小错误并重新排版
+- 加入针对汉化后进入游戏闪退的可能解决办法
 - 更新NVTF，新版NVTF默认开启高帧率支持，对应删除指南中的部分内容
-- 更新Mod Organizer 2
-- 更新JIP LN NVSE
-- 加入Johnnyguitar NVSE，新时代的JIP LN NVSE
+- 更新Mod Organizer 2，更新JIP LN NVSE，加入Johnnyguitar NVSE
 
 <p class="has-line-data" data-line-start="0" data-line-end="1">v19.12版已更新，这次更新幅度较大，内容如下：</p>
 <ul>
