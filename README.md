@@ -1,5 +1,5 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="_0"></a>现代化的新维加斯入门指南</h1>
-<h5 class="code-line" data-line-start=2 data-line-end=3 ><a id="v1912_httpsgithubcomfeelbetterhuanvguideline_cnblobmasterchangelogmd__2"></a>v19.12 <a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/changelog.md" title="更新日志">更新日志</a></h5>
+<h5 class="code-line" data-line-start=2 data-line-end=3 ><a id="v1912_httpsgithubcomfeelbetterhuanvguideline_cnblobmasterchangelogmd__2"></a>v20.01 <a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/changelog.md" title="更新日志">更新日志</a></h5>
 <hr>
 <p class="has-line-data" data-line-start="6" data-line-end="7"><img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/intro_pic.jpg?raw=true" alt="intro" title="intro"></p>
 <p class="has-line-data" data-line-start="8" data-line-end="9"><strong>2019年了，新维加斯不应该是这个游戏体验</strong></p>
