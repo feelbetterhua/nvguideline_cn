@@ -68,7 +68,7 @@ Data文件夹：<em>Steam/steamapps/common/Fallout New Vegas/Data</em> 或 <em>G
 在弹出的窗口中双击选择 nvse_loader.exe ，应该弹出窗口显示 Executable successfully patched！<br>
 此时点击 Another File ，在弹出的窗口双击选择 FalloutNV.exe ，等待根目录出现 FalloutNV.exe.Backup 之后点击 OK 退出</p>
 <p class="has-line-data" data-line-start="71" data-line-end="76"><strong>验证NVSE和4GBpatch是否运行：</strong><br>
-打开Mod Organizer 2，在右栏上方的下拉菜单选择 NVSE ，点击运行<br>
+在根目录打开 nvse_loader.exe 运行游戏<br>
 进入游戏主菜单后，按 ~ 键打开控制台<br>
 将getnvseversion输入控制台并按Enter键<br>
 控制台应报告 NVSE version: 5</p>
