@@ -106,31 +106,33 @@ fXenonHorizLookSpeed=1500.0000</li>
 </ul>
 <p class="has-line-data" data-line-start="115" data-line-end="116">完成后保存关闭。</p>
 <p class="has-line-data" data-line-start="117" data-line-end="118">七、重要前置</p>
-<p class="has-line-data" data-line-start="119" data-line-end="123">前置补丁包<br>
-<a href="https://pan.baidu.com/s/1yvHtlDNZk2h1nghIrApj9Q">https://pan.baidu.com/s/1yvHtlDNZk2h1nghIrApj9Q</a> 提取码: 9cma<br>
+<p class="has-line-data" data-line-start="119" data-line-end="125">前置补丁包<br>
+<a href="https://pan.baidu.com/s/1MocEJs5hfTZFzTDpMlY3Bw">https://pan.baidu.com/s/1MocEJs5hfTZFzTDpMlY3Bw</a> 提取码: je8y<br>
 特别安装说明：<br>
-将压缩包内的所有内容解压到Data文件夹</p>
+将压缩包内的所有内容解压到根目录，导航到根目录，右键单击 4gb_patch.exe ，选择 以管理员身份运行<br>
+在弹出的窗口中双击选择 nvse_loader.exe ，应该弹出窗口显示 Executable successfully patched！<br>
+此时点击 Another File ，在弹出的窗口双击选择 FalloutNV.exe ，等待根目录下出现 FalloutNV.exe.Backup 后点击 OK 退出</p>
 <ul>
-<li class="has-line-data" data-line-start="123" data-line-end="125">个人制作的前置补丁包，包含必要前置及优化文件。具体内容详见 <strong><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/mod_introduction.md" title="前置说明">前置说明</a></strong></li>
+<li class="has-line-data" data-line-start="126" data-line-end="128">个人制作的前置补丁包，包含必要前置及优化文件。具体内容详见 <strong><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/mod_introduction.md" title="前置说明">前置说明</a></strong></li>
 </ul>
-<p class="has-line-data" data-line-start="125" data-line-end="129"><strong>验证NVSE和4GBpatch是否运行：</strong><br>
-导航至根目录，双击nvse_loader.exe运行游戏。进入游戏主菜单后，按 ~ 键打开控制台<br>
+<p class="has-line-data" data-line-start="128" data-line-end="132"><strong>验证NVSE和4GBpatch是否运行：</strong><br>
+在根目录下双击nvse_loader.exe运行游戏。进入游戏主菜单后，按 ~ 键打开控制台<br>
 将getnvseversion输入控制台并按Enter键，控制台应报告 NVSE version: 5<br>
 将getislaa输入控制台并按Enter键，控制台应该报告 GetisLAA &gt;&gt; 2.0000</p>
 <ul>
-<li class="has-line-data" data-line-start="130" data-line-end="132">如果没有，请检查前置包是否正确安装</li>
+<li class="has-line-data" data-line-start="133" data-line-end="135">如果没有，请检查前置包是否正确安装</li>
 </ul>
-<p class="has-line-data" data-line-start="132" data-line-end="133"><strong>验证完成后都通过NVSE进行游戏</strong></p>
+<p class="has-line-data" data-line-start="135" data-line-end="136"><strong>验证完成后都通过NVSE进行游戏</strong></p>
 <blockquote>
-<p class="has-line-data" data-line-start="133" data-line-end="134">通过Steam或GOG验证游戏文件完整性将撤消4GBpatch补丁</p>
+<p class="has-line-data" data-line-start="136" data-line-end="137">通过Steam或GOG验证游戏文件完整性将撤消4GBpatch补丁</p>
 </blockquote>
-<p class="has-line-data" data-line-start="135" data-line-end="136">八、最终测试及可选选项</p>
-<p class="has-line-data" data-line-start="137" data-line-end="138">至此基础游戏的设置及优化已全部完成，请按照以下步骤进行完整测试：</p>
+<p class="has-line-data" data-line-start="138" data-line-end="139">八、最终测试及可选选项</p>
+<p class="has-line-data" data-line-start="140" data-line-end="141">至此基础游戏的设置及优化已全部完成，请按照以下步骤进行完整测试：</p>
 <ul>
-<li class="has-line-data" data-line-start="139" data-line-end="140">确保选择了合适的画质选项，之后通过MO2进行游戏</li>
-<li class="has-line-data" data-line-start="140" data-line-end="141">启动一个新存档，快速通过医生的教程</li>
-<li class="has-line-data" data-line-start="141" data-line-end="142">离开医生的房间后，打开pipboy检查各个选项是否有问题</li>
-<li class="has-line-data" data-line-start="142" data-line-end="144">在游戏中花费至少20-30分钟做任何事情以确保游戏顺利进行</li>
+<li class="has-line-data" data-line-start="142" data-line-end="143">确保选择了合适的画质选项，之后通过MO2进行游戏</li>
+<li class="has-line-data" data-line-start="143" data-line-end="144">启动一个新存档，快速通过医生的教程</li>
+<li class="has-line-data" data-line-start="144" data-line-end="145">离开医生的房间后，打开pipboy检查各个选项是否有问题</li>
+<li class="has-line-data" data-line-start="145" data-line-end="147">在游戏中花费至少20-30分钟做任何事情以确保游戏顺利进行</li>
 </ul>
 <hr>
-<p class="has-line-data" data-line-start="146" data-line-end="147">以上是本指南的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到丝滑流畅的新维加斯体验。</p>
+<p class="has-line-data" data-line-start="149" data-line-end="150">以上是本指南的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到丝滑流畅的新维加斯体验。</p>
