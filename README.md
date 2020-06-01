@@ -1,44 +1,26 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="_0"></a>现代化的新维加斯入门指南</h1>
-<h5 class="code-line" data-line-start=2 data-line-end=3 ><a id="v1912_httpsgithubcomfeelbetterhuanvguideline_cnblobmasterchangelogmd__2"></a>v20.01 <a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/changelog.md" title="更新日志">更新日志</a></h5>
+<h5 class="code-line" data-line-start=2 data-line-end=3 ><a id="v2006_httpsgithubcomfeelbetterhuanvguideline_cnblobmasterchangelogmd__2"></a>v20.06 <a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/changelog.md" title="更新日志">更新日志</a></h5>
 <hr>
 <p class="has-line-data" data-line-start="6" data-line-end="7"><img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/intro_pic.jpg?raw=true" alt="intro" title="intro"></p>
 <p class="has-line-data" data-line-start="8" data-line-end="9"><strong>2019年了，新维加斯不应该是这个游戏体验</strong></p>
-<p class="has-line-data" data-line-start="10" data-line-end="11">本指南旨在建立一种一站式的入门指导，帮助你了解游玩新维加斯需要的准备工作。并整合最新的优化配置选项，使你以最丝滑的方式体验废土的旅程。本指南内容主要基于外网一个MOD指南Viva New Vegas，根据中文补丁的安装修改一些流程。原指南地址：<em><a href="http://vivanewvegas.github.io">vivanewvegas.github.io</a></em></p>
-<p class="has-line-data" data-line-start="12" data-line-end="13">在开始前，你需要了解一些信息：</p>
+<p class="has-line-data" data-line-start="10" data-line-end="11">本指南旨在建立一种一站式的入门指导，目的是为获得现代化的游戏体验。本指南内容主要基于MOD指南Viva New Vegas，原址：<em><a href="http://vivanewvegas.github.io">vivanewvegas.github.io</a></em>，根据中文玩家体验做出调整。</p>
+<p class="has-line-data" data-line-start="12" data-line-end="13">本指南只推荐Steam或GOG的正版终极版，也就是全DLC的版本，汉化推荐Steam版。指南以纯操作指南的方式编写，只要<strong>按照顺序</strong>执行步骤即可，每一部分建议完整阅读后再开始。</p>
+<p class="has-line-data" data-line-start="14" data-line-end="15">该指南分为以下几个部分，可以根据不同情况选择安装，其中<strong>汉化前置为必须安装项</strong>：</p>
 <ul>
-<li class="has-line-data" data-line-start="14" data-line-end="16">
-<p class="has-line-data" data-line-start="14" data-line-end="15">本指南只推荐Steam或GOG的正版终极版，也就是全DLC的版本，汉化推荐Steam版</p>
-</li>
 <li class="has-line-data" data-line-start="16" data-line-end="18">
-<p class="has-line-data" data-line-start="16" data-line-end="17">本指南只针对原版游戏进行优化，没有添加或修改游戏内容，一些轻微修改来自汉化</p>
+<p class="has-line-data" data-line-start="16" data-line-end="17">汉化前置：游戏本体的汉化及前置补丁安装，在现在运行新维加斯所必须的选项。本部分几乎没有改变任何游戏内容，如果你想体验最原生态的游戏，可以选择只安装这一部分。</p>
 </li>
 <li class="has-line-data" data-line-start="18" data-line-end="20">
-<p class="has-line-data" data-line-start="18" data-line-end="19">指南以纯操作指南的方式编写，只要<strong>按照顺序</strong>执行步骤即可，建议完整阅读后再开始</p>
+<p class="has-line-data" data-line-start="18" data-line-end="19">基础游戏：包含大量的修复及改善，包括Bug修复、纹理及模型修复及改善、基础系统改善，UI界面改善。虽然修正了一些良性错误，但仍然非常推荐所有玩家安装，提供全面汉化。（即将推出）</p>
 </li>
 <li class="has-line-data" data-line-start="20" data-line-end="22">
-<p class="has-line-data" data-line-start="20" data-line-end="21">如果之前卸载过新维加斯，<strong>请确保删除所有了游戏文件、相关存档并清除注册表残余</strong></p>
+<p class="has-line-data" data-line-start="20" data-line-end="21">画质提升：添加新的效果/灯光和替换纹理/模型来增强游戏的视觉效果，包括LOD生成。可能会失去原版的一些特点，但使其看起来更加现代化。推荐机器性能较好的玩家安装，提供全面汉化。（即将推出）</p>
 </li>
-</ul>
-<p class="has-line-data" data-line-start="22" data-line-end="23"><strong>对于新维加斯在Win10上运行，请修改以下设置</strong>：</p>
-<ul>
+<li class="has-line-data" data-line-start="22" data-line-end="24">
+<p class="has-line-data" data-line-start="22" data-line-end="23">系统增强：对原有系统包括射击、近战、经济、等级、环境、怪物等进行了增强，增加了游戏性，改变了游戏难度的同时保持平衡。整体游玩体验在原版的基础上有很大改变，推荐多周目安装。（计划完成）</p>
+</li>
 <li class="has-line-data" data-line-start="24" data-line-end="26">
-<p class="has-line-data" data-line-start="24" data-line-end="25">关闭系统自带的游戏模式</p>
-</li>
-<li class="has-line-data" data-line-start="26" data-line-end="28">
-<p class="has-line-data" data-line-start="26" data-line-end="27">单独添加英语作为第二语言，并在游戏时按alt+shift切换到英语键盘。</p>
-</li>
-<li class="has-line-data" data-line-start="28" data-line-end="30">
-<p class="has-line-data" data-line-start="28" data-line-end="29">游戏时关掉所有通知，以及其他可能在后台弹出的软件。</p>
+<p class="has-line-data" data-line-start="24" data-line-end="25">额外内容：增加了许多小时的友好且平衡的内容，包括新任务、装备、对话、环境等。所有新内容风格均与原版游戏契合，推荐多周目安装。（计划完成）</p>
 </li>
 </ul>
-<p class="has-line-data" data-line-start="30" data-line-end="31">为了满足不同人群的需求，该指南有两种安装方法：</p>
-<ul>
-<li class="has-line-data" data-line-start="32" data-line-end="34">
-<p class="has-line-data" data-line-start="32" data-line-end="33">简化版：面向完全新手/无mod需求者，采用最简化的设置与直接安装的方式进行，以最快的速度解决大部分问题，缺点是失去部分优化。</p>
-</li>
-<li class="has-line-data" data-line-start="34" data-line-end="36">
-<p class="has-line-data" data-line-start="34" data-line-end="35">完整版：面向有一定动手能力/有mod需求者，采用管理器的方式安装并结合大量优化设置，全面提高游戏运行稳定性与帧数，并为将来的mod安装打下基础。</p>
-</li>
-</ul>
-<h4 class="code-line" data-line-start=36 data-line-end=37 ><a id="httpsgithubcomfeelbetterhuanvguideline_cnblobmastermdnomodsmd__36"></a><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/nomods.md" title="简化版">简化版</a></h4>
-<h4 class="code-line" data-line-start=38 data-line-end=39 ><a id="httpsgithubcomfeelbetterhuanvguideline_cnblobmastermdmodsmd__38"></a><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/mods.md" title="完整版">完整版</a></h4>
+<h4 class="code-line" data-line-start=26 data-line-end=27 ><a id="httpsgithubcomfeelbetterhuanvguideline_cnblobmastermdutilitiesmd__26"></a><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/utilities.md" title="汉化前置">汉化前置</a></h4>
