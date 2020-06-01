@@ -33,7 +33,7 @@
 在 选择组件 界面中反选所有选项，或在下拉菜单中选择 简洁安装，<strong>只需要汉化必须文件</strong>。<br>
 点击下一步进行安装，安装完成后在最后界面选择 运行FNVTools设置游戏 ，结束后自动弹出FNVTools2.1<br>
 点击FNVTools中的 INI设置和优化 ，进入INI设置和优化后根据下图进行设置<br>
-<img src="https://gitee.com/feelbetterhua/nvguideline_cn/raw/master/fnvtools_pic.JPG" alt="fnvtools_pic" title="fnvtools_pic"></p>
+<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/fnvtools_pic.JPG?raw=true" alt="fnvtools_pic" title="fnvtools_pic"></p>
 <ul>
 <li class="has-line-data" data-line-start="39" data-line-end="40">首先勾选 1 前面的框，然后根据CPU线程数调整后面的数字，可以导航到 <em>文档/My Games/FalloutNV</em> 打开  RendererInfo.txt ，参考最后一行 HW Thread Count 后面的数字</li>
 <li class="has-line-data" data-line-start="40" data-line-end="41">然后勾选 2 所有的框，<strong>保持 3 中的三个数字为默认</strong></li>
