@@ -1,6 +1,6 @@
 <p class="has-line-data" data-line-start="0" data-line-end="1">一、安装设置</p>
 <p class="has-line-data" data-line-start="2" data-line-end="4">1.系统设置：<br>
-如果之前卸载过新维加斯，**请确保删除所有了游戏文件、相关存档并清除注册表残余。**如果使用Win10系统，请修改以下设置：</p>
+如果之前卸载过新维加斯，<strong>请确保删除所有了游戏文件、相关存档并清除注册表残余</strong>。如果使用Win10系统，请修改以下设置：</p>
 <ul>
 <li class="has-line-data" data-line-start="5" data-line-end="6">关闭系统自带的游戏模式</li>
 <li class="has-line-data" data-line-start="6" data-line-end="7">单独添加英语作为第二语言，并在游戏时确保切换到英语键盘。</li>
@@ -128,10 +128,10 @@ fXenonHorizLookSpeed=1500.0000</li>
 <p class="has-line-data" data-line-start="136" data-line-end="137">六、最终测试及可选选项</p>
 <p class="has-line-data" data-line-start="138" data-line-end="139">至此基础游戏的设置及优化已全部完成，请按照以下步骤进行完整测试：</p>
 <ul>
-<li class="has-line-data" data-line-start="140" data-line-end="141">确保选择了合适的画质选项，之后通过MO2进行游戏</li>
+<li class="has-line-data" data-line-start="140" data-line-end="141">确保选择了合适的画质选项，之后通过NVSE进行游戏</li>
 <li class="has-line-data" data-line-start="141" data-line-end="142">启动一个新存档，快速通过医生的教程</li>
 <li class="has-line-data" data-line-start="142" data-line-end="143">离开医生的房间后，打开pipboy检查各个选项是否有问题</li>
 <li class="has-line-data" data-line-start="143" data-line-end="145">在游戏中花费至少20-30分钟做任何事情以确保游戏顺利进行</li>
 </ul>
 <hr>
-<p class="has-line-data" data-line-start="147" data-line-end="148">以上是本指南的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到丝滑流畅的新维加斯体验。</p>
+<p class="has-line-data" data-line-start="147" data-line-end="148">以上是本指南的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到现代化的新维加斯体验。</p>
