@@ -24,3 +24,6 @@
 </li>
 </ul>
 <h4 class="code-line" data-line-start=26 data-line-end=27 ><a id="httpsgithubcomfeelbetterhuanvguideline_cnblobmastermdutilitiesmd__26"></a><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/utilities.md" title="汉化前置">汉化前置</a></h4>
+<hr>
+<p class="has-line-data" data-line-start="30" data-line-end="32"><strong>免责声明</strong>：<br>
+该指南中考虑到中国玩家使用环境及习惯，制作了汉化及整合包。由于涉及Mod数量较多，无法一一取得分流及汉化许可。故在此声明，Mod版权归各自作者所有，本指南分流及汉化的Mod仅为交流使用，不用做任何商业目的。在尽量争取更多Mod作者同意的同时，附上了Mod原地址，希望有条件的玩家可以支持原作者。</p>
