@@ -47,7 +47,7 @@
 <p class="has-line-data" data-line-start="47" data-line-end="48">汉化补丁使用Steam版的exe文件替换了原文件，因此打上补丁的GOG版就相当于Steam版</p>
 </blockquote>
 <p class="has-line-data" data-line-start="49" data-line-end="50">此时汉化已经完成，进入游戏，主界面和菜单应该都已汉化。<strong>点击 选项-显示 ，滚轮滑到最下，将 一般字幕 设置为开启</strong>。后退到主菜单，开始新游戏测试游戏内容汉化是否有问题。</p>
-<p class="has-line-data" data-line-start="51" data-line-end="52">四、BSA文件优化</p>
+<p class="has-line-data" data-line-start="51" data-line-end="52">三、BSA文件优化</p>
 <p class="has-line-data" data-line-start="53" data-line-end="63">BSA Decompressor<br>
 <a href="https://pan.baidu.com/s/1wVpaMcmghl2xpl3Xu9oqHw">https://pan.baidu.com/s/1wVpaMcmghl2xpl3Xu9oqHw</a> 提取码: xmjd<br>
 <strong>这一步要求游戏安装在 C:/Program Files(x86)/Steam 文件夹之外，如果不满足则跳过</strong><br>
@@ -61,18 +61,17 @@
 <ul>
 <li class="has-line-data" data-line-start="64" data-line-end="66">优化BSA文件，提升加载速度并解决一些音频播放的问题</li>
 </ul>
-<p class="has-line-data" data-line-start="66" data-line-end="67">五、Mod Organizer 2配置及INI优化</p>
-<p class="has-line-data" data-line-start="68" data-line-end="75">3.调整FalloutCustom.ini：<br>
+<p class="has-line-data" data-line-start="66" data-line-end="73">四、调整FalloutCustom.ini<br>
 导航到 文档/My Games/FalloutNV，新建一个文本文档，重命名为FalloutCustom.ini<br>
 打开FalloutCustom.ini，将以下内容粘贴到文档中：<br>
 [General]<br>
 bUseThreadedAI=1<br>
 INumHWThreads=4<br>
 bPreemptivelyUnloadCells=1</p>
-<p class="has-line-data" data-line-start="76" data-line-end="79">[BackgroundLoad]<br>
+<p class="has-line-data" data-line-start="74" data-line-end="77">[BackgroundLoad]<br>
 bBackgroundCellLoads=1<br>
 bSelectivePurgeUnusedOnFastTravel=1</p>
-<p class="has-line-data" data-line-start="80" data-line-end="94">[Display]<br>
+<p class="has-line-data" data-line-start="78" data-line-end="92">[Display]<br>
 fLightLODDefaultStartFade=10240.0<br>
 fLightLODRange=10240.0<br>
 fLightLODMinStartFade=10240.0<br>
@@ -86,53 +85,53 @@ fSpecularLODRange=10240.0<br>
 fSpecularLODMinStartFade=10240.0<br>
 fSpecularLODMaxStartFade=10240.0<br>
 iPresentInterval=0</p>
-<p class="has-line-data" data-line-start="95" data-line-end="102">[Controls]<br>
+<p class="has-line-data" data-line-start="93" data-line-end="100">[Controls]<br>
 fForegroundMouseAccelBase=0<br>
 fForegroundMouseAccelTop=0<br>
 fForegroundMouseBase=0<br>
 fForegroundMouseMult=0<br>
 fXenonVertLookSpeed=1200.0000<br>
 fXenonHorizLookSpeed=1500.0000</p>
-<p class="has-line-data" data-line-start="103" data-line-end="105">[Grass]<br>
+<p class="has-line-data" data-line-start="101" data-line-end="103">[Grass]<br>
 fGrassStartFadeDistance=17000</p>
-<p class="has-line-data" data-line-start="106" data-line-end="109">[Audio]<br>
+<p class="has-line-data" data-line-start="104" data-line-end="107">[Audio]<br>
 iAudioCacheSize=8192<br>
 iMaxSizeForCachedSound=2048</p>
 <ul>
-<li class="has-line-data" data-line-start="110" data-line-end="111">将INumHWThreads更改为CPU所具有的线程数，可以打开同目录下的RendererInfo.txt ，对应最后一行 HW Thread Count后面的数字</li>
-<li class="has-line-data" data-line-start="111" data-line-end="115">如果你不以16：9的宽高比运行游戏，可以删除<br>
+<li class="has-line-data" data-line-start="108" data-line-end="109">将INumHWThreads更改为CPU所具有的线程数，可以打开同目录下的RendererInfo.txt ，对应最后一行 HW Thread Count后面的数字</li>
+<li class="has-line-data" data-line-start="109" data-line-end="113">如果你不以16：9的宽高比运行游戏，可以删除<br>
 fXenonVertLookSpeed=1200.0000<br>
 fXenonHorizLookSpeed=1500.0000</li>
 </ul>
-<p class="has-line-data" data-line-start="115" data-line-end="116">完成后保存关闭。</p>
-<p class="has-line-data" data-line-start="117" data-line-end="118">七、重要前置</p>
-<p class="has-line-data" data-line-start="119" data-line-end="125">前置补丁包<br>
+<p class="has-line-data" data-line-start="113" data-line-end="114">完成后保存关闭。</p>
+<p class="has-line-data" data-line-start="115" data-line-end="116">五、重要前置</p>
+<p class="has-line-data" data-line-start="117" data-line-end="123">前置补丁包<br>
 <a href="https://pan.baidu.com/s/1MocEJs5hfTZFzTDpMlY3Bw">https://pan.baidu.com/s/1MocEJs5hfTZFzTDpMlY3Bw</a> 提取码: je8y<br>
 特别安装说明：<br>
 将压缩包内的所有内容解压到根目录，导航到根目录，右键单击 4gb_patch.exe ，选择 以管理员身份运行<br>
 在弹出的窗口中双击选择 nvse_loader.exe ，应该弹出窗口显示 Executable successfully patched！<br>
 此时点击 Another File ，在弹出的窗口双击选择 FalloutNV.exe ，等待根目录下出现 FalloutNV.exe.Backup 后点击 OK 退出</p>
 <ul>
-<li class="has-line-data" data-line-start="126" data-line-end="128">个人制作的前置补丁包，包含必要前置及优化文件。具体内容详见 <strong><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/mod_introduction.md" title="前置说明">前置说明</a></strong></li>
+<li class="has-line-data" data-line-start="124" data-line-end="126">个人制作的前置补丁包，包含必要前置及优化文件。具体内容详见 <strong><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/mod_introduction.md" title="前置说明">前置说明</a></strong></li>
 </ul>
-<p class="has-line-data" data-line-start="128" data-line-end="132"><strong>验证NVSE和4GBpatch是否运行：</strong><br>
+<p class="has-line-data" data-line-start="126" data-line-end="130"><strong>验证NVSE和4GBpatch是否运行：</strong><br>
 在根目录下双击nvse_loader.exe运行游戏。进入游戏主菜单后，按 ~ 键打开控制台<br>
 将getnvseversion输入控制台并按Enter键，控制台应报告 NVSE version: 5<br>
 将getislaa输入控制台并按Enter键，控制台应该报告 GetisLAA &gt;&gt; 2.0000</p>
 <ul>
-<li class="has-line-data" data-line-start="133" data-line-end="135">如果没有，请检查前置包是否正确安装</li>
+<li class="has-line-data" data-line-start="131" data-line-end="133">如果没有，请检查前置包是否正确安装</li>
 </ul>
-<p class="has-line-data" data-line-start="135" data-line-end="136"><strong>验证完成后都通过NVSE进行游戏</strong></p>
+<p class="has-line-data" data-line-start="133" data-line-end="134"><strong>验证完成后都通过NVSE进行游戏</strong></p>
 <blockquote>
-<p class="has-line-data" data-line-start="136" data-line-end="137">通过Steam或GOG验证游戏文件完整性将撤消4GBpatch补丁</p>
+<p class="has-line-data" data-line-start="134" data-line-end="135">通过Steam或GOG验证游戏文件完整性将撤消4GBpatch补丁</p>
 </blockquote>
-<p class="has-line-data" data-line-start="138" data-line-end="139">八、最终测试及可选选项</p>
-<p class="has-line-data" data-line-start="140" data-line-end="141">至此基础游戏的设置及优化已全部完成，请按照以下步骤进行完整测试：</p>
+<p class="has-line-data" data-line-start="136" data-line-end="137">六、最终测试及可选选项</p>
+<p class="has-line-data" data-line-start="138" data-line-end="139">至此基础游戏的设置及优化已全部完成，请按照以下步骤进行完整测试：</p>
 <ul>
-<li class="has-line-data" data-line-start="142" data-line-end="143">确保选择了合适的画质选项，之后通过MO2进行游戏</li>
-<li class="has-line-data" data-line-start="143" data-line-end="144">启动一个新存档，快速通过医生的教程</li>
-<li class="has-line-data" data-line-start="144" data-line-end="145">离开医生的房间后，打开pipboy检查各个选项是否有问题</li>
-<li class="has-line-data" data-line-start="145" data-line-end="147">在游戏中花费至少20-30分钟做任何事情以确保游戏顺利进行</li>
+<li class="has-line-data" data-line-start="140" data-line-end="141">确保选择了合适的画质选项，之后通过MO2进行游戏</li>
+<li class="has-line-data" data-line-start="141" data-line-end="142">启动一个新存档，快速通过医生的教程</li>
+<li class="has-line-data" data-line-start="142" data-line-end="143">离开医生的房间后，打开pipboy检查各个选项是否有问题</li>
+<li class="has-line-data" data-line-start="143" data-line-end="145">在游戏中花费至少20-30分钟做任何事情以确保游戏顺利进行</li>
 </ul>
 <hr>
-<p class="has-line-data" data-line-start="149" data-line-end="150">以上是本指南的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到丝滑流畅的新维加斯体验。</p>
+<p class="has-line-data" data-line-start="147" data-line-end="148">以上是本指南的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到丝滑流畅的新维加斯体验。</p>
