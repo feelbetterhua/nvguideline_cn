@@ -106,7 +106,7 @@ fXenonHorizLookSpeed=1500.0000</li>
 <p class="has-line-data" data-line-start="113" data-line-end="114">完成后保存关闭。</p>
 <p class="has-line-data" data-line-start="115" data-line-end="116">五、重要前置</p>
 <p class="has-line-data" data-line-start="117" data-line-end="123">前置补丁包<br>
-<a href="https://pan.baidu.com/s/1MocEJs5hfTZFzTDpMlY3Bw">https://pan.baidu.com/s/1MocEJs5hfTZFzTDpMlY3Bw</a> 提取码: je8y<br>
+<a href="https://pan.baidu.com/s/1UlLtei52oyFRFoEI9xy0Aw">https://pan.baidu.com/s/1UlLtei52oyFRFoEI9xy0Aw</a> 提取码: aps2<br>
 特别安装说明：<br>
 将压缩包内的所有内容解压到根目录，导航到根目录，右键单击 4gb_patch.exe ，选择 以管理员身份运行<br>
 在弹出的窗口中双击选择 nvse_loader.exe ，应该弹出窗口显示 Executable successfully patched！<br>
