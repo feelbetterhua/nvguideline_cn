@@ -1,7 +1,9 @@
 v20.07已更新，更新内容如下：
+汉化前置
 - 加入Microsoft VC++ Redistributable Packages集合包
 - 加入BSA Decompressor错误(大红色三角)修复说明
 - 加入垂直同步设置，防止画面撕裂以及因使用NVTF造成的动作不正常的情况
+所有指南
 - 更换图床，之后指南内图片显示应该没有问题了
 
 v20.06.1热更新
