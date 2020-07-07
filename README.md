@@ -1,8 +1,8 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="_0"></a>现代化的新维加斯入门指南</h1>
-<h5 class="code-line" data-line-start=2 data-line-end=3 ><a id="v2006_httpsgithubcomfeelbetterhuanvguideline_cnblobmasterchangelogmd__2"></a>v20.06 <a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/changelog.md" title="更新日志">更新日志</a></h5>
+<h5 class="code-line" data-line-start=2 data-line-end=3 ><a id="v2007_httpsgithubcomfeelbetterhuanvguideline_cnblobmasterchangelogmd__2"></a>v20.07 <a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/changelog.md" title="更新日志">更新日志</a></h5>
 <hr>
-<p class="has-line-data" data-line-start="6" data-line-end="7"><img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/intro_pic.jpg?raw=true" alt="intro" title="intro"></p>
-<p class="has-line-data" data-line-start="8" data-line-end="9"><strong>在发售10年之后，新维加斯不应该是这个游戏体验</strong></p>
+<p class="has-line-data" data-line-start="6" data-line-end="7"><img src="https://s1.ax1x.com/2020/07/07/UF4VQf.jpg" alt="intro" title="intro"></p>
+<p class="has-line-data" data-line-start="8" data-line-end="9"><strong>2019年了，新维加斯不应该是这个游戏体验</strong></p>
 <p class="has-line-data" data-line-start="10" data-line-end="11">本指南旨在建立一种一站式的入门指导，目的是为获得现代化的游戏体验。本指南内容主要基于MOD指南Viva New Vegas，原址：<em><a href="http://vivanewvegas.github.io">vivanewvegas.github.io</a></em>，根据中文玩家体验做出调整。</p>
 <p class="has-line-data" data-line-start="12" data-line-end="13">本指南只推荐Steam或GOG的正版终极版，也就是全DLC的版本，汉化推荐Steam版。指南以纯操作指南的方式编写，只要<strong>按照顺序</strong>执行步骤即可，每一部分建议完整阅读后再开始。</p>
 <p class="has-line-data" data-line-start="14" data-line-end="15">该指南分为以下几个部分，可以根据不同情况选择安装，其中<strong>汉化前置为必须安装项</strong>：</p>
