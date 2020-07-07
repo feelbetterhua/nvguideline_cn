@@ -6,49 +6,51 @@
 <li class="has-line-data" data-line-start="6" data-line-end="7">单独添加英语作为第二语言，并在游戏时确保切换到英语键盘。</li>
 <li class="has-line-data" data-line-start="7" data-line-end="9">游戏时关掉所有通知，以及其他可能在后台弹出的软件。</li>
 </ul>
-<p class="has-line-data" data-line-start="9" data-line-end="11">2.安装设置：<br>
+<p class="has-line-data" data-line-start="9" data-line-end="11">安装所有需要的Microsoft VC++ Redistributable Packages，如果没有请下载以下压缩包并安装里面的所有文件<br>
+<a href="https://pan.baidu.com/s/1Z2qHznIQXqfGuY2Sg1l9tQ">https://pan.baidu.com/s/1Z2qHznIQXqfGuY2Sg1l9tQ</a> 提取码: 678q</p>
+<p class="has-line-data" data-line-start="12" data-line-end="14">2.安装设置：<br>
 <strong>如果还没有安装游戏，请不要安装在 C:/Program Files(x86)/Steam 文件夹</strong>（如果已经按照在上述文件夹则无法使用BSA Decompressor）常用目录：</p>
 <ul>
-<li class="has-line-data" data-line-start="12" data-line-end="13">根文件夹(根目录)：<em>Steam/steamapps/common/Fallout New Vegas</em> 或 <em>GOG Galaxy/Games/Fallout New Vegas</em></li>
-<li class="has-line-data" data-line-start="13" data-line-end="15">Data文件夹：<em>Steam/steamapps/common/Fallout New Vegas/Data</em> 或 <em>GOG Galaxy/Games/Fallout New Vegas/Data</em></li>
+<li class="has-line-data" data-line-start="15" data-line-end="16">根文件夹(根目录)：<em>Steam/steamapps/common/Fallout New Vegas</em> 或 <em>GOG Galaxy/Games/Fallout New Vegas</em></li>
+<li class="has-line-data" data-line-start="16" data-line-end="18">Data文件夹：<em>Steam/steamapps/common/Fallout New Vegas/Data</em> 或 <em>GOG Galaxy/Games/Fallout New Vegas/Data</em></li>
 </ul>
-<p class="has-line-data" data-line-start="15" data-line-end="17"><strong>3.禁用叠加层：</strong><br>
+<p class="has-line-data" data-line-start="18" data-line-end="20"><strong>3.禁用叠加层</strong>：<br>
 需要为Fallout New Vegas禁用任何叠加以防止内存泄漏。一些具有覆盖的常见应用程序是Steam，GOG，NVIDIA GeForce Experience，Discord和MSI Afterburner。</p>
 <ul>
-<li class="has-line-data" data-line-start="18" data-line-end="19">Steam的禁用方法为：在库中右键点击Fallout：New Vegas，选择 属性，在 常规 选项卡下找到 在游戏中启动Steam界面 并反勾选它。</li>
-<li class="has-line-data" data-line-start="19" data-line-end="21">GeForce Experience的禁用方法为：打开GeForce Experience，点击右上方的齿轮图标进入设置。在 常规 一栏关闭 游戏内覆盖</li>
+<li class="has-line-data" data-line-start="21" data-line-end="22">Steam的禁用方法为：在库中右键点击Fallout：New Vegas，选择 属性，在 常规 选项卡下找到 在游戏中启动Steam界面 并反勾选它。</li>
+<li class="has-line-data" data-line-start="22" data-line-end="24">GeForce Experience的禁用方法为：打开GeForce Experience，点击右上方的齿轮图标进入设置。在 常规 一栏关闭 游戏内覆盖</li>
 </ul>
-<p class="has-line-data" data-line-start="21" data-line-end="23"><strong>4.首次运行以初始化ini文件：</strong><br>
-在Steam或GOG中启动游戏，等待其完成初始化设置。完成后弹出Detecting Video Hardware的窗口，单击确定。之后弹出窗口提示程序根据你的硬件已设置画质，单击确定。</p>
+<p class="has-line-data" data-line-start="24" data-line-end="26">4.首次运行以初始化ini文件：<br>
+<strong>在Steam或GOG中启动游戏，等待其完成初始化设置</strong>。完成后弹出Detecting Video Hardware的窗口，单击确定。之后弹出窗口提示程序根据你的硬件已设置画质，单击确定。</p>
 <ul>
-<li class="has-line-data" data-line-start="24" data-line-end="26">如果没有任何弹出窗口，请导航到 <em>文档/My Games/FalloutNV</em> 并删除以.INI结尾的所有文件，然后重新运行</li>
+<li class="has-line-data" data-line-start="27" data-line-end="29">如果没有任何弹出窗口，请导航到 <em>文档/My Games/FalloutNV</em> 并删除以.INI结尾的所有文件，然后重新运行</li>
 </ul>
-<p class="has-line-data" data-line-start="26" data-line-end="28">选择 Options，确认游戏检测到并正确使用你的GPU，并选择了合适画质（建议不要选择最低画质）。<br>
+<p class="has-line-data" data-line-start="29" data-line-end="31">选择 Options，确认游戏检测到并正确使用你的GPU，并选择了合适画质（建议不要选择最低画质）。<br>
 根据你的偏好设置分辨率，注意 Antiailiasing 项最多可以设置为8 Samples。单击 OK，然后单击 PLAY 进入游戏。进入主菜单后没有异常就可以退出游戏。</p>
-<p class="has-line-data" data-line-start="29" data-line-end="30">二、汉化安装</p>
-<p class="has-line-data" data-line-start="31" data-line-end="39">首先请确保可以正常进入游戏，然后下载汉化补丁<br>
+<p class="has-line-data" data-line-start="32" data-line-end="33">二、汉化安装</p>
+<p class="has-line-data" data-line-start="34" data-line-end="42">首先请确保可以正常进入游戏，然后下载汉化补丁<br>
 <a href="https://pan.baidu.com/s/1CS-upRW02WvEyTZPipjkVA">https://pan.baidu.com/s/1CS-upRW02WvEyTZPipjkVA</a> 提取码: 7miv<br>
 双击汉化补丁进行安装，一路点击下一步。<br>
 <strong>在 选择目标位置 界面检查安装位置是否正确</strong>。下一步时会弹出对话框提示目录已经存在，点击 是 即可。<br>
 在 选择组件 界面中反选所有选项，或在下拉菜单中选择 简洁安装，<strong>只需要汉化必须文件</strong>。<br>
 点击下一步进行安装，安装完成后在最后界面选择 运行FNVTools设置游戏 ，结束后自动弹出FNVTools2.1<br>
 点击FNVTools中的 INI设置和优化 ，进入INI设置和优化后根据下图进行设置<br>
-<img src="https://github.com/feelbetterhua/nvguideline_cn/blob/master/fnvtools_pic.JPG?raw=true" alt="fnvtools_pic" title="fnvtools_pic"></p>
+<img src="https://s1.ax1x.com/2020/07/07/UFhJVH.jpg" alt="fnvtools_pic" title="fnvtools_pic"></p>
 <ul>
-<li class="has-line-data" data-line-start="39" data-line-end="40">首先勾选 1 前面的框，然后根据CPU线程数调整后面的数字，可以导航到 <em>文档/My Games/FalloutNV</em> 打开  RendererInfo.txt ，参考最后一行 HW Thread Count 后面的数字</li>
-<li class="has-line-data" data-line-start="40" data-line-end="41">然后勾选 2 所有的框，<strong>保持 3 中的三个数字为默认</strong></li>
-<li class="has-line-data" data-line-start="41" data-line-end="43">在 切换INI 字体设置 一栏选择想要的字体(中文幼圆大字 和 中文宋体小字 二选一)，点击后弹出 疑问 对话框，选择 是，再点击确定。最后点击最下方的 保存 ，然后关闭 FNVTools2.1。</li>
+<li class="has-line-data" data-line-start="42" data-line-end="43">首先勾选 1 前面的框，然后根据CPU线程数调整后面的数字，可以导航到 <em>文档/My Games/FalloutNV</em> 打开  RendererInfo.txt ，参考最后一行 HW Thread Count 后面的数字</li>
+<li class="has-line-data" data-line-start="43" data-line-end="44">然后勾选 2 所有的框，<strong>保持 3 中的三个数字为默认</strong></li>
+<li class="has-line-data" data-line-start="44" data-line-end="46">在 切换INI 字体设置 一栏选择想要的字体(中文幼圆大字 和 中文宋体小字 二选一)，点击后弹出 疑问 对话框，选择 是，再点击确定。最后点击最下方的 保存 ，然后关闭 FNVTools2.1。</li>
 </ul>
-<p class="has-line-data" data-line-start="43" data-line-end="47">GOG版汉化后必需文件：<br>
+<p class="has-line-data" data-line-start="46" data-line-end="50">GOG版汉化后必需文件：<br>
 <a href="https://pan.baidu.com/s/1JlGDAt0TlkvA1dmtYrdIHQ">https://pan.baidu.com/s/1JlGDAt0TlkvA1dmtYrdIHQ</a> 提取码: s5x7<br>
 特殊安装说明：<br>
 将压缩包内的文件解压到根目录（文件来源于网络，没有GOG版无法验证是否起作用）</p>
 <blockquote>
-<p class="has-line-data" data-line-start="47" data-line-end="48">汉化补丁使用Steam版的exe文件替换了原文件，因此打上补丁的GOG版就相当于Steam版</p>
+<p class="has-line-data" data-line-start="50" data-line-end="51">汉化补丁使用Steam版的exe文件替换了原文件，因此打上补丁的GOG版就相当于Steam版</p>
 </blockquote>
-<p class="has-line-data" data-line-start="49" data-line-end="50">此时汉化已经完成，进入游戏，主界面和菜单应该都已汉化。<strong>点击 选项-显示 ，滚轮滑到最下，将 一般字幕 设置为开启</strong>。后退到主菜单，开始新游戏测试游戏内容汉化是否有问题。</p>
-<p class="has-line-data" data-line-start="51" data-line-end="52">三、BSA文件优化</p>
-<p class="has-line-data" data-line-start="53" data-line-end="63">BSA Decompressor<br>
+<p class="has-line-data" data-line-start="52" data-line-end="53">此时汉化已经完成，进入游戏，主界面和菜单应该都已汉化。<strong>点击 选项-显示 ，滚轮滑到最下，将 一般字幕 设置为开启</strong>。后退到主菜单，开始新游戏测试游戏内容汉化是否有问题。</p>
+<p class="has-line-data" data-line-start="54" data-line-end="55">三、BSA文件优化</p>
+<p class="has-line-data" data-line-start="56" data-line-end="66">BSA Decompressor<br>
 <a href="https://pan.baidu.com/s/1wVpaMcmghl2xpl3Xu9oqHw">https://pan.baidu.com/s/1wVpaMcmghl2xpl3Xu9oqHw</a> 提取码: xmjd<br>
 <strong>这一步要求游戏安装在 C:/Program Files(x86)/Steam 文件夹之外，如果不满足则跳过</strong><br>
 特殊安装说明：<br>
@@ -58,20 +60,24 @@
 打开程序后，应该自动检测到游戏所在目录，如果没有请自行导航到 Fallout New Vegas 文件夹<br>
 点击 Decompressor 开始运行，完成后点击 EXIT 退出程序<br>
 退出后，导航至根文件夹删除 libogg.dll</p>
+<p class="has-line-data" data-line-start="67" data-line-end="70">打开游戏进行测试，如果过程中遇到丢失的网格错误（大红色三角形），请执行以下操作：<br>
+导航到 文档/My Games/FalloutNV ，打开 Fallout.ini<br>
+在 [Archive] 下找到 SArchiveList ，用以下内容替换整行（所有内容都应该在一行上）：</p>
 <ul>
-<li class="has-line-data" data-line-start="64" data-line-end="66">优化BSA文件，提升加载速度并解决一些音频播放的问题</li>
+<li class="has-line-data" data-line-start="70" data-line-end="72">SArchiveList=Fallout - Invalidation.bsa, Fallout - Textures.bsa, Fallout - Textures2.bsa, Fallout - Meshes.bsa, Fallout - Meshes2.bsa, Fallout - Voices1.bsa, Fallout - Sound.bsa, Fallout - Misc.bsa</li>
 </ul>
-<p class="has-line-data" data-line-start="66" data-line-end="73">四、调整FalloutCustom.ini<br>
+<p class="has-line-data" data-line-start="72" data-line-end="73">保存后退出，如果无法保存，请右击Fallout.ini，选择 属性 ，并取消 只读 选项。</p>
+<p class="has-line-data" data-line-start="74" data-line-end="81">四、调整FalloutCustom.ini<br>
 导航到 文档/My Games/FalloutNV，新建一个文本文档，重命名为FalloutCustom.ini<br>
 打开FalloutCustom.ini，将以下内容粘贴到文档中：<br>
 [General]<br>
 bUseThreadedAI=1<br>
 INumHWThreads=4<br>
 bPreemptivelyUnloadCells=1</p>
-<p class="has-line-data" data-line-start="74" data-line-end="77">[BackgroundLoad]<br>
+<p class="has-line-data" data-line-start="82" data-line-end="85">[BackgroundLoad]<br>
 bBackgroundCellLoads=1<br>
 bSelectivePurgeUnusedOnFastTravel=1</p>
-<p class="has-line-data" data-line-start="78" data-line-end="92">[Display]<br>
+<p class="has-line-data" data-line-start="86" data-line-end="100">[Display]<br>
 fLightLODDefaultStartFade=10240.0<br>
 fLightLODRange=10240.0<br>
 fLightLODMinStartFade=10240.0<br>
@@ -85,53 +91,71 @@ fSpecularLODRange=10240.0<br>
 fSpecularLODMinStartFade=10240.0<br>
 fSpecularLODMaxStartFade=10240.0<br>
 iPresentInterval=0</p>
-<p class="has-line-data" data-line-start="93" data-line-end="100">[Controls]<br>
+<p class="has-line-data" data-line-start="101" data-line-end="108">[Controls]<br>
 fForegroundMouseAccelBase=0<br>
 fForegroundMouseAccelTop=0<br>
 fForegroundMouseBase=0<br>
 fForegroundMouseMult=0<br>
 fXenonVertLookSpeed=1200.0000<br>
 fXenonHorizLookSpeed=1500.0000</p>
-<p class="has-line-data" data-line-start="101" data-line-end="103">[Grass]<br>
+<p class="has-line-data" data-line-start="109" data-line-end="111">[Grass]<br>
 fGrassStartFadeDistance=17000</p>
-<p class="has-line-data" data-line-start="104" data-line-end="107">[Audio]<br>
+<p class="has-line-data" data-line-start="112" data-line-end="115">[Audio]<br>
 iAudioCacheSize=8192<br>
 iMaxSizeForCachedSound=2048</p>
 <ul>
-<li class="has-line-data" data-line-start="108" data-line-end="109">将INumHWThreads更改为CPU所具有的线程数，可以打开同目录下的RendererInfo.txt ，对应最后一行 HW Thread Count后面的数字</li>
-<li class="has-line-data" data-line-start="109" data-line-end="113">如果你不以16：9的宽高比运行游戏，可以删除<br>
+<li class="has-line-data" data-line-start="116" data-line-end="117">将INumHWThreads更改为CPU所具有的线程数，可以打开同目录下的RendererInfo.txt ，对应最后一行 HW Thread Count后面的数字</li>
+<li class="has-line-data" data-line-start="117" data-line-end="121">如果你不以16：9的宽高比运行游戏，可以删除<br>
 fXenonVertLookSpeed=1200.0000<br>
 fXenonHorizLookSpeed=1500.0000</li>
 </ul>
-<p class="has-line-data" data-line-start="113" data-line-end="114">完成后保存关闭。</p>
-<p class="has-line-data" data-line-start="115" data-line-end="116">五、重要前置</p>
-<p class="has-line-data" data-line-start="117" data-line-end="123">前置补丁包<br>
+<p class="has-line-data" data-line-start="121" data-line-end="122">完成后保存关闭。</p>
+<p class="has-line-data" data-line-start="123" data-line-end="124">五、重要前置</p>
+<p class="has-line-data" data-line-start="125" data-line-end="131">前置补丁包<br>
 <a href="https://pan.baidu.com/s/1UlLtei52oyFRFoEI9xy0Aw">https://pan.baidu.com/s/1UlLtei52oyFRFoEI9xy0Aw</a> 提取码: aps2<br>
 特别安装说明：<br>
 将压缩包内的所有内容解压到根目录，导航到根目录，右键单击 4gb_patch.exe ，选择 以管理员身份运行<br>
 在弹出的窗口中双击选择 nvse_loader.exe ，应该弹出窗口显示 Executable successfully patched！<br>
 此时点击 Another File ，在弹出的窗口双击选择 FalloutNV.exe ，等待根目录下出现 FalloutNV.exe.Backup 后点击 OK 退出</p>
 <ul>
-<li class="has-line-data" data-line-start="124" data-line-end="126">个人制作的前置补丁包，包含必要前置及优化文件。具体内容详见 <strong><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/mod_introduction.md" title="前置说明">前置说明</a></strong></li>
+<li class="has-line-data" data-line-start="132" data-line-end="134">个人制作的前置补丁包，包含必要前置及优化文件。具体内容详见 <strong><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/mod_introduction.md" title="前置说明">前置说明</a></strong></li>
 </ul>
-<p class="has-line-data" data-line-start="126" data-line-end="130"><strong>验证NVSE和4GBpatch是否运行：</strong><br>
+<p class="has-line-data" data-line-start="134" data-line-end="138"><strong>验证NVSE和4GBpatch是否运行：</strong><br>
 在根目录下双击nvse_loader.exe运行游戏。进入游戏主菜单后，按 ~ 键打开控制台<br>
 将getnvseversion输入控制台并按Enter键，控制台应报告 NVSE version: 5<br>
 将getislaa输入控制台并按Enter键，控制台应该报告 GetisLAA &gt;&gt; 2.0000</p>
 <ul>
-<li class="has-line-data" data-line-start="131" data-line-end="133">如果没有，请检查前置包是否正确安装</li>
+<li class="has-line-data" data-line-start="139" data-line-end="141">如果没有，请检查前置包是否正确安装</li>
 </ul>
-<p class="has-line-data" data-line-start="133" data-line-end="134"><strong>验证完成后都通过NVSE进行游戏</strong></p>
+<p class="has-line-data" data-line-start="141" data-line-end="142"><strong>验证完成后都通过NVSE进行游戏</strong></p>
 <blockquote>
-<p class="has-line-data" data-line-start="134" data-line-end="135">通过Steam或GOG验证游戏文件完整性将撤消4GBpatch补丁</p>
+<p class="has-line-data" data-line-start="142" data-line-end="143">通过Steam或GOG验证游戏文件完整性将撤消4GBpatch补丁</p>
 </blockquote>
-<p class="has-line-data" data-line-start="136" data-line-end="137">六、最终测试及可选选项</p>
-<p class="has-line-data" data-line-start="138" data-line-end="139">至此基础游戏的设置及优化已全部完成，请按照以下步骤进行完整测试：</p>
+<p class="has-line-data" data-line-start="144" data-line-end="145">六、垂直同步设置：</p>
+<p class="has-line-data" data-line-start="146" data-line-end="150"><strong>仅适用于具有NVIDIA GPU的用户</strong>：<br>
+打开 NVIDIA控制面板，左侧栏选择 管理3D设置，右侧选择 程序设置<br>
+在下拉栏选择 Fallout - New Vegas(falloutnv.exe)<br>
+在底下的设置中找到 垂直同步 选项，进行以下设置</p>
 <ul>
-<li class="has-line-data" data-line-start="140" data-line-end="141">确保选择了合适的画质选项，之后通过NVSE进行游戏</li>
-<li class="has-line-data" data-line-start="141" data-line-end="142">启动一个新存档，快速通过医生的教程</li>
-<li class="has-line-data" data-line-start="142" data-line-end="143">离开医生的房间后，打开pipboy检查各个选项是否有问题</li>
-<li class="has-line-data" data-line-start="143" data-line-end="145">在游戏中花费至少20-30分钟做任何事情以确保游戏顺利进行</li>
+<li class="has-line-data" data-line-start="151" data-line-end="153">将默认的 使用3D应用程序设置 改为 快，如果不能改为快则改为 开</li>
+</ul>
+<p class="has-line-data" data-line-start="153" data-line-end="154">点击右下角的 应用，然后退出</p>
+<p class="has-line-data" data-line-start="155" data-line-end="159"><strong>仅适用于使用AMD GPU的用户</strong>：<br>
+(注：本人没有AMD GPU验证，不同版本驱动开启方法可能有所差别)<br>
+右键单击桌面并选择AMD Radeon Settings，在&quot; 游戏&quot;选项卡中，选择 Fallout New Vegas 配置文件<br>
+在&quot; 配置文件图形&quot;选项卡中，更改以下内容</p>
+<ul>
+<li class="has-line-data" data-line-start="160" data-line-end="162">将 等待垂直刷新 一项设置为 增强同步。如果不能选择增强同步，请选择 始终开启</li>
+</ul>
+<p class="has-line-data" data-line-start="162" data-line-end="164">点击左下角的主页按钮（设置应自动保存），并确保在配置文件名称下方显示&quot;已启用 &quot;字样<br>
+如果没有，请单击配置文件名称右侧的三个垂直点，然后选择启用配置文件</p>
+<p class="has-line-data" data-line-start="165" data-line-end="166">七、最终测试</p>
+<p class="has-line-data" data-line-start="167" data-line-end="168">至此基础游戏的设置及优化已全部完成，请按照以下步骤进行完整测试：</p>
+<ul>
+<li class="has-line-data" data-line-start="169" data-line-end="170">确保选择了合适的画质选项，之后通过NVSE进行游戏</li>
+<li class="has-line-data" data-line-start="170" data-line-end="171">启动一个新存档，快速通过医生的教程</li>
+<li class="has-line-data" data-line-start="171" data-line-end="172">离开医生的房间后，打开pipboy检查各个选项是否有问题</li>
+<li class="has-line-data" data-line-start="172" data-line-end="174">在游戏中花费至少20-30分钟做任何事情以确保游戏顺利进行</li>
 </ul>
 <hr>
-<p class="has-line-data" data-line-start="147" data-line-end="148">以上是本指南的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到现代化的新维加斯体验。</p>
+<p class="has-line-data" data-line-start="176" data-line-end="177">以上是本指南的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到现代化的新维加斯体验。</p>
