@@ -1,5 +1,5 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="_0"></a>现代化的新维加斯入门指南</h1>
-<h5 class="code-line" data-line-start=2 data-line-end=3 ><a id="v2007_httpsgithubcomfeelbetterhuanvguideline_cnblobmasterchangelogmd__2"></a>v20.07 <a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/changelog.md" title="更新日志">更新日志</a></h5>
+<h5 class="code-line" data-line-start=2 data-line-end=3 ><a id="v2008_httpsgithubcomfeelbetterhuanvguideline_cnblobmasterchangelogmd__2"></a>v20.08 <a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/changelog.md" title="更新日志">更新日志</a></h5>
 <hr>
 <p class="has-line-data" data-line-start="6" data-line-end="7"><img src="https://s1.ax1x.com/2020/07/07/UF4VQf.jpg" alt="intro" title="intro"></p>
 <p class="has-line-data" data-line-start="8" data-line-end="9"><strong>在发售10年之后，新维加斯不应该是这个游戏体验</strong></p>
@@ -11,7 +11,7 @@
 <p class="has-line-data" data-line-start="16" data-line-end="17">汉化前置：游戏本体的汉化及前置补丁安装，在现在运行新维加斯所必须的选项。本部分几乎没有改变任何游戏内容，如果你想体验最原生态的游戏，可以选择只安装这一部分。</p>
 </li>
 <li class="has-line-data" data-line-start="18" data-line-end="20">
-<p class="has-line-data" data-line-start="18" data-line-end="19">基础游戏：包含大量的修复及改善，包括Bug修复、纹理及模型修复及改善、基础系统改善，UI界面改善。虽然修正了一些良性错误，但仍然非常推荐所有玩家安装，提供全面汉化。（即将推出）</p>
+<p class="has-line-data" data-line-start="18" data-line-end="19">基础游戏：包含大量的修复及改善，包括Bug修复、纹理及模型修复及改善、基础系统改善，UI界面改善。虽然修正了一些良性错误，但仍然非常推荐所有玩家安装，提供全面汉化。</p>
 </li>
 <li class="has-line-data" data-line-start="20" data-line-end="22">
 <p class="has-line-data" data-line-start="20" data-line-end="21">画质提升：添加新的效果/灯光和替换纹理/模型来增强游戏的视觉效果，包括LOD生成。可能会失去原版的一些特点，但使其看起来更加现代化。推荐机器性能较好的玩家安装，提供全面汉化。（即将推出）</p>
@@ -24,6 +24,7 @@
 </li>
 </ul>
 <h4 class="code-line" data-line-start=26 data-line-end=27 ><a id="httpsgithubcomfeelbetterhuanvguideline_cnblobmastermdutilitiesmd__26"></a><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/utilities.md" title="汉化前置">汉化前置</a></h4>
+<h4 class="code-line" data-line-start=28 data-line-end=29 ><a id="httpsgithubcomfeelbetterhuanvguideline_cnblobmastermdBase20Gamemd__28"></a><a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/Base%20Game.md" title="基础游戏">基础游戏</a></h4>
 <hr>
-<p class="has-line-data" data-line-start="30" data-line-end="32"><strong>免责声明</strong>：<br>
+<p class="has-line-data" data-line-start="32" data-line-end="34"><strong>免责声明</strong>：<br>
 该指南中考虑到中国玩家使用环境及习惯，制作了汉化及整合包。由于涉及Mod数量较多，无法一一取得分流及汉化许可。故在此声明，Mod版权归各自作者所有，本指南分流及汉化的Mod仅为交流使用，不用做任何商业目的。在尽量争取更多Mod作者同意的同时，附上了Mod原地址，希望有条件的玩家可以支持原作者。</p>
