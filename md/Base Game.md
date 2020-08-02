@@ -1,7 +1,7 @@
 <p class="has-line-data" data-line-start="0" data-line-end="1"><strong>首先请确保已完成<a href="https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/utilities.md" title="汉化前置">汉化前置</a>并可以正常游戏</strong></p>
 <p class="has-line-data" data-line-start="2" data-line-end="3">一、Mod Organizer 2安装配置</p>
 <p class="has-line-data" data-line-start="4" data-line-end="12">下载 Mod Organizer 2 (Archive) 主文件<br>
-<a href="https://pan.baidu.com/s/1E-o9y0_d8Gx_1O5Tl4MhTg">https://pan.baidu.com/s/1E-o9y0_d8Gx_1O5Tl4MhTg</a> 提取码: w1e3<br>
+<a href="https://pan.baidu.com/s/1vgeDjitKQbS3xvMioE9x0g">https://pan.baidu.com/s/1vgeDjitKQbS3xvMioE9x0g</a> 提取码：5f3l<br>
 在安全位置新建一个文件夹命名为Mod Organizer 2，将压缩包内的内容全部解压至该文件夹<br>
 进入Mod Organizer 2，右键单击ModOrganizer.exe选择 属性<br>
 导航到 兼容性 选项卡，然后选中 以管理员身份运行此程序<br>
