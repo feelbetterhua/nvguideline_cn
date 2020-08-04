@@ -107,7 +107,7 @@ fXenonHorizLookSpeed=1500.0000</p>
 <p class="has-line-data" data-line-start="111" data-line-end="112">完成后保存关闭。</p>
 <p class="has-line-data" data-line-start="113" data-line-end="114">五、重要前置</p>
 <p class="has-line-data" data-line-start="115" data-line-end="121">前置补丁包<br>
-<a href="https://pan.baidu.com/s/1BwcGGvfVNNZjc5l95MwgNg">https://pan.baidu.com/s/1BwcGGvfVNNZjc5l95MwgNg</a> 提取码：194f<br>
+<a href="https://pan.baidu.com/s/1GvKqkBfxCLWwPzoNb9BDpg">https://pan.baidu.com/s/1GvKqkBfxCLWwPzoNb9BDpg</a> 提取码：tyg1<br>
 特别安装说明：<br>
 在安装前，请确保安装了所有需要的Microsoft VC++ Redistributable Packages(见第一步)<br>
 将压缩包内的所有内容解压到根目录，并在出现提示时选择覆盖，解压后nvse_loader.exe应该与FalloutNV.exe在同一目录。<br>
