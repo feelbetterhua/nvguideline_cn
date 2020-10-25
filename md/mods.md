@@ -1,6 +1,6 @@
 <p class="has-line-data" data-line-start="0" data-line-end="1">一、游戏安装</p>
 <p class="has-line-data" data-line-start="2" data-line-end="6">1.安装参数：<br>
-<strong>如果还没有安装游戏，请不要安装在 C:/Program Files(x86)/Steam 文件夹</strong>（如果已经按照在上述文件夹则无法使用BSA Decompressor）<br>
+<strong>如果还没有安装游戏，请不要安装在 C:/Program Files(x86)/Steam 文件夹</strong>（如果已经安装在上述文件夹则无法使用BSA Decompressor）<br>
 所有modding工具必须安装在默认Windows文件夹之外（如Program Files，Program Files（x86）和Documents）。<br>
 Fallout New Vegas和Mod Organizer 2必须安装在同一个盘上，但不要将Mod Organizer 2和mod文件夹安装在游戏根目录下。</p>
 <p class="has-line-data" data-line-start="7" data-line-end="11">2.常用术语：<br>
