@@ -1,5 +1,5 @@
-<h4>一、安装设置</h4>
-<h5>1.系统设置：</h5>
+<h3>一、安装设置</h3>
+<h4>1.系统设置：</h4>
 <p><strong>安装所有需要的Microsoft VC++ Redistributable Packages</strong>，链接：<a href='https://pan.baidu.com/s/1tYhsOzSsXNwy1OFMiIpvmw' target='_blank' class='url'>https://pan.baidu.com/s/1tYhsOzSsXNwy1OFMiIpvmw</a> 提取码：mfnv </p>
 <p>如果之前卸载过新维加斯，<strong>请确保删除所有了游戏文件、相关存档并清除注册表残余</strong>。如果使用Windows 10系统，请单独添加英语作为第二语言，并在游戏时确保切换到英语键盘。</p>
 <p>指南中使用到的常用目录：</p>
@@ -8,14 +8,14 @@
 <li>Data文件夹：<em>Steam/steamapps/common/Fallout New Vegas/Data</em> 或 <em>GOG Galaxy/Games/Fallout New Vegas/Data</em></li>
 
 </ul>
-<h5>2.禁用叠加层：</h5>
+<h4>2.禁用叠加层：</h4>
 <p>需要为Fallout New Vegas禁用任何叠加以防止内存泄漏。一些具有覆盖的常见应用程序是Steam，GOG，NVIDIA GeForce Experience，Discord和MSI Afterburner。</p>
 <ul>
 <li>Steam的禁用方法为：在库中右键点击Fallout：New Vegas，选择 属性，在 常规 选项卡下找到 在游戏中启动Steam界面 并反勾选它。</li>
 <li>GeForce Experience的禁用方法为：打开GeForce Experience，点击右上方的齿轮图标进入设置。在 常规 一栏关闭 游戏内覆盖</li>
 
 </ul>
-<h5>3.首次运行以初始化ini文件：</h5>
+<h4>3.首次运行以初始化ini文件：</h4>
 <p><strong>首次安装完成后，在Steam或GOG中启动游戏，等待其完成初始化设置</strong>。完成后弹出Detecting Video Hardware的窗口，单击确定。之后弹出窗口提示程序根据你的硬件已设置画质，单击确定。</p>
 <ul>
 <li>如果没有任何弹出窗口，请导航到 <em>文档/My Games/FalloutNV</em> 并删除以.INI结尾的所有文件，然后重新运行</li>
@@ -23,7 +23,7 @@
 </ul>
 <p>选择 Options，确认游戏检测到并正确使用你的GPU，并选择了合适画质<strong>（不要选择最低画质）</strong>。
 根据你的偏好设置分辨率，注意 Antiailiasing 项最多可以设置为8 Samples。单击 OK，然后单击 PLAY 进入游戏。进入主菜单后没有异常就可以退出游戏。</p>
-<h4>二、汉化安装</h4>
+<h3>二、汉化安装</h3>
 <p>本指南使用民间汉化第六版，首先请确保可以正常进入游戏，然后下载汉化补丁
 链接：<a href='https://pan.baidu.com/s/1CS-upRW02WvEyTZPipjkVA' target='_blank' class='url'>https://pan.baidu.com/s/1CS-upRW02WvEyTZPipjkVA</a> 提取码: 7miv
 安装说明：
@@ -38,8 +38,8 @@
 天邈汉化使用原版exe文件，目前天邈插件尚不完善，<strong>不推荐使用天邈与民间汉化混装的模式</strong>。</p>
 </blockquote>
 <p>此时汉化已经完成，进入游戏，主界面和菜单应该都已汉化。<strong>点击 选项-显示 ，滚轮滑到最下，将 一般字幕 设置为开启</strong>。后退到主菜单，开始新游戏测试游戏内容汉化是否有问题。</p>
-<h4>三、重要前置</h4>
-<h5>1.FalloutCustom.ini优化</h5>
+<h3>三、重要前置</h3>
+<h4>1.FalloutCustom.ini优化</h4>
 <p>链接：<a href='https://pan.baidu.com/s/16gSrR-srxTFdUuBFlc_oYQ' target='_blank' class='url'>https://pan.baidu.com/s/16gSrR-srxTFdUuBFlc_oYQ</a> 提取码：mfnv 
 安装说明：
 将压缩包内的文件解压至 <em>文档/My Games/FalloutNV</em>，完成后导航到该目录打开FalloutCustom.ini，将 INumHWThreads 后的数字更改为CPU所具有的线程数。</p>
@@ -49,7 +49,7 @@
 <li>如果使用G/Free-sync，则 iPresentInterval 可以设置为0</li>
 
 </ul>
-<h5>2.前置补丁包</h5>
+<h4>2.前置补丁包</h4>
 <p>链接：<a href='https://pan.baidu.com/s/1x9Riyv07XQnkyWvS_k0Z7A' target='_blank' class='url'>https://pan.baidu.com/s/1x9Riyv07XQnkyWvS_k0Z7A</a> 提取码：mfnv 
 安装说明：
 <strong>在安装前，请确保安装了所有需要的Microsoft VC++ Redistributable Packages(见第一步)</strong>
