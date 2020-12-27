@@ -1,31 +1,46 @@
-[NVSE](http://nvse.silverlock.org/ "nvse")
+<ul>
+<li><h2>基础游戏</h2>
+<h2><a href='https://github.com/xNVSE/NVSE/releases'>xNVSE</a></h2>
+<ul>
+<li>NVSE 的更新版本，它扩展了引擎的脚本功能，对大多数模组都至关重要</li>
 
-- 扩展了引擎的脚本功能，这对于大多数mod都是必不可少的
+</ul>
+<h2><a href='https://www.nexusmods.com/newvegas/mods/62552'>4GB Patcher</a></h2>
+<ul>
+<li>使游戏使用 4gb，而不是 2gb</li>
 
-[NVSE_Config.ini](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/master/NVSE_Config.ini.7z "NVSE_Config.ini")
+</ul>
+<h2><a href='https://www.nexusmods.com/newvegas/mods/58277'>JIP LN NVSE Plugin</a></h2>
+<ul>
+<li>NVSE 扩展，具有 800 多个新功能和许多引擎错误修复</li>
 
-- 增加堆分配，以帮助防止卡顿/崩溃
+</ul>
+<h2><a href='https://www.nexusmods.com/newvegas/mods/66927'>JohnnyGuitar NVSE</a></h2>
+<ul>
+<li>另一个与 JIP LN 类似的 NVSE 扩展</li>
 
-[JIP LN NVSE Plugin](https://www.nexusmods.com/newvegas/mods/58277?tab=files "JIP LN NVSE Plugin")
+</ul>
+<h2><a href='https://www.nexusmods.com/newvegas/mods/53635'>New Vegas Anti-Crash</a></h2>
+<ul>
+<li>大幅降低游戏崩溃率</li>
 
-- NVSE扩展800+新功能
+</ul>
+<h2><a href='https://www.nexusmods.com/newvegas/mods/66537'>New Vegas Tick Fix</a></h2>
+<ul>
+<li>致力于修复卡顿，提高性能，并允许在更高的帧速率下播放</li>
 
-[JohnnyGuitar NVSE](https://www.nexusmods.com/newvegas/mods/66927?tab=files "JohnnyGuitar NVSE")
+</ul>
+<h2><a href='https://www.nexusmods.com/newvegas/mods/68714'>Mod Limit Fix</a></h2>
+<ul>
+<li>将游戏的插件限制提升至255，并改善性能/加载时间，即使低于插件限制</li>
 
-- 另一个NVSE扩展
+</ul>
+<h2><a href='https://www.nexusmods.com/skyrim/mods/40706'>OneTweak</a></h2>
+<ul>
+<li>启用无边框窗口模式，确保安全的 alt-tab</li>
 
-[4GB Patcher](https://www.nexusmods.com/newvegas/mods/59451 "4GB Patcher")
+</ul>
+</li>
 
-- 使游戏识别大地址，这意味着它可以使用4GB的内存，而不是2GB
-
-[New Vegas Anti-Crash](https://www.nexusmods.com/newvegas/mods/53635/?tab=files "New Vegas Anti-Crash")
-
-- 实现结构化的异常处理和完整性检查，以减少崩溃的数量
-
-[New Vegas Tick Fix](https://www.nexusmods.com/newvegas/mods/66537?tab=files "New Vegas Tick Fix")
-
-- 工作以修复微口吃，提高性能，并允许在更高的帧率运行
-
-[Mod Limit Fix](https://www.nexusmods.com/newvegas/mods/68714?tab=files "Mod Limit Fix")
-
-- 提高游戏的~120插件限制到255，也可能提高性能和减少加载时间
+</ul>
+<p>&nbsp;</p>
