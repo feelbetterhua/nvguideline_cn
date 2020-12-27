@@ -1,4 +1,4 @@
-<h1>现代化的新维加斯中文Mod指南</h1>
+<h1>现代化的新维加斯Mod指南</h1>
 <h5>v20.12 <a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/changelog.md' title='更新日志'>更新日志</a></h5>
 <hr />
 <p><img src="https://s1.ax1x.com/2020/07/07/UF4VQf.jpg" referrerpolicy="no-referrer" alt="intro" title="intro"></p>
