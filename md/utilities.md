@@ -1,6 +1,6 @@
 <h3>一、安装设置</h3>
 <h4>1.系统设置：</h4>
-<p><strong>安装所有需要的Microsoft VC++ Redistributable Packages</strong>，链接：<a href='https://pan.baidu.com/s/1tYhsOzSsXNwy1OFMiIpvmw' target='_blank' class='url'>https://pan.baidu.com/s/1tYhsOzSsXNwy1OFMiIpvmw</a> 提取码：mfnv </p>
+<p><strong>安装所有需要的Microsoft VC++ Redistributable Packages</strong> <a href='https://pan.baidu.com/s/1tYhsOzSsXNwy1OFMiIpvmw' target='_blank' class='url'>https://pan.baidu.com/s/1tYhsOzSsXNwy1OFMiIpvmw</a> 提取码：mfnv </p>
 <p>如果之前卸载过新维加斯，<strong>请确保删除所有了游戏文件、相关存档并清除注册表残余</strong>。如果使用Windows 10系统，请单独添加英语作为第二语言，并在游戏时确保切换到英语键盘。</p>
 <p>指南中使用到的常用目录：</p>
 <ul>
@@ -25,14 +25,12 @@
 根据你的偏好设置分辨率，注意 Antiailiasing 项最多可以设置为8 Samples。单击 OK，然后单击 PLAY 进入游戏。进入主菜单后没有异常就可以退出游戏。</p>
 <h3>二、汉化安装</h3>
 <p>本指南使用民间汉化第六版，首先请确保可以正常进入游戏，然后下载汉化补丁</p>
-<p>链接：<a href='https://pan.baidu.com/s/1CS-upRW02WvEyTZPipjkVA' target='_blank' class='url'>https://pan.baidu.com/s/1CS-upRW02WvEyTZPipjkVA</a> 提取码: 7miv</p>
-<p>安装说明：</p>
+<p><a href='https://pan.baidu.com/s/1CS-upRW02WvEyTZPipjkVA' target='_blank' class='url'>https://pan.baidu.com/s/1CS-upRW02WvEyTZPipjkVA</a> 提取码: 7miv</p>
 <p>双击汉化补丁进行安装，一路点击下一步。<strong>在 选择目标位置 界面检查安装位置是否正确</strong>。下一步时会弹出对话框提示目录已经存在，点击 是 即可。</p>
 <p>在 选择组件 界面中反选所有选项，或在下拉菜单中选择 简洁安装，<strong>只需要汉化必须文件</strong>。点击下一步进行安装，安装完成后在最后界面选择 运行FNVTools设置游戏 ，结束后自动弹出FNVTools2.1</p>
 <p>点击FNVTools中的 INI设置和优化 ，进入INI设置和优化后在下方 切换INI 字体设置 一栏选择想要的字体(中文幼圆大字 或 中文宋体小字二选一)，点击会后弹出对话框，选择 是，再点击确定。最后点击最下方的 保存 ，然后关闭 FNVTools2.1</p>
-<p>GOG版汉化后必需文件：</p>
-<p>链接：<a href='https://pan.baidu.com/s/1JlGDAt0TlkvA1dmtYrdIHQ' target='_blank' class='url'>https://pan.baidu.com/s/1JlGDAt0TlkvA1dmtYrdIHQ</a> 提取码: s5x7</p>
-<p>特殊安装说明：</p>
+<p>GOG版汉化后必需文件 </p>
+<p><a href='https://pan.baidu.com/s/1JlGDAt0TlkvA1dmtYrdIHQ' target='_blank' class='url'>https://pan.baidu.com/s/1JlGDAt0TlkvA1dmtYrdIHQ</a> 提取码: s5x7</p>
 <p>将压缩包内的文件解压到根目录（文件来源于网络，没有GOG版无法验证是否起作用）</p>
 <blockquote><p>汉化补丁使用了Steam版的exe文件并进行了修改，打上补丁的GOG版就相当于Steam版。
 天邈汉化使用原版exe文件，目前天邈插件尚不完善，<strong>不推荐使用天邈与民间汉化混装的模式</strong>。</p>
@@ -40,8 +38,7 @@
 <p>此时汉化已经完成，进入游戏，主界面和菜单应该都已汉化。<strong>点击 选项-显示 ，滚轮滑到最下，将 一般字幕 设置为开启</strong>。后退到主菜单，开始新游戏测试游戏内容汉化是否有问题。</p>
 <h3>三、重要前置</h3>
 <h4>1.FalloutCustom.ini优化</h4>
-<p>链接：<a href='https://pan.baidu.com/s/16gSrR-srxTFdUuBFlc_oYQ' target='_blank' class='url'>https://pan.baidu.com/s/16gSrR-srxTFdUuBFlc_oYQ</a> 提取码：mfnv </p>
-<p>安装说明：</p>
+<p><a href='https://pan.baidu.com/s/16gSrR-srxTFdUuBFlc_oYQ' target='_blank' class='url'>https://pan.baidu.com/s/16gSrR-srxTFdUuBFlc_oYQ</a> 提取码：mfnv </p>
 <p>将压缩包内的文件解压至 <em>文档/My Games/FalloutNV</em>，完成后导航到该目录打开FalloutCustom.ini，将 INumHWThreads 后的数字更改为CPU所具有的线程数。</p>
 <blockquote><p>可以打开同目录下的RendererInfo.txt ，查看最后一行 HW Thread Count 后面的数字</p>
 </blockquote>
@@ -50,8 +47,7 @@
 
 </ul>
 <h4>2.前置补丁包</h4>
-<p>链接：<a href='https://pan.baidu.com/s/1x9Riyv07XQnkyWvS_k0Z7A' target='_blank' class='url'>https://pan.baidu.com/s/1x9Riyv07XQnkyWvS_k0Z7A</a> 提取码：mfnv </p>
-<p>安装说明：</p>
+<p><a href='https://pan.baidu.com/s/1x9Riyv07XQnkyWvS_k0Z7A' target='_blank' class='url'>https://pan.baidu.com/s/1x9Riyv07XQnkyWvS_k0Z7A</a> 提取码：mfnv </p>
 <p><strong>在安装前，请确保安装了所有需要的Microsoft VC++ Redistributable Packages(见第一步)</strong></p>
 <p>将压缩包内的所有内容解压到根目录，并在出现提示时选择覆盖，解压后nvse_loader.exe应该与FalloutNV.exe在同一目录。
 然后对文件进行4gbPatch：</p>
