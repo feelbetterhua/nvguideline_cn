@@ -106,6 +106,7 @@
 <li>JIP Improved Recipe Menu-1.20</li>
 <li>Simple DLC Delay-2.1-Chinese simplified</li>
 <li>DUINV-0.5-Chinese simplified</li>
+<li>Vanilla HUD Remastered 4K-v1.83-modified</li>
 <li>Just Assorted Mods-3.0a-Chinese simplified</li>
 
 </ul>
