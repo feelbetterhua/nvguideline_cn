@@ -11,10 +11,8 @@
 <li><del>额外内容：增加了许多小时的友好且平衡的内容，包括新任务、装备、对话、环境等。所有新内容风格均与原版游戏契合，推荐多周目安装。</del>（无限期延迟）</li>
 
 </ul>
-<p>&nbsp;</p>
 <h3><a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/utilities.md' title='汉化前置'>汉化前置</a></h3>
 <h3><a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/Base%20Game.md' title='基础游戏'>基础游戏</a></h3>
-<p>&nbsp;</p>
 <h4>快捷链接</h4>
 <h6><a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/nvse_stewie_tweaks.ini' title='设置翻译'>lStewieAl‘s Tweaks 6.05设置翻译</a></h6>
 <h6><a href='https://pan.baidu.com/s/1gOKY_pqprm4DezjjqEwuGw' title='资源地址'>网盘下载 mfnv</a></h6>
