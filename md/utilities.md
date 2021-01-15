@@ -1,6 +1,6 @@
 <h3>一、安装设置</h3>
 <h4>1.系统设置：</h4>
-<p><strong>安装所有需要的Microsoft VC++ Redistributable Packages</strong> <a href='https://pan.baidu.com/s/1tYhsOzSsXNwy1OFMiIpvmw' target='_blank' class='url'>https://pan.baidu.com/s/1tYhsOzSsXNwy1OFMiIpvmw</a> 提取码：mfnv </p>
+<p><strong>安装所有需要的Microsoft VC++ Redistributable Packages</strong> <a href='https://pan.baidu.com/s/1M4LGuRCUbTUwYAbc_J9KDw' target='_blank' class='url'>https://pan.baidu.com/s/1M4LGuRCUbTUwYAbc_J9KDw</a> 提取码：mfnv</p>
 <p>如果之前卸载过新维加斯，<strong>请确保删除所有了游戏文件、相关存档并清除注册表残余</strong>。如果使用Windows 10系统，请单独添加英语作为第二语言，并在游戏时确保切换到英语键盘。</p>
 <p>指南中使用到的常用目录：</p>
 <ul>
@@ -21,8 +21,8 @@
 <li>如果没有任何弹出窗口，请导航到 <em>文档/My Games/FalloutNV</em> 并删除以.INI结尾的所有文件，然后重新运行</li>
 
 </ul>
-<p>选择 Options，确认游戏检测到并正确使用你的GPU，并选择了合适画质<strong>（不要选择最低画质）</strong>。
-根据你的偏好设置分辨率，注意 Antiailiasing 项最多可以设置为8 Samples。单击 OK，然后单击 PLAY 进入游戏。进入主菜单后没有异常就可以退出游戏。</p>
+<p>选择 Options，确认游戏检测到并正确使用你的GPU，并选择了合适画质<strong>（不要选择最低画质）</strong>。</p>
+<p>根据你的偏好设置分辨率，注意 Antiailiasing 项最多可以设置为8 Samples。单击 OK，然后单击 PLAY 进入游戏。进入主菜单后没有异常就可以退出游戏。</p>
 <h3>二、汉化安装</h3>
 <p>本指南使用民间汉化第六版，首先请确保可以正常进入游戏，然后下载汉化补丁</p>
 <p><a href='https://pan.baidu.com/s/1CS-upRW02WvEyTZPipjkVA' target='_blank' class='url'>https://pan.baidu.com/s/1CS-upRW02WvEyTZPipjkVA</a> 提取码: 7miv</p>
@@ -35,24 +35,21 @@
 <blockquote><p>汉化补丁使用了Steam版的exe文件并进行了修改，打上补丁的GOG版就相当于Steam版。
 天邈汉化使用原版exe文件，目前天邈插件尚不完善，<strong>不推荐使用天邈与民间汉化混装的模式</strong>。</p>
 </blockquote>
-<p>此时汉化已经完成，进入游戏，主界面和菜单应该都已汉化。<strong>点击 选项-显示 ，滚轮滑到最下，将 一般字幕 设置为开启</strong>。后退到主菜单，开始新游戏测试游戏内容汉化是否有问题。</p>
+<p>此时汉化已经完成，<strong>直接点击根目录下的 FalloutNV.exe 进入游戏</strong>，主界面和菜单应该都已汉化。</p>
+<p><strong>点击 选项-显示 ，滚轮滑到最下，将 一般字幕 设置为开启</strong>。后退到主菜单，开始新游戏测试游戏内容汉化是否有问题。</p>
 <h3>三、重要前置</h3>
 <h4>1.FalloutCustom.ini优化</h4>
-<p><a href='https://pan.baidu.com/s/16gSrR-srxTFdUuBFlc_oYQ' target='_blank' class='url'>https://pan.baidu.com/s/16gSrR-srxTFdUuBFlc_oYQ</a> 提取码：mfnv </p>
+<p><a href='https://pan.baidu.com/s/1QqaXomJtGfgw7fx3R-vGGw' target='_blank' class='url'>https://pan.baidu.com/s/1QqaXomJtGfgw7fx3R-vGGw</a> 提取码：mfnv</p>
 <p>将压缩包内的文件解压至 <em>文档/My Games/FalloutNV</em>，完成后导航到该目录打开FalloutCustom.ini，将 INumHWThreads 后的数字更改为CPU所具有的线程数。</p>
 <blockquote><p>可以打开同目录下的RendererInfo.txt ，查看最后一行 HW Thread Count 后面的数字</p>
 </blockquote>
-<ul>
-<li>如果使用G/Free-sync，则 iPresentInterval 可以设置为0</li>
-
-</ul>
 <h4>2.前置补丁包</h4>
-<p><a href='https://pan.baidu.com/s/1x9Riyv07XQnkyWvS_k0Z7A' target='_blank' class='url'>https://pan.baidu.com/s/1x9Riyv07XQnkyWvS_k0Z7A</a> 提取码：mfnv </p>
+<p><a href='https://pan.baidu.com/s/165GwBxR7jj94LldoSRcNAw' target='_blank' class='url'>https://pan.baidu.com/s/165GwBxR7jj94LldoSRcNAw</a> 提取码：mfnv</p>
 <p><strong>在安装前，请确保安装了所有需要的Microsoft VC++ Redistributable Packages(见第一步)</strong></p>
 <p>将压缩包内的所有内容解压到根目录，并在出现提示时选择覆盖，解压后nvse_loader.exe应该与FalloutNV.exe在同一目录。
 然后对文件进行4gbPatch：</p>
 <ul>
-<li>针对修改版exe文件(民间汉化，目前本指南使用)：
+<li><strong>针对修改版exe文件(民间汉化，目前本指南使用)</strong>：
 导航到根目录，右键单击 4gb_patch.exe ，选择 以管理员身份运行。在弹出的窗口中双击选择 FalloutNV.exe ，等待根目录下出现 FalloutNV.exe.Backup 后点击 OK 退出</li>
 <li>针对原版exe文件(天邈汉化)：
 导航到根目录，右键单击 FalloutNVpatch.exe ，选择 以管理员身份运行。弹出的窗口中应该显示 FalloutNV.exe patched! ，按键盘上的任意键退出</li>
@@ -62,10 +59,10 @@
 </blockquote>
 <p><strong>验证NVSE和4GBpatch是否正常运行：</strong></p>
 <p>在根目录下双击nvse_loader.exe运行游戏。进入游戏主菜单后，按 ~ 键打开控制台</p>
-<p>将getnvseversion输入控制台并按Enter键，控制台应报告 NVSE version: 5</p>
-<p>将getislaa输入控制台并按Enter键，控制台应该报告 GetisLAA &gt;&gt; 2.0000</p>
+<p>此时控制台应显示xNVSE及JIP NVSE的版本，将getislaa输入控制台并按Enter键，控制台应该报告 GetisLAA &gt;&gt; 2.0000</p>
 <ul>
-<li>如果没有，请检查前置包是否正确安装</li>
+<li>如果没有正确显示版本，请检查前置包是否正确安装</li>
+<li>如果没有报告GetisLAA &gt;&gt; 2.0000，请检查4GBpatch是否正确完成</li>
 
 </ul>
 <p><strong>验证完成后，不要在Steam/GOG内运行游戏，只通过NVSE(nvse_loader.exe)进行游戏</strong></p>
