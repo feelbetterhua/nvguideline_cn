@@ -16,6 +16,6 @@
 <p>&nbsp;</p>
 <h6><a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/nvse_stewie_tweaks.ini' title='设置翻译'>lStewieAl‘s Tweaks 6.05设置翻译</a></h6>
 <h6><a href='https://pan.baidu.com/s/1gOKY_pqprm4DezjjqEwuGw' title='资源地址'>网盘下载 mfnv</a></h6>
-<h6><a href=' https://tieba.baidu.com/p/6204813459' title='贴子地址'>贴吧交流</a></h6>
+<h6><a href='https://tieba.baidu.com/p/6204813459' title='帖子地址'>贴吧交流</a></h6>
 <hr />
 <p><strong>免责声明</strong>： 该指南中考虑到中国玩家使用环境及习惯，制作了汉化及整合包。由于涉及Mod数量较多，无法一一取得分流及汉化许可。故在此声明，Mod版权归各自作者所有，本指南分流及汉化的Mod仅为交流使用，不用做任何商业目的。在尽量争取更多Mod作者同意的同时，附上了Mod原地址，希望有条件的玩家可以支持原作者。</p>
