@@ -14,7 +14,7 @@
 <h3><a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/utilities.md' title='汉化前置'>汉化前置</a></h3>
 <h3><a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/Base%20Game.md' title='基础游戏'>基础游戏</a></h3>
 <h4>快捷链接</h4>
-<h6><a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/nvse_stewie_tweaks.ini' title='设置翻译'>lStewieAl‘s Tweaks 6.05设置翻译</a></h6>
+<h6><a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/nvse_stewie_tweaks.ini' title='设置翻译'>lStewieAl‘s Tweaks 6.05 设置翻译</a></h6>
 <h6><a href='https://pan.baidu.com/s/1gOKY_pqprm4DezjjqEwuGw' title='资源地址'>网盘下载 mfnv</a></h6>
 <h6><a href='https://tieba.baidu.com/p/6204813459' title='帖子地址'>贴吧交流</a></h6>
 <hr />
