@@ -1,6 +1,6 @@
 <h3>一、安装设置</h3>
 <h4>1.系统设置：</h4>
-<p><strong>安装所有需要的Microsoft VC++ Redistributable Packages</strong> <a href='https://pan.baidu.com/s/1M4LGuRCUbTUwYAbc_J9KDw' target='_blank' class='url'>https://pan.baidu.com/s/1M4LGuRCUbTUwYAbc_J9KDw</a> 提取码：mfnv</p>
+<p><strong>安装所有需要的Microsoft VC++ Redistributable Packages</strong> <a href='https://pan.baidu.com/s/1j34Sse2fM8sNmhWzrh6XuQ' target='_blank' class='url'>https://pan.baidu.com/s/1j34Sse2fM8sNmhWzrh6XuQ</a> 提取码：mfnv</p>
 <p>如果之前卸载过新维加斯，<strong>请确保删除所有了游戏文件、相关存档并清除注册表残余</strong>。如果使用Windows 10系统，请单独添加英语作为第二语言，并在游戏时确保切换到英语键盘。</p>
 <p>指南中使用到的常用目录：</p>
 <ul>
@@ -44,7 +44,7 @@
 <blockquote><p>可以打开同目录下的RendererInfo.txt ，查看最后一行 HW Thread Count 后面的数字</p>
 </blockquote>
 <h4>2.前置补丁包</h4>
-<p><a href='https://pan.baidu.com/s/1mPwZI4VgFanXdwZBLhGrgg' target='_blank' class='url'>https://pan.baidu.com/s/1mPwZI4VgFanXdwZBLhGrgg</a> 提取码：mfnv</p>
+<p><a href='https://pan.baidu.com/s/1OGtDrfG01lfvOzfJHlh7Zw' target='_blank' class='url'>https://pan.baidu.com/s/1OGtDrfG01lfvOzfJHlh7Zw</a> 提取码：mfnv</p>
 <p><strong>在安装前，请确保安装了所有需要的Microsoft VC++ Redistributable Packages(见第一步)</strong></p>
 <p>将压缩包内的所有内容解压到根目录，并在出现提示时选择覆盖，解压后nvse_loader.exe应该与FalloutNV.exe在同一目录。
 然后对文件进行4gbPatch：</p>
@@ -61,8 +61,14 @@
 <p>在根目录下双击nvse_loader.exe运行游戏。进入游戏主菜单后，按 ~ 键打开控制台</p>
 <p>此时控制台应显示xNVSE及JIP NVSE的版本，将getislaa输入控制台并按Enter键，控制台应该报告 GetisLAA &gt;&gt; 2.0000</p>
 <ul>
-<li>如果没有正确显示版本，请检查前置包是否正确安装</li>
-<li>如果没有报告GetisLAA &gt;&gt; 2.0000，请检查4GBpatch是否正确完成</li>
+<li><p>如果没有正确显示版本，请检查前置包是否正确安装</p>
+</li>
+<li><p>如果没有报告GetisLAA &gt;&gt; 2.0000，请检查4GBpatch是否正确完成</p>
+</li>
+<li><p>如果你的CPU型号较老，不支持AVX2指令，则打开游戏时会遇到崩溃，请下载以下SSE2指令集补丁包</p>
+<p><a href='https://pan.baidu.com/s/1h7vnb5vRigWu5wywenHbXw' target='_blank' class='url'>https://pan.baidu.com/s/1h7vnb5vRigWu5wywenHbXw</a> 提取码：mfnv</p>
+<p>将压缩包解压至根目录，并在弹出提示时选择覆盖</p>
+</li>
 
 </ul>
 <p><strong>验证完成后，不要在Steam/GOG内运行游戏，只通过NVSE(nvse_loader.exe)进行游戏</strong></p>
