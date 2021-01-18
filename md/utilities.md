@@ -1,7 +1,21 @@
 <h3>一、安装设置</h3>
 <h4>1.系统设置：</h4>
-<p><strong>安装所有需要的Microsoft VC++ Redistributable Packages</strong> <a href='https://pan.baidu.com/s/1hOwbGtq3wFEgurnSbSNNqg' target='_blank' class='url'>https://pan.baidu.com/s/1hOwbGtq3wFEgurnSbSNNqg</a> 提取码：mfnv
-如果之前卸载过新维加斯，<strong>请确保删除所有了游戏文件、相关存档并清除注册表残余</strong>。如果使用Windows 10系统，请单独添加英语作为第二语言，并在游戏时确保切换到英语键盘。</p>
+<p><strong>安装所有需要的Microsoft VC++ Redistributable Packages</strong>(下载链接均来自微软官方)</p>
+<ul>
+<li><p>Microsoft VC++ 2013</p>
+<p>x86: <a href='https://aka.ms/highdpimfc2013x86chs'>vc_redist.x86.exe</a></p>
+<p>x64: <a href='https://aka.ms/highdpimfc2013x64chs'>vc_redist.x64.exe</a></p>
+</li>
+
+</ul>
+<ul>
+<li><p>Microsoft VC++ 2015-2019 </p>
+<p>x86: <a href='https://aka.ms/vs/16/release/vc_redist.x86.exe'>vc_redist.x86.exe</a></p>
+<p>x64: <a href='https://aka.ms/vs/16/release/vc_redist.x64.exe'>vc_redist.x64.exe</a></p>
+</li>
+
+</ul>
+<p>如果之前卸载过新维加斯，<strong>请确保删除所有了游戏文件、相关存档并清除注册表残余</strong>。如果使用Windows 10系统，请单独添加英语作为第二语言，并在游戏时确保切换到英语键盘。</p>
 <p>指南中使用到的常用目录：</p>
 <ul>
 <li>根文件夹(根目录)：<em>Steam/steamapps/common/Fallout New Vegas</em> 或 <em>GOG Galaxy/Games/Fallout New Vegas</em></li>
