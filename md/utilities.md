@@ -1,7 +1,7 @@
 <h3>一、安装设置</h3>
 <h4>1.系统设置：</h4>
-<p><strong>安装所有需要的Microsoft VC++ Redistributable Packages</strong> <a href='https://pan.baidu.com/s/1j34Sse2fM8sNmhWzrh6XuQ' target='_blank' class='url'>https://pan.baidu.com/s/1j34Sse2fM8sNmhWzrh6XuQ</a> 提取码：mfnv</p>
-<p>如果之前卸载过新维加斯，<strong>请确保删除所有了游戏文件、相关存档并清除注册表残余</strong>。如果使用Windows 10系统，请单独添加英语作为第二语言，并在游戏时确保切换到英语键盘。</p>
+<p><strong>安装所有需要的Microsoft VC++ Redistributable Packages</strong> <a href='https://pan.baidu.com/s/1hOwbGtq3wFEgurnSbSNNqg' target='_blank' class='url'>https://pan.baidu.com/s/1hOwbGtq3wFEgurnSbSNNqg</a> 提取码：mfnv
+如果之前卸载过新维加斯，<strong>请确保删除所有了游戏文件、相关存档并清除注册表残余</strong>。如果使用Windows 10系统，请单独添加英语作为第二语言，并在游戏时确保切换到英语键盘。</p>
 <p>指南中使用到的常用目录：</p>
 <ul>
 <li>根文件夹(根目录)：<em>Steam/steamapps/common/Fallout New Vegas</em> 或 <em>GOG Galaxy/Games/Fallout New Vegas</em></li>
