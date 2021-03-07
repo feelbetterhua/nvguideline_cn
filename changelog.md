@@ -1,3 +1,15 @@
+v21.03已更新，更新内容如下：
+
+汉化前置
+
+- 更新前置补丁包
+
+基础游戏
+
+- 更新UPNVSE为UPNVSE Plus
+- 调整Mod安装顺序
+- 更新Just Assorted Mods
+
 v21.01已更新，更新内容如下：
 
 Readme
@@ -15,7 +27,7 @@ Readme
 
 - 更新YUP、UPNVSE、NavmeshFix、DarnUI等重要Mod，删除几个单独修复Bug的Mod
 - UI风格不再模仿辐射4，而是保留原版风格并高清化，同时因为删除相应Mod而提高了稳定性
-- 加入Just Assorted Mods，提供完整汉化(独家)，并进行预先设置，仅加入便捷功能而不改变原版游戏玩法
+- 加入Just Assorted Mods，并进行预先设置，仅加入便捷功能而不改变原版游戏玩法
 
 v20.12已更新，更新内容如下：
 
