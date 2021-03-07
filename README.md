@@ -1,5 +1,5 @@
 <h1>现代化的新维加斯Mod指南</h1>
-<h5>v21.01 <a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/changelog.md' title='更新日志'>更新日志</a></h5>
+<h5>v21.03 <a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/changelog.md' title='更新日志'>更新日志</a></h5>
 <p>本指南旨在建立一种一站式的入门指导，目的是为获得现代化的游戏体验。指南内容基于多个英文指南与个人Mod经验写成，根据中文玩家体验做出调整。</p>
 <p>本指南只推荐Steam或GOG的正版终极版，也就是全DLC的版本，汉化推荐Steam版。指南以纯操作指南的方式编写，只要按照顺序执行步骤即可，建议每一部分完整阅读后再开始安装。</p>
 <p>该指南分为以下几个部分，可以根据不同情况选择安装，其中<strong>汉化前置为必须安装项</strong>：</p>
@@ -14,7 +14,7 @@
 <h3><a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/utilities.md' title='汉化前置'>汉化前置</a></h3>
 <h3><a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/Base%20Game.md' title='基础游戏'>基础游戏</a></h3>
 <h4>快捷链接</h4>
-<h6><a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/nvse_stewie_tweaks.ini' title='设置翻译'>lStewieAl‘s Tweaks 6.05 设置翻译</a></h6>
+<h6><a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/nvse_stewie_tweaks.ini' title='设置翻译'>lStewieAl‘s Tweaks 设置翻译</a></h6>
 <h6><a href='https://pan.baidu.com/s/1i64f52Zz490LBYWzsI8KdA' title='资源地址'>网盘下载 mfnv</a></h6>
 <h6><a href='https://tieba.baidu.com/p/6204813459' title='帖子地址'>贴吧交流</a></h6>
 <hr />
