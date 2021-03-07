@@ -6,9 +6,6 @@
 <p>x86: <a href='https://aka.ms/highdpimfc2013x86chs'>vc_redist.x86.exe</a></p>
 <p>x64: <a href='https://aka.ms/highdpimfc2013x64chs'>vc_redist.x64.exe</a></p>
 </li>
-
-</ul>
-<ul>
 <li><p>Microsoft VC++ 2015-2019 </p>
 <p>x86: <a href='https://aka.ms/vs/16/release/vc_redist.x86.exe'>vc_redist.x86.exe</a></p>
 <p>x64: <a href='https://aka.ms/vs/16/release/vc_redist.x64.exe'>vc_redist.x64.exe</a></p>
@@ -58,7 +55,7 @@
 <blockquote><p>可以打开同目录下的RendererInfo.txt ，查看最后一行 HW Thread Count 后面的数字</p>
 </blockquote>
 <h4>2.前置补丁包</h4>
-<p><a href='https://pan.baidu.com/s/1OGtDrfG01lfvOzfJHlh7Zw' target='_blank' class='url'>https://pan.baidu.com/s/1OGtDrfG01lfvOzfJHlh7Zw</a> 提取码：mfnv</p>
+<p><a href='https://pan.baidu.com/s/1robfobocEq2RxOprYNQSxw' target='_blank' class='url'>https://pan.baidu.com/s/1robfobocEq2RxOprYNQSxw</a> 提取码：mfnv</p>
 <p><strong>在安装前，请确保安装了所有需要的Microsoft VC++ Redistributable Packages(见第一步)</strong></p>
 <p>将压缩包内的所有内容解压到根目录，并在出现提示时选择覆盖，解压后nvse_loader.exe应该与FalloutNV.exe在同一目录。
 然后对文件进行4gbPatch：</p>
@@ -75,14 +72,8 @@
 <p>在根目录下双击nvse_loader.exe运行游戏。进入游戏主菜单后，按 ~ 键打开控制台</p>
 <p>此时控制台应显示xNVSE及JIP NVSE的版本，将getislaa输入控制台并按Enter键，控制台应该报告 GetisLAA &gt;&gt; 2.0000</p>
 <ul>
-<li><p>如果没有正确显示版本，请检查前置包是否正确安装</p>
-</li>
-<li><p>如果没有报告GetisLAA &gt;&gt; 2.0000，请检查4GBpatch是否正确完成</p>
-</li>
-<li><p>如果你的CPU型号较老，不支持AVX2指令，则打开游戏时会遇到崩溃，请下载以下SSE2指令集补丁包</p>
-<p><a href='https://pan.baidu.com/s/1h7vnb5vRigWu5wywenHbXw' target='_blank' class='url'>https://pan.baidu.com/s/1h7vnb5vRigWu5wywenHbXw</a> 提取码：mfnv</p>
-<p>将压缩包解压至根目录，并在弹出提示时选择覆盖</p>
-</li>
+<li>如果没有正确显示版本，请检查前置包是否正确安装</li>
+<li>如果没有报告GetisLAA &gt;&gt; 2.0000，请检查4GBpatch是否正确完成</li>
 
 </ul>
 <p><strong>验证完成后，不要在Steam/GOG内运行游戏，只通过NVSE(nvse_loader.exe)进行游戏</strong></p>
