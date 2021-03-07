@@ -80,12 +80,12 @@
 <li><strong>YUP - Base Game + All DLC.esm</strong></li>
 <li><strong>Navmesh Fixes and Improvements.esm</strong></li>
 <li>YUP - NPC Fixes (Base Game + All DLC).esp</li>
-<li>Unofficial Patch NVSE.esp</li>
+<li>Unofficial Patch NVSE Plus.esp</li>
 <li>The Mod Configuration Menu.esp</li>
-<li>The Weapon Mod Menu.esp</li>
 <li>JIP Improved Recipe Menu.esp</li>
 <li>Simple DLC Delay.esp</li>
 <li>DarNifiedUINV.esp</li>
+<li>The Weapon Mod Menu.esp</li>
 <li>JustAssortedMods.esp</li>
 
 </ul>
