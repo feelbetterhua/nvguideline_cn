@@ -55,10 +55,10 @@
 <blockquote><p>可以打开同目录下的RendererInfo.txt ，查看最后一行 HW Thread Count 后面的数字</p>
 </blockquote>
 <h4>2.前置补丁包</h4>
-<p><a href='https://pan.baidu.com/s/1robfobocEq2RxOprYNQSxw' target='_blank' class='url'>https://pan.baidu.com/s/1robfobocEq2RxOprYNQSxw</a> 提取码：mfnv</p>
+<p><a href='https://pan.baidu.com/s/10lQ5GNq3oPW3DP1PVLTmqg' target='_blank' class='url'>https://pan.baidu.com/s/10lQ5GNq3oPW3DP1PVLTmqg</a> 提取码：mfnv </p>
 <p><strong>在安装前，请确保安装了所有需要的Microsoft VC++ Redistributable Packages(见第一步)</strong></p>
-<p>将压缩包内的所有内容解压到根目录，并在出现提示时选择覆盖，解压后nvse_loader.exe应该与FalloutNV.exe在同一目录。
-然后对文件进行4gbPatch：</p>
+<p>将压缩包内的所有内容解压到根目录，并在出现提示时选择覆盖，解压后nvse_loader.exe应该与FalloutNV.exe在同一目录。</p>
+<p>对exe文件进行4gbPatch：</p>
 <ul>
 <li><strong>针对修改版exe文件(民间汉化，目前本指南使用)</strong>：
 导航到根目录，右键单击 4gb_patch.exe ，选择 以管理员身份运行。在弹出的窗口中双击选择 FalloutNV.exe ，等待根目录下出现 FalloutNV.exe.Backup 后点击 OK 退出</li>
