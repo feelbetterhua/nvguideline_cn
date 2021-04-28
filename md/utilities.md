@@ -55,7 +55,7 @@
 <blockquote><p>可以打开同目录下的RendererInfo.txt ，查看最后一行 HW Thread Count 后面的数字</p>
 </blockquote>
 <h4>2.前置补丁包</h4>
-<p><a href='https://pan.baidu.com/s/10lQ5GNq3oPW3DP1PVLTmqg' target='_blank' class='url'>https://pan.baidu.com/s/10lQ5GNq3oPW3DP1PVLTmqg</a> 提取码：mfnv </p>
+<p><a href='https://pan.baidu.com/s/1QTfHCnq8c7c334jHFtcvtQ' target='_blank' class='url'>https://pan.baidu.com/s/1QTfHCnq8c7c334jHFtcvtQ</a> 提取码：mfnv </p>
 <p><strong>在安装前，请确保安装了所有需要的Microsoft VC++ Redistributable Packages(见第一步)</strong></p>
 <p>将压缩包内的所有内容解压到根目录，并在出现提示时选择覆盖，解压后nvse_loader.exe应该与FalloutNV.exe在同一目录。</p>
 <p>对exe文件进行4gbPatch：</p>
