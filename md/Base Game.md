@@ -2,7 +2,7 @@
 <hr />
 <h2>一、Mod Organizer 2安装配置</h2>
 <p>下载 Mod Organizer 2安装文件</p>
-<p><a href='https://pan.baidu.com/s/1P4QlnZBnPxDy802mN52v3w' target='_blank' class='url'>https://pan.baidu.com/s/1P4QlnZBnPxDy802mN52v3w</a> 提取码：mfnv </p>
+<p><a href='https://pan.baidu.com/s/12hwpAf9PqKQf8FWb3JV5Gg' target='_blank' class='url'>https://pan.baidu.com/s/12hwpAf9PqKQf8FWb3JV5Gg</a> 提取码：mfnv </p>
 <p>下载完成后运行安装程序，选择 I accept the agreement ，然后点击 Next 进行下一步</p>
 <p>提示选择安装位置时，选择除游戏根文件夹之外的任何位置，单击 Next ，直到安装程序完成</p>
 <p>安装完成后，导航到Mod Organizer 2的安装位置，右键单击 ModOrganizer.exe 选择 属性</p>
@@ -56,12 +56,12 @@
 <p>在左栏中取消激活Mod右栏中对应的插件会自动消失，而只在右栏中取消激活插件Mod中的其他文件依旧会加载</p>
 <p>在左栏中拖动Mod以更改<strong>覆盖顺序</strong>，在右栏中拖动插件以更改<strong>加载顺序</strong></p>
 <h4>基础游戏整合包：</h4>
-<p><a href='https://pan.baidu.com/s/1B_ZsXR8AdymgOigfdvBFWA' target='_blank' class='url'>https://pan.baidu.com/s/1B_ZsXR8AdymgOigfdvBFWA</a> 提取码：mfnv</p>
-<p>解压Base Game(AIO).rar中的全部压缩包到游戏根目录以外的位置</p>
-<p>通过Mod Organizer2安装所有解压得到的Mod压缩包</p>
+<p><a href='https://pan.baidu.com/s/1oHxqn27YB57DcBksjJnAhw' target='_blank' class='url'>https://pan.baidu.com/s/1oHxqn27YB57DcBksjJnAhw</a> 提取码：mfnv </p>
+<p>解压Base Game.7z中的全部压缩包到游戏根目录以外的位置</p>
+<p>通过Mod Organizer 2安装所有解压得到的Mod压缩包</p>
 <p>按以下更改<strong>覆盖顺序</strong>：</p>
 <ul>
-<li>Bug Fix</li>
+<li>Bug Fixes+QOL Improvements</li>
 <li>HUD+UI</li>
 
 </ul>
@@ -81,37 +81,38 @@
 <li><strong>Navmesh Fixes and Improvements.esm</strong></li>
 <li>YUP - NPC Fixes (Base Game + All DLC).esp</li>
 <li>Unofficial Patch NVSE Plus.esp</li>
+<li>DisableMuzzleFlashLights.esp</li>
 <li>The Mod Configuration Menu.esp</li>
 <li>JIP Improved Recipe Menu.esp</li>
 <li>Simple DLC Delay.esp</li>
 <li>DarNifiedUINV.esp</li>
-<li>The Weapon Mod Menu.esp</li>
 <li>JustAssortedMods.esp</li>
 
 </ul>
-<h4>基础游戏独立包：</h4>
-<p><a href='https://pan.baidu.com/s/1h-BprdV4FROmHJ_ZwOrnzQ' target='_blank' class='url'>https://pan.baidu.com/s/1h-BprdV4FROmHJ_ZwOrnzQ</a> 提取码：mfnv</p>
-<p>解压Base Game(Standalone).rar中的全部压缩包到游戏根目录以外的位置</p>
-<p>通过Mod Organizer2安装所有解压得到的Mod压缩包</p>
-<p>可以根据需求改变<strong>覆盖顺序</strong>，以下是整合版中的<strong>覆盖顺序</strong>：</p>
+<p>以下是整合版中使用的Mod及顺序：</p>
+<p>Bug Fixes+QOL Improvements</p>
 <ul>
-<li>YUP - Base Game and All DLC-12.0-Chinese simplified</li>
-<li>Navmesh Fixes and Improvements-0.2-Chinese simplified</li>
-<li>Unofficial Patch NVSE Plus-1.2.1-Chinese simplified</li>
-<li>Collision Meshes FNV-1.6.4</li>
-<li>Stewie Tweaks-6.10-Modified</li>
-<li>UIO - User Interface Organizer-2.09</li>
-<li>The Mod Configuration Menu-1.5-Chinese simplified</li>
-<li>JIP Improved Recipe Menu-1.20</li>
-<li>Simple DLC Delay-2.1-Chinese simplified</li>
-<li>DUINV-0.5-Chinese simplified</li>
-<li>The Weapon Mod Menu-1.2-Chinese simplified</li>
-<li>Vanilla HUD Remastered 4K-v1.83-modified</li>
-<li>Just Assorted Mods-3.2c-Chinese simplified</li>
+<li><a href='https://www.nexusmods.com/newvegas/mods/51664' title='YUP'>YUP - Base Game and All DLC-12.1-Chinese simplified</a></li>
+<li><a href='https://www.nexusmods.com/newvegas/mods/62041' title='Navmesh Fixes'>Navmesh Fixes and Improvements-0.2-Chinese simplified</a></li>
+<li><a href='https://www.nexusmods.com/newvegas/mods/71239' title='Unofficial Patch NVSE Plus'>Unofficial Patch NVSE Plus-1.2.8-Chinese simplified</a></li>
+<li><a href='https://www.nexusmods.com/newvegas/mods/59149' title='Collision Meshes'>Collision Meshes FNV-1.6.4</a></li>
+<li><a href='https://www.nexusmods.com/newvegas/mods/66347' title='Stewie Tweaks'>Stewie Tweaks INI-6.30-Modified</a></li>
+<li><a href='https://www.nexusmods.com/newvegas/mods/69038' title='No Muzzle Flash Lights'>No Muzzle Flash Lights-1.0</a></li>
 
 </ul>
-<p><strong>加载顺序</strong>与整合版相同</p>
-<h4>INI编辑(不论选择哪一种安装)：</h4>
+<p>HUD+UI</p>
+<ul>
+<li><a href='https://www.nexusmods.com/newvegas/mods/57174' title='UIO'>UIO - User Interface Organizer-2.09</a></li>
+<li><a href='https://www.nexusmods.com/newvegas/mods/42507' title='MCM'>The Mod Configuration Menu-1.5-Chinese simplified</a></li>
+<li><a href='https://www.nexusmods.com/newvegas/mods/59638' title='Improved Recipe Menu'>JIP Improved Recipe Menu-1.20</a></li>
+<li><a href='https://www.nexusmods.com/newvegas/mods/62779' title='Simple DLC Delay'>Simple DLC Delay-2.1-Chinese simplified</a></li>
+<li><a href='https://www.nexusmods.com/newvegas/mods/65459' title='Darnified UI'>DUINV-0.5-Chinese simplified</a></li>
+<li><a href='https://www.nexusmods.com/newvegas/mods/70001' title='Vanilla Hud Cleaned'>Vanilla Hud Cleaned-0.38-modified</a></li>
+<li><a href='https://www.nexusmods.com/newvegas/mods/64102' title='Vanilla HUD Remastered'>Vanilla HUD Remastered 4K-v1.83-modified</a></li>
+<li><a href='https://www.nexusmods.com/newvegas/mods/66666' title='Just Assorted Mods'>Just Assorted Mods-3.2c-Chinese simplified</a></li>
+
+</ul>
+<h4>INI编辑：</h4>
 <p>单击MO2顶部栏上的 工具 按钮 <img src="https://s1.ax1x.com/2020/08/01/aGhXHH.jpg" referrerpolicy="no-referrer" alt="inieditor_pic" title="inieditor_pic"> ，然后选择 INI编辑器</p>
 <p>导航到 falloutcustom.ini 选项卡，该选项卡中的内容应该与<a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/utilities.md' title='汉化前置'>汉化前置</a>中的FalloutCustom.ini内容相同</p>
 <p>在最下方增加以下内容</p>
