@@ -116,12 +116,14 @@
 <p>单击MO2顶部栏上的 工具 按钮 <img src="https://s1.ax1x.com/2020/08/01/aGhXHH.jpg" referrerpolicy="no-referrer" alt="inieditor_pic" title="inieditor_pic"> ，然后选择 INI编辑器</p>
 <p>导航到 falloutcustom.ini 选项卡，该选项卡中的内容应该与<a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/utilities.md' title='汉化前置'>汉化前置</a>中的FalloutCustom.ini内容相同</p>
 <p>在最下方增加以下内容</p>
-<p>[Menu]</p>
-<p>iConsoleFont=8</p>
-<p>iDebugTextFont=8</p>
-<p>[Fonts]</p>
-<p>sFontFile_8=Textures\Fonts\fixedsys_kar.fnt</p>
-<p>sFontFile_9=Textures\Fonts\NVFont_Test.fnt</p>
+<pre><code class='language-ini' lang='ini'>[Menu]
+iConsoleFont=8
+iDebugTextFont=8
+
+[Fonts]
+sFontFile_8=Textures\Fonts\fixedsys_kar.fnt
+sFontFile_9=Textures\Fonts\NVFont_Test.fnt
+</code></pre>
 <p>点击 保存，然后关闭INI编辑器</p>
 <p>安装完成，确定激活需要的Mod和插件并按顺序排序后，通过NVSE进行游戏</p>
 <p>按<a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/utilities.md' title='汉化前置'>汉化前置</a>中的 最终测试 步骤进行验证</p>
