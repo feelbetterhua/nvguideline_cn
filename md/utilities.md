@@ -50,18 +50,18 @@
 <h4 >2.前置补丁包</h4>
 <p><strong>在安装前，请确保安装了所有需要的Microsoft VC++ Redistributable Packages(见第一步)</strong></p>
 <p><a href='https://pan.baidu.com/s/1ltE-k_jax7W8GspFsJSSSw' target='_blank' class='url'>https://pan.baidu.com/s/1ltE-k_jax7W8GspFsJSSSw</a> 提取码：mfnv</p>
-<p>将压缩包内的所有内容解压到根目录，并在出现提示时选择覆盖，解压后nvse_loader.exe应该与FalloutNV.exe在同一目录。</p>
-<p>对exe文件进行4gbPatch：</p>
+<p>将压缩包内的所有内容解压到根目录，在出现提示时选择覆盖。解压后nvse_loader.exe应该与FalloutNV.exe在同一目录，之后进行以下操作。</p>
+<p>1.对exe文件进行4gbPatch：</p>
 <ul>
-<li><p><strong>针对修改版exe文件(民间汉化，目前本指南使用)</strong>：</p>
-<p>导航到根目录，右键单击 4gb_patch.exe ，选择 以管理员身份运行。在弹出的窗口中双击选择 FalloutNV.exe ，等待根目录下出现 FalloutNV.exe.Backup 后点击 OK 退出</p>
+<li><p><strong>针对民间汉化修改版exe文件(本指南使用)</strong></p>
+<p>导航到根目录，右键单击4gb_patch.exe，选择&quot;以管理员身份运行&quot;。在弹出的窗口中双击选择 FalloutNV.exe ，等待弹出窗口并且根目录下出现FalloutNV.exe.Backup后点击OK退出</p>
 </li>
-<li><p>针对原版exe文件(天邈汉化)：</p>
-<p>导航到根目录，右键单击 FalloutNVpatch.exe ，选择 以管理员身份运行。弹出的窗口中应该显示 FalloutNV.exe patched! ，按键盘上的任意键退出</p>
+<li><p>(针对天邈汉化原版exe文件）</p>
+<p>导航到根目录，右键单击FalloutNVpatch.exe，选择&quot;以管理员身份运行&quot;。当弹出的窗口中显示 FalloutNV.exe patched! ，按键盘上的任意键退出。</p>
 </li>
 
 </ul>
-<p>进入根目录，运行<strong>cpu_info.exe</strong>。如果弹出的界面中显示=&gt; Use AVX2 &lt;=，则无需改动。如果不是，则进行如下操作：</p>
+<p>2.进入根目录，运行<strong>cpu_info.exe</strong>。如果弹出的界面中显示=&gt; Use AVX2 &lt;=，则无需改动。如果不是，则进行如下操作：</p>
 <ul>
 <li>首先将根目录下的d3dx9_38.dll文件删除</li>
 <li>显示Use AVX时，则将d3dx9_38.AVX重命名为d3dx9_38.dll</li>
@@ -70,7 +70,7 @@
 </ul>
 <blockquote><p>个人制作的前置补丁包，包含必要前置及优化文件。具体内容详见 <strong><a href='https://github.com/feelbetterhua/nvguideline_cn/blob/master/mod_introduction.md' title='前置说明'>前置说明</a></strong></p>
 </blockquote>
-<p><strong>验证NVSE和4GBpatch是否正常运行：</strong></p>
+<p><strong>3.验证NVSE和4GBpatch是否正常运行：</strong></p>
 <p>在根目录下双击nvse_loader.exe运行游戏。进入游戏主菜单后，按 ~ 键打开控制台</p>
 <p>此时控制台应显示xNVSE及JIP NVSE的版本，将getislaa输入控制台并按Enter键，控制台应该报告 GetisLAA &gt;&gt; 2.0000</p>
 <ul>
