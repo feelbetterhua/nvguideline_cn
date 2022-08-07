@@ -1,4 +1,4 @@
-#### 首先请确保已完成[汉化前置](https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/utilities.md "汉化前置")并可以正常游戏
+#### 首先请确保已完成[汉化前置](https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/utilities.md "汉化前置")并可以正常进行游戏
 
 ------
 
@@ -58,7 +58,7 @@ Mod Organizer 2初始化配置：
 
 - 选择 自动封装包无效化(或自动档案无效化)
 
-即1、2项取消选择，只选择第3项，如下图所示：
+如下图所示：
 
 ![MO2profilesetting_pic](https://s1.ax1x.com/2020/07/23/UOzuCD.jpg "MO2profilesetting_pic")
 
@@ -66,7 +66,7 @@ Mod Organizer 2初始化配置：
 
 回到主界面，在右栏上方的下拉菜单选择 NVSE ，点击 运行 启动游戏
 
-**设置完成，之后都从Mod Organizer 2的NVSE进行游戏**
+**设置完成，之后都从Mod Organizer 2中的NVSE进行游戏**
 
 ## 二、Mod 安装
 

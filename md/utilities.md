@@ -1,29 +1,28 @@
 ### 一、安装设置
+
 #### 1.系统设置：
+
 **安装所有需要的Microsoft VC++ Redistributable Packages**(下载链接均来自微软官方)
 
 - Microsoft VC++ 2013
-
-  x86: [vc_redist.x86.exe](https://aka.ms/highdpimfc2013x86chs)
-
-  x64: [vc_redist.x64.exe](https://aka.ms/highdpimfc2013x64chs)
+	- x86: [vc_redist.x86.exe](https://aka.ms/highdpimfc2013x86chs)
+	- x64: [vc_redist.x64.exe](https://aka.ms/highdpimfc2013x64chs)
 
 - Microsoft VC++ 2015-2019 
-
-  x86: [vc_redist.x86.exe](https://aka.ms/vs/16/release/vc_redist.x86.exe)
-
-  x64: [vc_redist.x64.exe](https://aka.ms/vs/16/release/vc_redist.x64.exe)
+	- x86: [vc_redist.x86.exe](https://aka.ms/vs/16/release/vc_redist.x86.exe)
+	- x64: [vc_redist.x64.exe](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
 如果之前卸载过新维加斯，**请确保删除所有了游戏文件、相关存档并清除注册表残余**。如果使用Windows 10系统，请单独添加英语作为第二语言，并在游戏时确保切换到英语键盘。
 
 指南中使用到的常用目录：
+
 * 根文件夹(根目录)：_Steam/steamapps/common/Fallout New Vegas_ 或 _GOG Galaxy/Games/Fallout New Vegas_
 * Data文件夹：_Steam/steamapps/common/Fallout New Vegas/Data_ 或 _GOG Galaxy/Games/Fallout New Vegas/Data_
 
 #### 2.首次运行以初始化ini文件：
 **首次安装完成后，在Steam或GOG中启动游戏，等待其完成初始化设置**。完成后弹出Detecting Video Hardware的窗口，单击确定。之后弹出窗口提示程序根据你的硬件已设置画质，单击确定。
 
-*   如果没有任何弹出窗口，请导航到 _文档/My Games/FalloutNV_ 并删除以.INI结尾的所有文件，然后重新运行
+> 如果没有任何弹出窗口，请导航到 _文档/My Games/FalloutNV_ 并删除以.INI结尾的所有文件，然后重新运行
 
 选择Options，确认游戏检测到并正确使用你的GPU，并选择了合适画质**（不要选择最低画质）**。
 
@@ -36,7 +35,7 @@ https://pan.baidu.com/s/1CS-upRW02WvEyTZPipjkVA 提取码: 7miv
 
 双击汉化补丁进行安装，一路点击下一步。**在"选择目标位置"界面检查安装位置是否正确**。下一步时会弹出对话框提示目录已经存在，点击是即可。
 
-在"选择组件"界面中反选所有选项，或在下拉菜单中选择"简洁安装"，**只需要汉化必须文件**。点击下一步进行安装，安装完成后在最后界面选择"运行FNVTools设置游戏" ，结束后自动弹出FNVTools2.1
+在"选择组件"界面中反选所有选项，或在下拉菜单中选择"简洁安装"**(只需要汉化必须文件)**。点击下一步进行安装，安装完成后在最后界面选择"运行FNVTools设置游戏" ，结束后自动弹出FNVTools2.1
 
 点击FNVTools中的"INI设置和优化" ，进入INI设置和优化后在下方"切换INI字体设置" 一栏选择想要的字体(中文幼圆大字或中文宋体小字二选一)，点击会后弹出对话框，选择是，再点击确定。最后点击最下方的保存 ，然后关闭 FNVTools2.1。
 
@@ -46,8 +45,8 @@ https://pan.baidu.com/s/1JlGDAt0TlkvA1dmtYrdIHQ 提取码: s5x7
 
 将压缩包内的文件解压到根目录（文件来源于网络，没有GOG版无法验证是否起作用）
 
-> 汉化补丁使用了Steam版的exe文件并进行了修改，打上补丁的GOG版就相当于Steam版。
-天邈汉化使用原版exe文件，目前天邈插件尚不完善，**不推荐使用天邈与民间汉化混装的模式**。
+> 民间汉化补丁使用了Steam版的exe文件并进行了修改，打上补丁的GOG版就相当于Steam版。
+天邈汉化使用原版exe文件，目前天邈汉化尚不完善，推荐使用民间汉化。
 
 此时汉化已经完成，**直接点击根目录下的FalloutNV.exe进入游戏**，主界面和菜单应该都已汉化。
 
