@@ -2,8 +2,6 @@
 
 ##### v21.05 [更新日志](https://github.com/feelbetterhua/nvguideline_cn/blob/master/changelog.md "更新日志")
 
-------
-
 本指南旨在建立一种一站式的入门指导，目的是为获得现代化的新维加斯游戏体验。指南内容基于Viva New Vegas英文指南与个人Mod经验写成，根据中文玩家使用习惯做出调整。
 
 本指南推荐游戏版本为Steam或GOG的终极版，也就是全DLC的版本，汉化推荐Steam版。指南以纯操作指示的方式编写，只要按照顺序执行步骤即可。
