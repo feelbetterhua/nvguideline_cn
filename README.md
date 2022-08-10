@@ -11,7 +11,7 @@
 *   汉化前置：游戏本体的汉化及前置补丁安装，在现在运行新维加斯所必须的选项。本部分几乎没有改变任何游戏内容，如果你想体验最原生态的游戏，可以选择只安装这一部分。
 *   基础游戏：包含大量的修复及改善，包括Bug修复、纹理及模型修复及改善、基础系统改善，UI界面改善。虽然修正了一些良性错误，但仍然非常推荐所有玩家安装，提供全面汉化。
 
-### [汉化前置](https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/utilities.md "汉化前置")
+### [汉化前置](md/utilities.md "汉化前置")
 
 ### [基础游戏](https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/Base%20Game.md "基础游戏")
 
