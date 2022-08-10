@@ -1,4 +1,4 @@
-#### 首先请确保已完成[汉化前置](https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/utilities.md "汉化前置")并可以正常进行游戏
+#### 首先请确保已完成[汉化前置](utilities.md "汉化前置")并可以正常进行游戏
 
 ------
 
@@ -157,7 +157,7 @@ HUD+UI
 
 单击MO2顶部栏上的 工具 按钮 ![inieditor_pic](https://s1.ax1x.com/2020/08/01/aGhXHH.jpg "inieditor_pic") ，然后选择 INI编辑器
 
-导航到 falloutcustom.ini 选项卡，该选项卡中的内容应该与[汉化前置](https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/utilities.md "汉化前置")中的FalloutCustom.ini内容相同
+导航到 falloutcustom.ini 选项卡，该选项卡中的内容应该与[汉化前置](utilities.md "汉化前置")中的FalloutCustom.ini内容相同
 
 在最下方增加以下内容
 
@@ -174,7 +174,7 @@ HUD+UI
 
 安装完成，确定激活需要的Mod和插件并按顺序排序后，通过NVSE进行游戏
 
-按[汉化前置](https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/utilities.md "汉化前置")中的 最终测试 步骤进行验证
+按[汉化前置](utilities.md "汉化前置")中的 最终测试 步骤进行验证
 
 * * *
 

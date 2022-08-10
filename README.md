@@ -1,6 +1,6 @@
 # 现代化的新维加斯Mod指南
 
-##### v21.05 [更新日志](https://github.com/feelbetterhua/nvguideline_cn/blob/master/changelog.md "更新日志")
+##### v21.05 [更新日志](md/changelog.md "更新日志")
 
 本指南旨在建立一种一站式的入门指导，目的是为获得现代化的新维加斯游戏体验。指南内容基于Viva New Vegas英文指南与个人Mod经验写成，根据中文玩家使用习惯做出调整。
 
@@ -13,7 +13,7 @@
 
 ### [汉化前置](md/utilities.md "汉化前置")
 
-### [基础游戏](https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/Base%20Game.md "基础游戏")
+### [基础游戏](md/base_game.md "基础游戏")
 
 ------
 

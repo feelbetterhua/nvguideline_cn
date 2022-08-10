@@ -84,7 +84,7 @@ https://pan.baidu.com/s/1ltE-k_jax7W8GspFsJSSSw 提取码：mfnv
 - 显示Use AVX时，则将d3dx9_38.AVX重命名为d3dx9_38.dll
 - 显示Use SSE2时，则将d3dx9_38.SSE2重命名为d3dx9_38.dll
 
-> 个人制作的前置补丁包，包含必要前置及优化文件。具体内容详见 **[前置说明](https://github.com/feelbetterhua/nvguideline_cn/blob/master/mod_introduction.md "前置说明")**
+> 个人制作的前置补丁包，包含必要前置及优化文件。具体内容详见 **[前置说明](mod_introduction.md "前置说明")**
 
 **3.验证NVSE和4GBpatch是否正常运行：**
 
