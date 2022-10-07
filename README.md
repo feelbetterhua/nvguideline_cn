@@ -27,7 +27,7 @@
 
 ###### 材质指南 [TTW/New Vegas Texture Guide](https://salamand3r.fail/texture-guide "TTW/New Vegas Texture Guide")
 
-###### 设置翻译 [lStewieAl‘s Tweaks](https://github.com/feelbetterhua/nvguideline_cn/blob/master/md/nvse_stewie_tweaks.ini "设置翻译")
+###### 设置翻译 [lStewieAl‘s Tweaks](md/nvse_stewie_tweaks.ini "设置翻译")
 
 ###### [网盘下载](https://pan.baidu.com/s/1i64f52Zz490LBYWzsI8KdA "资源地址") 提取码：mfnv
 

@@ -54,7 +54,7 @@ https://pan.baidu.com/s/1JlGDAt0TlkvA1dmtYrdIHQ 提取码: s5x7
 
 ### 三、重要前置
 #### 1.FalloutCustom.ini优化
-https://pan.baidu.com/s/144Lja3qMQiuhmYZDM3_EFg 提取码：mfnv
+https://pan.baidu.com/s/1KdGpfPhqKWh2f3LvQrf7Tg 提取码：mfnv
 
 将压缩包内的文件解压至 *此电脑/文档/My Games/FalloutNV*，完成后导航到该目录打开FalloutCustom.ini，将iNumHWThreads=后的数字更改为CPU所具有的线程数并保存。
 
@@ -64,7 +64,7 @@ https://pan.baidu.com/s/144Lja3qMQiuhmYZDM3_EFg 提取码：mfnv
 
 **在安装前，请确保安装了所有需要的Microsoft VC++ Redistributable Packages(见第一步)**
 
-https://pan.baidu.com/s/1ltE-k_jax7W8GspFsJSSSw 提取码：mfnv
+https://pan.baidu.com/s/1j_DtPloXnU73Xu8pi_dxYg 提取码：mfnv
 
 将压缩包内的所有内容解压到根目录，在出现提示时选择覆盖。解压后nvse_loader.exe应该与FalloutNV.exe在同一目录，之后进行以下操作。
 
@@ -78,15 +78,9 @@ https://pan.baidu.com/s/1ltE-k_jax7W8GspFsJSSSw 提取码：mfnv
   
   导航到根目录，右键单击FalloutNVpatch.exe，选择"以管理员身份运行"。当弹出的窗口中显示 FalloutNV.exe patched! ，按键盘上的任意键退出。
 
-2.进入根目录，运行**cpu_info.exe**。如果弹出的界面中显示=> Use AVX2 <=，则无需改动。如果不是，则进行如下操作：
-
-- 首先将根目录下的d3dx9_38.dll文件删除
-- 显示Use AVX时，则将d3dx9_38.AVX重命名为d3dx9_38.dll
-- 显示Use SSE2时，则将d3dx9_38.SSE2重命名为d3dx9_38.dll
-
 > 个人制作的前置补丁包，包含必要前置及优化文件。具体内容详见 **[前置说明](mod_introduction.md "前置说明")**
 
-**3.验证NVSE和4GBpatch是否正常运行：**
+**2.验证NVSE和4GBpatch是否正常运行：**
 
 在根目录下双击nvse_loader.exe运行游戏。进入游戏主菜单后，按 ~ 键打开控制台
 
