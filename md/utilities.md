@@ -54,7 +54,7 @@ https://pan.baidu.com/s/1JlGDAt0TlkvA1dmtYrdIHQ 提取码: s5x7
 
 ### 三、重要前置
 #### 1.FalloutCustom.ini优化
-https://pan.baidu.com/s/1KdGpfPhqKWh2f3LvQrf7Tg 提取码：mfnv
+https://pan.baidu.com/s/1XgBa5ABGO2TKaU4fnd_Lxw 提取码：mfnv
 
 将压缩包内的文件解压至 *此电脑/文档/My Games/FalloutNV*，完成后导航到该目录打开FalloutCustom.ini，将iNumHWThreads=后的数字更改为CPU所具有的线程数并保存。
 
