@@ -64,7 +64,7 @@ https://pan.baidu.com/s/1KdGpfPhqKWh2f3LvQrf7Tg 提取码：mfnv
 
 **在安装前，请确保安装了所有需要的Microsoft VC++ Redistributable Packages(见第一步)**
 
-https://pan.baidu.com/s/1j_DtPloXnU73Xu8pi_dxYg 提取码：mfnv
+https://pan.baidu.com/s/1qHmXbgoS6C5kb1CxpTmpbQ 提取码：mfnv
 
 将压缩包内的所有内容解压到根目录，在出现提示时选择覆盖。解压后nvse_loader.exe应该与FalloutNV.exe在同一目录，之后进行以下操作。
 
