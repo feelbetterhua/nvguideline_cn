@@ -21,16 +21,13 @@ https://pan.baidu.com/s/12hwpAf9PqKQf8FWb3JV5Gg 提取码：mfnv
 Mod Organizer 2初始化配置：
 
 1. 从名为 Creating a new instance 的弹出窗口中，选择 **Creating a portable instance**
-
 2. 在下一页中，选择 **New Vegas**
 3. 在下一页中，保持 **Location** 文件路径为默认
 4. 在最后一页中，选择 **Finish**
 5. 弹出窗口 Show Tutorial? ，选择 No
-
 6. 弹出窗口 Register? ，选择 Yes
 
-
-配置完成，进入主界面，点击顶部的 配置设置和解决方案 按钮 ![MO2setting_pic](pic/MO2_setting.jpg "MO2setting_pic")
+配置完成，进入主界面，点击顶部的 配置设置和解决方案 按钮 <image src="pic/MO2_setting.jpg">
 
 在 General 选项卡下第一栏 Language 项选择 Chinese (simplified)，点击 OK 软件切换成中文
 
@@ -48,11 +45,11 @@ Mod Organizer 2初始化配置：
 
 按照下图中的顺序改变左栏和右栏中的顺序
 
-<img src="https://s1.ax1x.com/2020/07/23/UOjS4e.jpg" alt="loadorder_pic" title="loadorder_pic" style="zoom:80%;" />
+<image src="pic/MO2_defaultloadorder.jpg">
 
 - 如果是GOG版本，则右栏中可能存在FalloutNV_lang.esp，请导航到Data文件夹将其删除
 
-单击MO2顶部栏上的 配置档案 按钮 ![MO2profile_pic](https://s1.ax1x.com/2020/07/23/UOxi0P.jpg "MO2profile_pic")，单击 Default 配置文件，进行如下操作：
+单击MO2顶部栏上的 配置档案 按钮 <image src="pic/MO2_profile.jpg">，单击 Default 配置文件，进行如下操作：
 
 - 反选 使用档案专属的ini文件(或使用独立的游戏ini文件)，反选后会弹出窗口提示是否删除ini文件，选择 Yes 删除即可
 
@@ -60,7 +57,7 @@ Mod Organizer 2初始化配置：
 
 如下图所示：
 
-![MO2profilesetting_pic](https://s1.ax1x.com/2020/07/23/UOzuCD.jpg "MO2profilesetting_pic")
+<image src="pic/MO2_profilesetting.jpg">
 
 > 对于有Mod经验的玩家，如果你了解ini文件的使用原理，可以选择使用独立的游戏ini文件
 
@@ -70,7 +67,7 @@ Mod Organizer 2初始化配置：
 
 ## 二、Mod 安装
 
-打开Mod Organizer2，单击顶栏的按钮![install_pic](https://s1.ax1x.com/2020/08/01/aGy1D1.png "install_pic")，导航到下载好的Mod压缩包，双击选择它
+打开Mod Organizer2，单击顶栏的按钮 <image src="pic/MO2_install.png">，导航到下载好的Mod压缩包，双击选择它
 
 在弹出的窗口中确定Mod名称，一些Mod名称可能显示不全，在下拉菜单中更改或手动命名
 
@@ -155,7 +152,7 @@ HUD+UI
 
 #### INI编辑：
 
-单击MO2顶部栏上的 工具 按钮 ![inieditor_pic](https://s1.ax1x.com/2020/08/01/aGhXHH.jpg "inieditor_pic") ，然后选择 INI编辑器
+单击MO2顶部栏上的 工具 按钮 <image src="pic/MO2_inieditor.jpg">，然后选择 INI编辑器
 
 导航到 falloutcustom.ini 选项卡，该选项卡中的内容应该与[汉化前置](utilities.md "汉化前置")中的FalloutCustom.ini内容相同
 
