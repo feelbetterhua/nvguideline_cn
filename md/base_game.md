@@ -30,7 +30,7 @@ Mod Organizer 2初始化配置：
 6. 弹出窗口 Register? ，选择 Yes
 
 
-配置完成，进入主界面，点击顶部的 配置设置和解决方案 按钮 ![MO2setting_pic](https://s1.ax1x.com/2020/07/23/UOXh7T.jpg "MO2setting_pic")
+配置完成，进入主界面，点击顶部的 配置设置和解决方案 按钮 ![MO2setting_pic](pic/MO2_setting.jpg "MO2setting_pic")
 
 在 General 选项卡下第一栏 Language 项选择 Chinese (simplified)，点击 OK 软件切换成中文
 
