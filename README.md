@@ -14,6 +14,8 @@
 
 ### [Mod整合](md/base_game.md "Mod整合")
 
+#### 如果因网络问题无法正常浏览，请访问[Gitee分流](https://gitee.com/feelbetterhua/nvguideline_cn/ "gitee mirror")，该分流保持同步更新
+
 ------
 
 ### 相关链接
