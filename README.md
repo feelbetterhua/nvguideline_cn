@@ -2,7 +2,7 @@
 
 ##### v21.05 [更新日志](md/changelog.md "更新日志")
 
-这个指南集合了辐射：新维加斯最新Mod与优化方案，使得这款发售超过10年，却仍独一无二的作品能拥有更现代化的游戏体验。
+这个指南集合了辐射：新维加斯最新Mod与优化方案，使得这款发售超过10年的作品能拥有更现代化的游戏体验。
 
 本指南分为两个部分，第一部分仅包含汉化与性能优化，适用于想以最简便的方式体验原生游戏的玩家，同时也是第二部分的必选安装项。
 
@@ -14,7 +14,7 @@
 
 ### [Mod整合](md/base_game.md "Mod整合")
 
-#### 如果因网络问题无法正常浏览，请访问[Gitee分流](https://gitee.com/feelbetterhua/nvguideline_cn/ "gitee mirror")，该分流保持同步更新
+#### 如果因网络问题无法正常浏览，请访问[Gitee镜像](https://gitee.com/feelbetterhua/nvguideline_cn/ "gitee mirror")，该镜像保持同步更新
 
 ------
 
