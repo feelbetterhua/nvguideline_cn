@@ -88,44 +88,14 @@ Mod Organizer 2初始化配置：
 Mod Organizer 2安装后的Mod文件都存放在\MO2\mods 文件夹，因此理论上可以将其他人安装并配置好的Mod文件直接拷贝到该文件夹内。同时，Mod覆盖排序和插件加载排序文件存放在\MO2\profiles 下不同配置文件夹中，这样就可以在保证Mod文件一致的情况下，直接使用他人的排序文件，以实现快速的Mod列表分享。
 
 以下是我个人的制作的Mod整合，提供了(几乎)完整的汉化，并附带调整好的覆盖和插件排序。
-#### 基础游戏整合包：
 
-https://pan.baidu.com/s/1oHxqn27YB57DcBksjJnAhw 提取码：mfnv 
+解压Base Game.7z中的全部压缩包到\MO2\mods文件夹中，确保解压后的文件夹内如下图所示
 
-解压Base Game.7z中的全部压缩包到游戏根目录以外的位置
+MO2_mods
 
-通过Mod Organizer 2安装所有解压得到的Mod压缩包
+解压Base Game.7z中的全部压缩包到\MO2\profiles文件夹中，确保解压后profiles文件夹内包含MFNV文件夹
 
-按以下更改**覆盖顺序**：
-
-- Bug Fixes+QOL Improvements
-
-- HUD+UI
-
-按以下更改**加载顺序**：
-
-- **FalloutNV.esm**
-- **DeadMoney.esm**
-- **HonestHearts.esm**
-- **OldWorldBlues.esm**
-- **LonesomeRoad.esm**
-- **GunRunnersArsenal.esm**
-- **ClassicPack.esm**
-- **MercenaryPack.esm**
-- **TribalPack.esm**
-- **CaravanPack.esm**
-- **YUP - Base Game + All DLC.esm**
-- **Navmesh Fixes and Improvements.esm**
-- YUP - NPC Fixes (Base Game + All DLC).esp
-- Unofficial Patch NVSE Plus.esp
-- DisableMuzzleFlashLights.esp
-- The Mod Configuration Menu.esp
-- JIP Improved Recipe Menu.esp
-- Simple DLC Delay.esp
-- DarNifiedUINV.esp
-- JustAssortedMods.esp
-
-以下是整合版中使用的Mod及顺序：
+打开Mod Organizer 2，点击右上方档案旁的下拉框，在下拉框中选择MFNV，选择后左栏中应按照以下顺序进行排列并分类
 
 Bug Fixes+QOL Improvements
 
@@ -178,6 +148,4 @@ HUD+UI
 
 点击 保存，然后关闭INI编辑器
 
-安装完成，确定激活需要的Mod和插件并按顺序排序后，通过NVSE进行游戏
-
-按[汉化前置](utilities.md "汉化前置")中的 最终测试 步骤进行验证
+安装完成，运行游戏进行测试，游戏内应正常加载激活的Mod。
