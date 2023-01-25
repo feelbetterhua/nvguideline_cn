@@ -61,7 +61,9 @@ Mod Organizer 2初始化配置：
 
 > 对于有Mod经验的玩家，如果你了解ini文件的使用原理，可以选择使用独立的游戏ini文件
 
-回到主界面，在右栏上方的下拉菜单选择 NVSE ，点击 运行 启动游戏
+回到主界面，如果正确安装了[汉化前置](utilities.md "汉化前置")，则右栏上方应显示NVSE，如下图所示，点击 运行 启动游戏
+
+![MO2_shortcut](https://s1.ax1x.com/2023/01/22/pSJaE1P.jpg "MO2_shortcut")
 
 **设置完成，之后都从Mod Organizer 2中的NVSE进行游戏**
 
@@ -79,7 +81,7 @@ Mod Organizer 2初始化配置：
 
 在左栏中取消激活Mod右栏中对应的插件会自动消失，而只在右栏中取消激活插件Mod中的其他文件依旧会加载
 
-在左栏中拖动Mod以更改**覆盖顺序**，在右栏中拖动插件以更改**加载顺序**
+在左栏中拖动Mod以更改**文件覆盖顺序**，在右栏中拖动插件以更改**插件加载顺序**
 
 #### 2. Mod整合安装
 
@@ -89,53 +91,27 @@ Mod Organizer 2安装后的Mod文件都存放在\MO2\mods 文件夹，因此理�
 
 以下是我个人的制作的Mod整合，提供了(几乎)完整的汉化，并附带调整好的覆盖和插件排序。
 
-解压Base Game.7z中的全部压缩包到\MO2\mods文件夹中，确保解压后的文件夹内如下图所示
+https://pan.baidu.com/s/1f_ESFi5E303u-E9E5618qw 提取码：mfnv
 
-MO2_mods
+解压MFNV_mods和Texture_Base中的压缩包到\MO2\mods文件夹中，确保解压后mods文件夹内如下图所示
 
-解压Base Game.7z中的全部压缩包到\MO2\profiles文件夹中，确保解压后profiles文件夹内包含MFNV文件夹
+![MO2_mods](https://s1.ax1x.com/2023/01/22/pSJtocT.jpg "MO2_mods")
 
-打开Mod Organizer 2，点击右上方档案旁的下拉框，在下拉框中选择MFNV，选择后左栏中应按照以下顺序进行排列并分类
+解压MFNV_profiles.7z压缩包中的全部文件到\MO2\profiles文件夹中，打开Mod Organizer 2，右上方的下拉框中应有MFNV选项，如下图所示
 
-Bug Fixes+QOL Improvements
+![MO2_profiles](https://s1.ax1x.com/2023/01/22/pSJUGee.jpg "MO2_profiles")
 
-- [YUP - Base Game and All DLC-12.1-Chinese simplified](https://www.nexusmods.com/newvegas/mods/51664 "YUP")
+在下拉框中选择MFNV，选择后左栏中的Mod应该进行了排序并分类，如下图所示
 
-- [Navmesh Fixes and Improvements-0.2-Chinese simplified](https://www.nexusmods.com/newvegas/mods/62041 "Navmesh Fixes")
+![MO2_modlist](https://s1.ax1x.com/2023/01/22/pSJaGcV.jpg "MO2_modlist")
 
-- [Unofficial Patch NVSE Plus-1.2.8-Chinese simplified](https://www.nexusmods.com/newvegas/mods/71239 "Unofficial Patch NVSE Plus")
+####INI编辑：
 
-- [Collision Meshes FNV-1.6.4](https://www.nexusmods.com/newvegas/mods/59149 "Collision Meshes")
-
-- [Stewie Tweaks INI-6.30-Modified](https://www.nexusmods.com/newvegas/mods/66347 "Stewie Tweaks")
-
-- [No Muzzle Flash Lights-1.0](https://www.nexusmods.com/newvegas/mods/69038 "No Muzzle Flash Lights")
-
-HUD+UI
-
-- [UIO - User Interface Organizer-2.09](https://www.nexusmods.com/newvegas/mods/57174 "UIO")
-
-- [The Mod Configuration Menu-1.5-Chinese simplified](https://www.nexusmods.com/newvegas/mods/42507 "MCM")
-
-- [JIP Improved Recipe Menu-1.20](https://www.nexusmods.com/newvegas/mods/59638 "Improved Recipe Menu")
-
-- [Simple DLC Delay-2.1-Chinese simplified](https://www.nexusmods.com/newvegas/mods/62779 "Simple DLC Delay")
-
-- [DUINV-0.5-Chinese simplified](https://www.nexusmods.com/newvegas/mods/65459 "Darnified UI")
-
-- [Vanilla Hud Cleaned-0.38-modified](https://www.nexusmods.com/newvegas/mods/70001 "Vanilla Hud Cleaned")
-
-- [Vanilla HUD Remastered 4K-v1.83-modified](https://www.nexusmods.com/newvegas/mods/64102 "Vanilla HUD Remastered")
-
-- [Just Assorted Mods-3.2c-Chinese simplified](https://www.nexusmods.com/newvegas/mods/66666 "Just Assorted Mods")
-
-#### INI编辑：
-
-单击MO2顶部栏上的 工具 按钮 ![inieditor_pic](https://s1.ax1x.com/2020/08/01/aGhXHH.jpg "inieditor_pic")，然后选择 INI编辑器
+完成Mod整合安装后，单击MO2顶部栏上的 工具 按钮 ![inieditor_pic](https://s1.ax1x.com/2020/08/01/aGhXHH.jpg "inieditor_pic")，然后选择 INI编辑器
 
 导航到 falloutcustom.ini 选项卡，该选项卡中的内容应该与[汉化前置](utilities.md "汉化前置")中的FalloutCustom.ini内容相同
 
-在最下方增加以下内容
+在最下方**增加**以下内容
 
     [Menu]
     iConsoleFont=8
