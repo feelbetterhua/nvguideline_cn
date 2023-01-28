@@ -105,7 +105,7 @@ https://pan.baidu.com/s/1f_ESFi5E303u-E9E5618qw 提取码：mfnv
 
 ![MO2_modlist](https://s1.ax1x.com/2023/01/22/pSJaGcV.jpg "MO2_modlist")
 
-####INI编辑：
+#### INI编辑：
 
 完成Mod整合安装后，单击MO2顶部栏上的 工具 按钮 ![inieditor_pic](https://s1.ax1x.com/2020/08/01/aGhXHH.jpg "inieditor_pic")，然后选择 INI编辑器
 

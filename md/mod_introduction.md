@@ -26,6 +26,8 @@ However, due to some special circumstances, I would like to make a statement her
 
 [New Vegas Tick Fix](https://www.nexusmods.com/newvegas/mods/66537)
 
+[New Vegas Anti Crash](https://www.nexusmods.com/newvegas/mods/53635)
+
 [Mod Limit Fix](https://www.nexusmods.com/newvegas/mods/68714)
 
 [kNVSE Animation Plugin](https://www.nexusmods.com/newvegas/mods/71336)
@@ -36,147 +38,147 @@ However, due to some special circumstances, I would like to make a statement her
 
 Texture-Base
 
-- [Charges FNV HD Texture Packs]()
+- [Charges FNV HD Texture Packs](https://www.nexusmods.com/newvegas/mods/66368)
 - icon_CHS
 
 Utilities-addition
 
-- [AnhNVSE]()
-- [ShowOff NVSE]()
-- [ShowOff INI]()
-- [SUP NVSE Plugin]()
+- [AnhNVSE](https://www.nexusmods.com/newvegas/mods/74012)
+- [ShowOff NVSE](https://www.nexusmods.com/newvegas/mods/72541)
+- ShowOff INI
+- [SUP NVSE Plugin](https://www.nexusmods.com/newvegas/mods/73160)
 
 Bug Fixes
 
-- [YUP Base Game and All DLC]()
+- [YUP Base Game and All DLC](https://www.nexusmods.com/newvegas/mods/51664)
 - SC-YUP-12.4.1
-- [Unofficial Patch NVSE Plus]()
+- [Unofficial Patch NVSE Plus](https://www.nexusmods.com/newvegas/mods/71239)
 - CN-Unofficial Patch NVSE Plus-1.4.1
-- [Stewie Tweaks]()
-- [lStewieAl's Tweaks Custom INI]()
-- [ISControl ESPless FULL]()
-- [Vanilla Iron Sights Realligned-modded]()
-- [NVMIM]()
-- [Climate Control NVSE]()
-- [Elijah Voice Files Fix]()
-- [Pip Boy Shading Fix]()
-- [Pip-Boy Mesh Fix]()
-- [DiaMoveNVSE Patched]()
-- [Strip Performance Fix]()
+- [Stewie Tweaks](https://www.nexusmods.com/newvegas/mods/66347)
+- lStewieAl's Tweaks Custom INI
+- [ISControl ESPless FULL](https://www.nexusmods.com/newvegas/mods/75417)
+- [Vanilla Iron Sights Realligned-modded](https://www.nexusmods.com/newvegas/mods/77672)
+- [NVMIM](https://www.nexusmods.com/newvegas/mods/74295)
+- [Climate Control NVSE](https://www.nexusmods.com/newvegas/mods/77205)
+- [Elijah Voice Files Fix](https://www.nexusmods.com/newvegas/mods/73526)
+- [Pip Boy Shading Fix](https://www.nexusmods.com/newvegas/mods/77957)
+- [Pip-Boy Mesh Fix](https://www.nexusmods.com/newvegas/mods/78173)
+- [DiaMoveNVSE Patched](https://www.nexusmods.com/newvegas/mods/78534)
+- [Strip Performance Fix](https://www.nexusmods.com/newvegas/mods/78617)
 
 User Interface
 
-- [UIO User Interface Organizer]()
-- [The Mod Configuration Menu]()
-- [The MCM v1.5 汉化]()
-- [DUINVv04G]()
-- [High Res Local Maps]()
-- [High Resolution Screens]()
-- [JIP Improved Recipe Menu ESPless]()
+- [UIO User Interface Organizer](https://www.nexusmods.com/newvegas/mods/57174)
+- [The Mod Configuration Menu](https://www.nexusmods.com/newvegas/mods/42507)
+- The MCM v1.5 汉化
+- [DUINVv04G](https://www.moddb.com/mods/unofficial-darnified-ui-update/downloads/unofficial-darnified-ui-update-fnv1)
+- [High Res Local Maps](https://www.nexusmods.com/newvegas/mods/77963)
+- [High Resolution Screens](https://www.nexusmods.com/newvegas/mods/77989)
+- [JIP Improved Recipe Menu ESPless](https://www.nexusmods.com/newvegas/mods/75920)
 
 Gameplay
 
-- [Just Assorted Mods]()
+- [Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666)
 - CN-Just Assorted Mods-4.4
-- [NPCs Sprint In Combat]()
+- [NPCs Sprint In Combat](https://www.nexusmods.com/newvegas/mods/68179)
 - CN-NPCs Sprint In Combat-2.13
-- [Real Recoil]()
-- [Real Recoil Tweaks]()
-- [Delay DLC Redux]()
+- [Real Recoil](https://www.nexusmods.com/newvegas/mods/62153)
+- [Real Recoil Tweaks](https://www.nexusmods.com/newvegas/mods/79358)
+- [Delay DLC Redux](https://www.nexusmods.com/newvegas/mods/75851)
 - CN-Delay DLC Redux-1.5
 
 Overhauls
 
-- [JSawyer Ultimate Edition]()
+- [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592)
 - CN-JSawyer Ultimate Edition-5.4.1]()
-- [JSawyer Ultimate Edition Push's Tweaks]()
+- [JSawyer Ultimate Edition Push's Tweaks](https://www.nexusmods.com/newvegas/mods/61592)
 - CN-JSawyer Ultimate Edition Push's Tweaks-5.4.1
-- [Player Combat Priority]()
-- [Misc Gameplay Merge]()
+- [Player Combat Priority](https://www.nexusmods.com/newvegas/mods/71699)
+- [Misc Gameplay Merge](https://www.nexusmods.com/newvegas/mods/73921)
 - CN-Misc Gameplay Merge-2.0
-- [JSawyer Ultimate Edition Patch]()
+- JSawyer Ultimate Edition Patch
 - CN-JSawyer Ultimate Edition Patch-2.0
 
 Content
 
-- [Essential DLC Enhancements]()
+- [Essential DLC Enhancements](https://www.nexusmods.com/newvegas/mods/73803)
 - CN-Essential DLC Enhancements-1.2.2
-- [New Vegas Landscape Overhaul Re-Remastered]()
+- [New Vegas Landscape Overhaul Re-Remastered](https://www.nexusmods.com/newvegas/mods/74218)
 - CN-New Vegas Landscape Overhaul Re-Remastered-1.8a
-- [Enhanced Landscapes for NVLO]()
+- [Enhanced Landscapes for NVLO](https://www.nexusmods.com/newvegas/mods/69406)
 - CN-Enhanced Landscapes for NVLO-1.4.9
 
 Visuals
 
-- [EVE Essential Visual Enhancements]()
-- [EVE Grenade Lag Fix (default debris no shrub)]()
-- [EVE Laser and Plasma Death FX Lag Fix]()
-- [EVE Moveable Piles]()
+- [EVE Essential Visual Enhancements](https://www.nexusmods.com/newvegas/mods/42666)
+- EVE Grenade Lag Fix (default debris no shrub)
+- EVE Laser and Plasma Death FX Lag Fix
+- EVE Moveable Piles
 - CN-EVE v1.19
-- [EVE JIP Ash Pile Tweaks]()
+- [EVE JIP Ash Pile Tweaks](https://www.nexusmods.com/newvegas/mods/64229)
 - CN-EVE JIP Ash Pile Tweaks 1.8
-- [IMPACT The Gaming Rig]()
-- [IMPACT]()
+- [IMPACT The Gaming Rig](https://www.nexusmods.com/newvegas/mods/57113)
+- [IMPACT](https://www.nexusmods.com/newvegas/mods/62050)
 - CN-IMPACT-1.12
-- [Anniversary Anim Pack]()
-- [Bonus Patch]()
-- [AnniAnimPack_BugFix 1.3]()
-- [B42 Inertia]()
-- [B42 Inertia INI]()
-- [NVCS Vanilla Weights]()
-- [Improved LOD noise Texture]()
-- [Simple Interior Lighting Overhaul]()
-- [Desert Natural Weathers NV]()
+- [Anniversary Anim Pack](https://www.nexusmods.com/newvegas/mods/70158)
+- Bonus Patch
+- [AnniAnimPack_BugFix 1.3](https://www.nexusmods.com/newvegas/mods/72320)
+- [B42 Inertia](https://www.nexusmods.com/newvegas/mods/64335)
+- B42 Inertia INI
+- [NVCS Vanilla Weights](https://www.nexusmods.com/newvegas/mods/68776)
+- [Improved LOD noise Texture](https://www.nexusmods.com/newvegas/mods/46451)
+- [Simple Interior Lighting Overhaul](https://www.nexusmods.com/newvegas/mods/71390)
+- [Desert Natural Weathers NV](https://www.nexusmods.com/newvegas/mods/75437)
 - CN-Desert Natural Weathers NV-5.8.5
-- [Restore Old Ambient Coloring]()
-- [SkyGrainFix 1.0 NOT-LITE]()
-- [High Resolution Bloom]()
-- [No Muzzle Flash Lights]()
-- [Faster Pip-Boy Animation (2x)]()
-- [MoonlightNVSE]()
-- [ShaderPackage]()
+- Restore Old Ambient Coloring
+- SkyGrainFix 1.0 NOT-LITE
+- [High Resolution Bloom](https://www.nexusmods.com/newvegas/mods/77933)
+- [No Muzzle Flash Lights](https://www.nexusmods.com/newvegas/mods/77781)
+- [Faster Pip-Boy Animation (2x)](https://www.nexusmods.com/newvegas/mods/67761)
+- [MoonlightNVSE](https://www.nexusmods.com/newvegas/mods/77683)
+- [ShaderPackage](https://www.nexusmods.com/newvegas/mods/69135)
 
 Textures-Weapon
 
-- [Simplified Weapon Retexture Project]()
-- [Hit 9mm SMG Anim Sets SWRP WRP patch]()
-- [Hit Bozar SWRP WRP patch]()
-- [Simplified Weapon Retexture Project GRA Hunting Revolver Texture Fix Script]()
-- [gun]()
-- [WAP Year One and Bonus Scripted]()
-- [WAP Compatibility Patch (GRA merged)]()
-- [WAP Bozar and LMG Main file]()
-- [2K FNV Menu and Loading Screens]()
-- [2K FNV Worldmaps]()
+- [Simplified Weapon Retexture Project](https://www.nexusmods.com/newvegas/mods/73675)
+- [Hit 9mm SMG Anim Sets SWRP WRP patch](https://www.nexusmods.com/newvegas/mods/76301)
+- [Hit Bozar SWRP WRP patch](https://www.nexusmods.com/newvegas/mods/76301)
+- [Simplified Weapon Retexture Project GRA Hunting Revolver Texture Fix Script](https://www.nexusmods.com/newvegas/mods/76301)
+- [gun](https://www.nexusmods.com/newvegas/mods/76301)
+- [WAP Year One and Bonus Scripted](https://www.nexusmods.com/newvegas/mods/78140)
+- [WAP Compatibility Patch (GRA merged)](https://www.nexusmods.com/newvegas/mods/78140)
+- [WAP Bozar and LMG Main file](https://www.nexusmods.com/newvegas/mods/78140)
+- [2K FNV Menu and Loading Screens](https://www.nexusmods.com/newvegas/mods/76605)
+- [2K FNV Worldmaps](https://www.nexusmods.com/newvegas/mods/76605)
 
 Animation
 
-- [Hit's Anims Season 1]()
-- [Hit's Anims Season 1 Cowbow Addon]()
-- [Hit's Anims Season 2]()
-- [Hit's Anims Season 3]()
-- [Hit's Anims Animation Fixes]()
-- [Hit's Anims Assorted Vanilla Patches]()
-- [Unarmed Animations 1.00]()
-- [New Sprint animations for JAM]()
-- [Butcher Pete A Melee Animation Overhaul (Part 1)]()
-- [2. Butcher Pete A Melee Animation Overhaul (Part 2 and No Loco)]()
-- [Hit Locomotion]()
+- [Hit's Anims Season 1](https://www.nexusmods.com/newvegas/mods/73856)
+- [Hit's Anims Season 1 Cowbow Addon](https://www.nexusmods.com/newvegas/mods/73856)
+- [Hit's Anims Season 2](https://www.nexusmods.com/newvegas/mods/75208)
+- [Hit's Anims Season 3](https://www.nexusmods.com/newvegas/mods/76843)
+- [Hit's Anims Animation Fixes](https://www.nexusmods.com/newvegas/mods/76457)
+- [Hit's Anims Assorted Vanilla Patches](https://www.nexusmods.com/newvegas/mods/76413)
+- [Unarmed Animations 1.00](https://www.nexusmods.com/newvegas/mods/75909)
+- [New Sprint animations for JAM](https://www.nexusmods.com/newvegas/mods/74839)
+- [Butcher Pete A Melee Animation Overhaul (Part 1)](https://www.nexusmods.com/newvegas/mods/76055)
+- [2. Butcher Pete A Melee Animation Overhaul (Part 2 and No Loco)](https://www.nexusmods.com/newvegas/mods/77177)
+- [Hit Locomotion](https://www.nexusmods.com/newvegas/mods/76097)
 
 NPC
 
-- [Improved Vanilla Male Body]()
-- [091 2k Body]()
-- [Fallout Character Overhaul]()
-- [NVR3R New Vegas Redesigned 3 Revised]()
-- [NVR3R Stripped ESM]()
+- [Improved Vanilla Male Body](https://www.nexusmods.com/newvegas/mods/70160)
+- [091 2k Body](https://www.nexusmods.com/newvegas/mods/70160)
+- [Fallout Character Overhaul](https://www.nexusmods.com/newvegas/mods/54460)
+- [NVR3R New Vegas Redesigned 3 Revised](https://www.nexusmods.com/newvegas/mods/72951)
+- [NVR3R Stripped ESM](https://www.nexusmods.com/newvegas/mods/72951)
 - CN-NVR3-plugins-1.3.13
 - CN-NVR3R Stripped ESM-1.3.11
-- [01 Natural Eyes No shadow]()
-- [T4 NVR3]()
-- [T4 Main]()
+- [01 Natural Eyes No shadow](https://www.nexusmods.com/newvegas/mods/62811)
+- [T4 NVR3](https://www.nexusmods.com/newvegas/mods/68424)
+- [T4 Main](https://www.nexusmods.com/newvegas/mods/66903)
 - CN-T4-Main-2.d
-- [TYPE4 Patches]()
+- [TYPE4 Patches](https://www.nexusmods.com/newvegas/mods/74893)
 - CN-TYPE4 Patches-1.4.3
-- [More Modest T4 Main]()
+- [More Modest T4 Main](https://www.nexusmods.com/newvegas/mods/69642)
 - CN-More Modest T4-2.4
