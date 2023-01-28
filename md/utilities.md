@@ -46,7 +46,6 @@ https://pan.baidu.com/s/1JlGDAt0TlkvA1dmtYrdIHQ 提取码: s5x7
 将压缩包内的文件解压到根目录（文件来源于网络，没有GOG版无法验证是否起作用）
 
 > 民间汉化补丁使用了Steam版的exe文件并进行了修改，打上补丁的GOG版就相当于Steam版。
-天邈汉化使用原版exe文件，目前天邈汉化尚不完善，推荐使用民间汉化。
 
 此时汉化已经完成，**直接点击根目录下的FalloutNV.exe进入游戏**，主界面和菜单应该都已汉化。
 
@@ -58,7 +57,7 @@ https://pan.baidu.com/s/1XgBa5ABGO2TKaU4fnd_Lxw 提取码：mfnv
 
 将压缩包内的文件解压至 *此电脑/文档/My Games/FalloutNV*，完成后导航到该目录打开FalloutCustom.ini，将iNumHWThreads=后的数字更改为CPU所具有的线程数并保存。
 
-> 如果不知道CPU所具有的线程数，可以打开同目录下的RendererInfo.txt ，查看HW Thread Count后面的数字
+> 如果不知道CPU所具有的线程数，打开同目录下的RendererInfo.txt ，查看HW Thread Count后面的数字
 
 #### 2.前置补丁包
 
@@ -95,7 +94,3 @@ https://pan.baidu.com/s/1qHmXbgoS6C5kb1CxpTmpbQ 提取码：mfnv
 
 > 使用民间汉化后，运行游戏不再需要强制打开Steam，如果需要成就请提前打开平台
 通过Steam或GOG验证游戏文件完整性可以恢复原版exe文件，但会撤消4GBpatch补丁
-
-------
-
-以上是基础汉化的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到现代化的新维加斯体验。

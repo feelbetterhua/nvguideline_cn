@@ -1,27 +1,26 @@
 # 现代化的新维加斯Mod指南
 
-##### v21.05 [更新日志](md/changelog.md "更新日志")
+##### v23.01 [更新日志](md/changelog.md "更新日志")
 
-本指南旨在建立一种一站式的入门指导，目的是为获得现代化的新维加斯游戏体验。指南内容基于Viva New Vegas英文指南与个人Mod经验写成，根据中文玩家使用习惯做出调整。
+指南分为两个部分，第一部分仅包含汉化与性能优化，以最简便的方式体验原始游戏，同时也是第二部分的必选安装项。
 
-本指南推荐游戏版本为Steam或GOG的终极版，也就是全DLC的版本，汉化推荐Steam版。指南以纯操作指示的方式编写，只要按照顺序执行步骤即可。
+第二部分是建立在Mod Organzier 2上的Mod整合，提供了相对完整的汉化。选择的Mod都属于对原始游戏的增强，保持原生风格。
 
-该指南分为以下几个部分，可以根据不同情况选择安装，其中**汉化前置为必须安装项**：
-
-*   汉化前置：游戏本体的汉化及前置补丁安装，在现在运行新维加斯所必须的选项。本部分几乎没有改变任何游戏内容，如果你想体验最原生态的游戏，可以选择只安装这一部分。
-*   基础游戏：包含大量的修复及改善，包括Bug修复、纹理及模型修复及改善、基础系统改善，UI界面改善。虽然修正了一些良性错误，但仍然非常推荐所有玩家安装，提供全面汉化。
+本指南适用于终极版游戏，也就是全DLC的版本，推荐Steam版。
 
 ### [汉化前置](md/utilities.md "汉化前置")
 
-### [基础游戏](md/base_game.md "基础游戏")
+### [Mod整合](md/base_game.md "Mod整合")
+
+#### 因网络问题无法正常浏览，访问[Gitee镜像](https://gitee.com/feelbetterhua/nvguideline_cn/ "gitee mirror")，该镜像保持同步更新
 
 ------
 
 ### 相关链接
 
-###### Mod指南 [Viva New Vegas](https://vivanewvegas.github.io/ "Viva New Vegas")
+###### Mod网站 [Nexus Mods](https://www.nexusmods.com/newvegas "Nexus Mods") | [Mod DB](https://www.moddb.com/games/fallout-new-vegas/mods "Mod DB") | [Gaming Underground Network](https://www.gunetwork.org/t16122-mod-master-thread-v2 "Gaming Underground Network")
 
-###### Mod指南 [Wasteland Survival Guide](https://wastelandsurvivalguide.com/index.html "Wasteland Survival Guide")
+###### Mod指南 [Viva New Vegas](https://vivanewvegas.github.io/ "Viva New Vegas") | [Wasteland Survival Guide](https://wastelandsurvivalguide.com/index.html "Wasteland Survival Guide") | [游骑兵指南](https://zhuanlan.zhihu.com/p/574181412 "游骑兵指南")
 
 ###### 性能指南 [Flipping Flip](https://wallsogb.github.io/FalloutNV-Performance-Guide/ "Flipping Flip")
 
@@ -35,4 +34,5 @@
 
 ------
 
-**免责声明**： 该指南中考虑到中国玩家使用环境及习惯，制作了汉化及整合包。由于涉及Mod数量较多，无法一一取得分流及汉化许可。故在此声明，Mod版权归各自作者所有，本指南分流及汉化的Mod仅为交流使用，不用做任何营利性目的。在尽量争取更多Mod作者同意的同时，附上了Mod原地址，希望有条件的玩家可以支持原作者。
+### [一些其他说明](md/mod_introduction.md "关于整合及版权的相关说明")
+

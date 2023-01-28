@@ -21,14 +21,11 @@ https://pan.baidu.com/s/12hwpAf9PqKQf8FWb3JV5Gg 提取码：mfnv
 Mod Organizer 2初始化配置：
 
 1. 从名为 Creating a new instance 的弹出窗口中，选择 **Creating a portable instance**
-
 2. 在下一页中，选择 **New Vegas**
 3. 在下一页中，保持 **Location** 文件路径为默认
 4. 在最后一页中，选择 **Finish**
 5. 弹出窗口 Show Tutorial? ，选择 No
-
 6. 弹出窗口 Register? ，选择 Yes
-
 
 配置完成，进入主界面，点击顶部的 配置设置和解决方案 按钮 ![MO2setting_pic](https://s1.ax1x.com/2020/07/23/UOXh7T.jpg "MO2setting_pic")
 
@@ -48,7 +45,7 @@ Mod Organizer 2初始化配置：
 
 按照下图中的顺序改变左栏和右栏中的顺序
 
-<img src="https://s1.ax1x.com/2020/07/23/UOjS4e.jpg" alt="loadorder_pic" title="loadorder_pic" style="zoom:80%;" />
+![loadorder_pic](https://s1.ax1x.com/2020/07/23/UOjS4e.jpg "loadorder_pic")
 
 - 如果是GOG版本，则右栏中可能存在FalloutNV_lang.esp，请导航到Data文件夹将其删除
 
@@ -64,13 +61,17 @@ Mod Organizer 2初始化配置：
 
 > 对于有Mod经验的玩家，如果你了解ini文件的使用原理，可以选择使用独立的游戏ini文件
 
-回到主界面，在右栏上方的下拉菜单选择 NVSE ，点击 运行 启动游戏
+回到主界面，如果正确安装了[汉化前置](utilities.md "汉化前置")，则右栏上方应显示NVSE，如下图所示，点击 运行 启动游戏
+
+![MO2_shortcut](https://s1.ax1x.com/2023/01/22/pSJaE1P.jpg "MO2_shortcut")
 
 **设置完成，之后都从Mod Organizer 2中的NVSE进行游戏**
 
 ## 二、Mod 安装
 
-打开Mod Organizer2，单击顶栏的按钮![install_pic](https://s1.ax1x.com/2020/08/01/aGy1D1.png "install_pic")，导航到下载好的Mod压缩包，双击选择它
+#### 1. 单个Mod安装
+
+打开Mod Organizer 2，单击顶栏的按钮 ![install_pic](https://s1.ax1x.com/2020/08/01/aGy1D1.png "install_pic")，导航到下载好的Mod压缩包，双击选择它
 
 在弹出的窗口中确定Mod名称，一些Mod名称可能显示不全，在下拉菜单中更改或手动命名
 
@@ -80,86 +81,37 @@ Mod Organizer 2初始化配置：
 
 在左栏中取消激活Mod右栏中对应的插件会自动消失，而只在右栏中取消激活插件Mod中的其他文件依旧会加载
 
-在左栏中拖动Mod以更改**覆盖顺序**，在右栏中拖动插件以更改**加载顺序**
+在左栏中拖动Mod以更改**文件覆盖顺序**，在右栏中拖动插件以更改**插件加载顺序**
 
-#### 基础游戏整合包：
+#### 2. Mod整合安装
 
-https://pan.baidu.com/s/1oHxqn27YB57DcBksjJnAhw 提取码：mfnv 
+> 注意：此方法目前并不是MO2的正式用法，可能存在问题
 
-解压Base Game.7z中的全部压缩包到游戏根目录以外的位置
+Mod Organizer 2安装后的Mod文件都存放在\MO2\mods 文件夹，因此理论上可以将其他人安装并配置好的Mod文件直接拷贝到该文件夹内。同时，Mod覆盖排序和插件加载排序文件存放在\MO2\profiles 下不同配置文件夹中，这样就可以在保证Mod文件一致的情况下，直接使用他人的排序文件，以实现快速的Mod列表分享。
 
-通过Mod Organizer 2安装所有解压得到的Mod压缩包
+以下是我个人的制作的Mod整合，提供了(几乎)完整的汉化，并附带调整好的覆盖和插件排序。
 
-按以下更改**覆盖顺序**：
+https://pan.baidu.com/s/1f_ESFi5E303u-E9E5618qw 提取码：mfnv
 
-- Bug Fixes+QOL Improvements
+解压MFNV_mods和Texture_Base中的压缩包到\MO2\mods文件夹中，确保解压后mods文件夹内如下图所示
 
-- HUD+UI
+![MO2_mods](https://s1.ax1x.com/2023/01/22/pSJtocT.jpg "MO2_mods")
 
-按以下更改**加载顺序**：
+解压MFNV_profiles.7z压缩包中的全部文件到\MO2\profiles文件夹中，打开Mod Organizer 2，右上方的下拉框中应有MFNV选项，如下图所示
 
-- **FalloutNV.esm**
-- **DeadMoney.esm**
-- **HonestHearts.esm**
-- **OldWorldBlues.esm**
-- **LonesomeRoad.esm**
-- **GunRunnersArsenal.esm**
-- **ClassicPack.esm**
-- **MercenaryPack.esm**
-- **TribalPack.esm**
-- **CaravanPack.esm**
-- **YUP - Base Game + All DLC.esm**
-- **Navmesh Fixes and Improvements.esm**
-- YUP - NPC Fixes (Base Game + All DLC).esp
-- Unofficial Patch NVSE Plus.esp
-- DisableMuzzleFlashLights.esp
-- The Mod Configuration Menu.esp
-- JIP Improved Recipe Menu.esp
-- Simple DLC Delay.esp
-- DarNifiedUINV.esp
-- JustAssortedMods.esp
+![MO2_profiles](https://s1.ax1x.com/2023/01/22/pSJUGee.jpg "MO2_profiles")
 
-以下是整合版中使用的Mod及顺序：
+在下拉框中选择MFNV，选择后左栏中的Mod应该进行了排序并分类，如下图所示
 
-Bug Fixes+QOL Improvements
-
-- [YUP - Base Game and All DLC-12.1-Chinese simplified](https://www.nexusmods.com/newvegas/mods/51664 "YUP")
-
-- [Navmesh Fixes and Improvements-0.2-Chinese simplified](https://www.nexusmods.com/newvegas/mods/62041 "Navmesh Fixes")
-
-- [Unofficial Patch NVSE Plus-1.2.8-Chinese simplified](https://www.nexusmods.com/newvegas/mods/71239 "Unofficial Patch NVSE Plus")
-
-- [Collision Meshes FNV-1.6.4](https://www.nexusmods.com/newvegas/mods/59149 "Collision Meshes")
-
-- [Stewie Tweaks INI-6.30-Modified](https://www.nexusmods.com/newvegas/mods/66347 "Stewie Tweaks")
-
-- [No Muzzle Flash Lights-1.0](https://www.nexusmods.com/newvegas/mods/69038 "No Muzzle Flash Lights")
-
-HUD+UI
-
-- [UIO - User Interface Organizer-2.09](https://www.nexusmods.com/newvegas/mods/57174 "UIO")
-
-- [The Mod Configuration Menu-1.5-Chinese simplified](https://www.nexusmods.com/newvegas/mods/42507 "MCM")
-
-- [JIP Improved Recipe Menu-1.20](https://www.nexusmods.com/newvegas/mods/59638 "Improved Recipe Menu")
-
-- [Simple DLC Delay-2.1-Chinese simplified](https://www.nexusmods.com/newvegas/mods/62779 "Simple DLC Delay")
-
-- [DUINV-0.5-Chinese simplified](https://www.nexusmods.com/newvegas/mods/65459 "Darnified UI")
-
-- [Vanilla Hud Cleaned-0.38-modified](https://www.nexusmods.com/newvegas/mods/70001 "Vanilla Hud Cleaned")
-
-- [Vanilla HUD Remastered 4K-v1.83-modified](https://www.nexusmods.com/newvegas/mods/64102 "Vanilla HUD Remastered")
-
-- [Just Assorted Mods-3.2c-Chinese simplified](https://www.nexusmods.com/newvegas/mods/66666 "Just Assorted Mods")
+![MO2_modlist](https://s1.ax1x.com/2023/01/22/pSJaGcV.jpg "MO2_modlist")
 
 #### INI编辑：
 
-单击MO2顶部栏上的 工具 按钮 ![inieditor_pic](https://s1.ax1x.com/2020/08/01/aGhXHH.jpg "inieditor_pic") ，然后选择 INI编辑器
+完成Mod整合安装后，单击MO2顶部栏上的 工具 按钮 ![inieditor_pic](https://s1.ax1x.com/2020/08/01/aGhXHH.jpg "inieditor_pic")，然后选择 INI编辑器
 
 导航到 falloutcustom.ini 选项卡，该选项卡中的内容应该与[汉化前置](utilities.md "汉化前置")中的FalloutCustom.ini内容相同
 
-在最下方增加以下内容
+在最下方**增加**以下内容
 
     [Menu]
     iConsoleFont=8
@@ -172,10 +124,4 @@ HUD+UI
 
 点击 保存，然后关闭INI编辑器
 
-安装完成，确定激活需要的Mod和插件并按顺序排序后，通过NVSE进行游戏
-
-按[汉化前置](utilities.md "汉化前置")中的 最终测试 步骤进行验证
-
-* * *
-
-以上是基础游戏的全部内容，欢迎各位回复讨论问题或补充方法。如果你在阅读或使用完本指南后觉得不错，可以帮忙扩散本指南，让更多的人享受到现代化的新维加斯体验。
+安装完成，运行游戏进行测试，游戏内应正常加载激活的Mod。
