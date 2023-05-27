@@ -1,16 +1,16 @@
 ## 关于整合及版权的一些说明
 
-一开始，这个指南的形式是想做成中文版Viva New Vegas。但考虑到中文社区的情况，以及想要尽可能推广这款游戏的目的，整合的形式是最有效的。然而这样就意味着破坏了mod社区的规则，因为这个指南内涉及到的Mod，其作者很多都已经明确拒绝了分流或整合。即使不拒绝，征得所有作者同意也是一件非常困难的事。
+一开始，这个指南的形式是想做成中文版Viva New Vegas。但考虑到中文社区的情况，以及想要尽可能推广这款游戏的目的，我选择了制作整合包这一形式。然而这样就意味着破坏了mod社区的规则，因为这个指南内涉及到的Mod，很多作者都已经明确拒绝了分流或整合。即使不拒绝，征得所有作者同意也是一件非常困难的事。后来，当我考虑转换成单纯Mod指引的形式时，发现已经有其他人完成了这项工作，且完成的质量很高。
 
-因此，现在本指南的写作形式转变成以自用为目的，只是同时任何人都可以看到(我也确实把它当作每次重新开始游戏的一个起点)。我本人也已经停止在其他场合公开宣传该指南，希望这样能把对mod社区规则的影响降到最小。当然如果你觉得这个指南写的还不错，也可以以分享的形式告诉给其他人。我在下面附上了所有mod的原址，希望有条件的玩家可以支持原作者。
+我自己也确实会在每次重新开始游戏时使用该指南，考虑到其他一些人可能也在这么使用，因此现在我在保留整合的基础上，更多的想把它做成自用Mod和经验分享的形式。我已经停止在其他场合公开宣传该指南，希望这样能把对mod社区规则的影响降到最小。当然如果你觉得这个指南有所帮助，也可以以分享的形式告诉给其他人。我在下面附上了所有mod的原址，也希望有条件的玩家可以支持原作者。
 
-但是，出于一些特殊情况，本人还是在此声明：该指南为了使用方便，对他人mod进行了分流、汉化及整合。对相关mod的分享仅为交流使用，不用做任何营利性目的。如果本指南中的任何行为对你造成了侵权，请联系我删除。
+本人在此声明：该指南为了使用方便，对他人mod进行了分流、汉化及整合。对相关mod的分享仅为交流使用，不用做任何营利性目的。如果本指南中的任何内容对你造成了侵权，请联系我删除。
 
 At the beginning, this guide was intended to be made into a Chinese version of Viva New Vegas. However, considering the situation of the Chinese community and the purpose of promoting the game as much as possible, making integration is the most effective form. But this means breaking the rules of the mod community, because many of the authors of the mod involved in this guide have explicitly rejected re-upload or modification. Even if it could be allowed, it would be very difficult to get the consent of all authors. 
 
 Therefore, the writing form of this guide has changed to self-use, but at the same time, anyone can see it(I do use it as a starting point for every game restart). I have also stopped publicizing the guide on other occasions. Hopefully, this will minimize the impact on the mod community rules. Of course, if you think this guide is well written, you can share it with others.I have attached the original links of all mods below for that someone can support the authors.
 
-However, due to some special circumstances, I would like to make a statement here: this guide re-uploaded, modified and integrated others' mods for the convenience of usage. The sharing of related mods is only for communication and is not intended for any profit. If anything in this guide infringes on your rights, please contact me to remove it.
+I would like to make a statement here: this guide re-uploaded, modified and integrated others' mods for the convenience of usage. The sharing of related mods is only for communication and is not intended for any profit. If anything in this guide infringes on your rights, please contact me to remove it.
 
 ## 汉化前置
 
